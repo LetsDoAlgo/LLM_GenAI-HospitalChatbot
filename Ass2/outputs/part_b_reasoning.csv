@@ -1,0 +1,9 @@
+qid,pattern,score,tokens,latency,answer
+q5,zero_shot,1,56,0.95,The WHO weight-band dosing of isoniazid and rifampicin is not recommended for patients with pulmonary TB.
+q5,cot,1,95,1.33,"The patient's weight-band dosing of isoniazid and rifampicin is a simple, inexpensive, and effective way to guide the dose of these drugs."
+q5,tot,1,318,6.83,"""Rifampicin should be prescribed in a dose of 10 mg / kg / day and isoniazid in a dose of 5 mg / kg / day."""
+q5,self_consistency,0,699,20.5,< 2 l of rifampicin should be given to a patient weighing 45 kg who responds wel
+q8,zero_shot,0,55,0.79,The recommended pediatric TB dose of pyrazinamide is 35 mg / kg once daily.
+q8,cot,0,318,11.47,'The child weighs 14 kg. The child weighs 14 kg. The child weighs 14 kg. The child weighs 14 kg. The child weighs 14 kg. The child weighs 14
+q8,tot,0,551,18.29,the clinical trial data show that the WHO-recommended dose is effective in treating TB and at least as effective as the pediatric standard (
+q8,self_consistency,0,402,5.56,we do not use who recommendations to guide clinical decision-making and to provi

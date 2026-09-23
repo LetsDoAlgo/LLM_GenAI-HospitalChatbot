@@ -1,0 +1,3 @@
+strategy,mean_acc,mean_tok,mean_lat,acc_per_1k_tok
+always_zero_shot,0.4,67.6,1.852,5.917
+router,0.4,402.2,6.607,0.995

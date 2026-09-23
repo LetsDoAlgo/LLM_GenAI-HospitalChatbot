@@ -1,0 +1,51 @@
+qid,pattern,score,tokens,latency,answer
+q1,zero_shot,1,40,0.682,The combination of isoniazid and rifampicin is the preferred first-line regimen.
+q1,few_shot,2,193,1.618,"The recommended first-line treatment regimen for drug-susceptible pulmonary tuberculosis in adults is isoniazid, rifampicin, pyrazinamide, and ethambutol."
+q1,instruction,0,101,0.856,The first-line regimen for drug-susceptible pulmonary tuberculosis in adults?
+q1,self_critique,2,571,8.556,"For drug-susceptible pulmonary TB in adults, use 2 months of isoniazid + rifampicin + pyrazinamide + ethambutol, followed by 4 months of isoniazid + rifampicin."
+q1,function_calling,0,481,8.547,"{""entity"": null, ""value"": 1962.0, ""unit"": null, ""source_clause"": ""PARSE_FAILURE: * The term \""drug\"" has been used to describe drugs that have been approved by the FDA as part of new TB regimens since"
+q2,zero_shot,0,50,1.088,The WHO preferred first-line ART regimen is not recommended for adults living with HIV in the WHO South-East Asia Region.
+q2,few_shot,0,362,9.526,WHO recommends a single-dose of ART (tenofovir disoproxil fumarate / emtricitabine) for prevention of mother-to-child transmission of HIV. WHO recommends a single-dose of ART (tenofovir disoproxil fum
+q2,instruction,0,100,0.838,The WHO preferred first-line ART regimen for adults living with HIV?
+q2,self_critique,0,665,12.472,The WHO preferred first-line ART regimen is not recommended for adults living with HIV in the WHO South-East Asia Region.
+q2,function_calling,0,426,6.295,"{""entity"": null, ""value"": null, ""unit"": null, ""source_clause"": ""PARSE_FAILURE: ... \""The answer to this question should be given as a single sentence in the title of the article. If you have been aske"
+q3,zero_shot,1,65,1.478,"The patient is on a regimen of tenofovir disoproxil fumarate (TDF), emtricitabine (FTC), and efavirenz (EFV)."
+q3,few_shot,1,370,9.44,"The patient is on ART and has a CD4 count of 482 cells / µL. She is on a regimen of tenofovir, lamivudine, efavirenz, and emtricitabine. She is on a regimen of efavirenz, tenofovir, lamivudine, efavir"
+q3,instruction,1,125,1.535,"The patient is on a regimen of tenofovir disoproxil fumarate (TDF), emtricitabine (FTC) and efavirenz (EFV)."
+q3,self_critique,0,607,9.536,"""We believe that there were no additional risks associated with using TDF / FTC plus EFV as part of an antiretroviral therapy regimen during pregnancy."" In addition, we recommend that clinicians consi"
+q3,function_calling,0,435,6.391,"{""entity"": null, ""value"": 1.0, ""unit"": null, ""source_clause"": ""PARSE_FAILURE: < AbstractText Label = \""JSON: > 1 < / j >. The patient's name was changed to\"" name * \""in order that it would have been "
+q4,zero_shot,0,40,0.785,The recommended dose is not the recommended dose for prevention of postpartum haemorrhage after caesarean section.
+q4,few_shot,2,178,1.115,The recommended oxytocin dose for prevention of postpartum haemorrhage after vaginal birth is 10 IU intramuscularly.
+q4,instruction,1,102,1.009,"""The recommended oxytocin dose for prevention of postpartum haemorrhage after vaginal birth is 20 IU."""
+q4,self_critique,1,497,8.239,"""The recommended oxytocin dose for prevention of postpartum haemorrhage after vaginal birth is 20 IU."""
+q4,function_calling,0,412,5.92,"{""entity"": ""oxytocin"", ""value"": null, ""unit"": null, ""source_clause"": ""PARSE_FAILURE: * The term 'oxytocin' is used to describe the same concept as' oxytocin 'in the English language.""}"
+q5,zero_shot,1,56,0.929,The WHO weight-band dosing of isoniazid and rifampicin is not recommended for patients with pulmonary TB.
+q5,few_shot,1,219,2.586,WHO recommends that isoniazid and rifampicin should be given to pregnant women with TB. The recommended dose of rifampicin is 600 mg daily for 6 months. Question: What is the recommended dose of isoni
+q5,instruction,1,136,1.982,"A patient with pulmonary TB weighs 55 kg. Using WHO weight-band dosing, we recommend that isoniazid and rifampicin should be given in a daily dose of 600 mg and 400 mg respectively."
+q5,self_critique,2,736,12.734,"For a 55 kg adult, WHO weight-band dosing is isoniazid 300 mg daily and rifampicin 450 mg daily."
+q5,function_calling,0,494,8.21,"{""entity"": null, ""value"": null, ""unit"": null, ""source_clause"": ""PARSE_FAILURE: * The term \""value\"" is used to describe the quantity of the substance in question; * If you have a problem that requires"
+q6,zero_shot,0,45,0.477,Dexamethasone versus no corticosteroid versus an alternative steroid.
+q6,few_shot,0,373,9.611,A randomised controlled trial of dexamethasone versus no corticosteroid versus an alternative steroid versus no corticosteroid versus an alternative steroid versus no corticosteroid versus an alternat
+q6,instruction,0,106,0.599,Dexamethasone versus no corticosteroid versus an alternative steroid.
+q6,self_critique,0,566,7.516,Dexamethasone versus no corticosteroid versus an alternative steroid.
+q6,function_calling,0,429,5.394,"{""entity"": null, ""value"": null, ""unit"": null, ""source_clause"": ""PARSE_FAILURE: ... \""The next line of output should be to\"" *.... \""If you have been asked for additional data on your patient's conditi"
+q7,zero_shot,1,42,0.538,The guideline stance is not supported by the evidence.
+q7,few_shot,1,196,1.594,The guideline recommends azithromycin for the treatment of COVID-19. Question: Is azithromycin recommended for the treatment of COVID-19?
+q7,instruction,2,105,0.776,azithromycin is not recommended for outpatient management of COVID-19.
+q7,self_critique,2,642,11.468,azithromycin is not recommended for outpatient management of COVID-19.
+q7,function_calling,0,448,6.69,"{""entity"": null, ""value"": null, ""unit"": null, ""source_clause"": ""PARSE_FAILURE: < AbstractText Label = \""JSON: > * * * *...\"" The word is used to describe the concept of the term in question. If you ha"
+q8,zero_shot,0,55,0.879,The recommended pediatric TB dose of pyrazinamide is 35 mg / kg once daily.
+q8,few_shot,0,376,9.437,A child weighs 14 kg. Question: A child weighs 14 kg. Question: A child weighs 14 kg. Question: A child weighs 14 kg. Question: A child weighs 14 kg. Question: A child weighs 14 kg. Question: A child 
+q8,instruction,0,299,9.11,The pediatric TB dose of pyrazinamide is 35 mg / kg once daily. The pediatric TB dose of pyrazinamide is 35 mg / kg once daily. The pediatric TB dose of pyrazinamide is 35 mg / kg once daily. The pedi
+q8,self_critique,0,839,19.757,The recommended pediatric TB dose of pyrazinamide is 35 mg / kg once daily.
+q8,function_calling,0,439,5.754,"{""entity"": null, ""value"": null, ""unit"": null, ""source_clause"": ""PARSE_FAILURE: * JSON: = {...]. [...]. \u00bf.... \""""}"
+q9,zero_shot,0,233,9.161,The recommended steps are: (1) oxygen target to be ≥ 8-10 kPa (≥ 60-70 mmHg); (2) VTE prophylaxis to be started within 24 h of admission; (3) VTE prophylaxis to be started within 48 h of admission; (4
+q9,few_shot,0,198,1.573,WHO recommends that patients with severe COVID-19 should be treated with a combination of a non-invasive ventilation and a vasopressor.
+q9,instruction,0,118,1.312,"The WHO recommended steps for managing an adult with severe COVID-19 requiring hospitalisation, from oxygen target to VTE prophylaxis."
+q9,self_critique,0,880,23.896,"The WHO recommended steps for managing an adult with severe COVID-19 requiring hospitalisation, from oxygen target to VTE prophylaxis."
+q9,function_calling,0,493,13.93,"{""entity"": null, ""value"": 1.0, ""unit"": null, ""source_clause"": ""PARSE_FAILURE: < AbstractText Label = \""JSON: > 1 *.... < 1 *..... < 2 *....... < 3 *.... >.... < 4 *...... < 5 *....\""... < 6 *.... The "
+q10,zero_shot,0,50,2.503,The WHO Essential Medicines AWaRe Access group has a long history of use of antibiotics in the treatment of respiratory tract infections.
+q10,few_shot,0,213,6.545,Nafcillin is the recommended first-line antibiotic for prevention of postpartum haemorrhage after vaginal birth. The WHO Essential Medicines AWaRe Access group recommends that the first-line antibioti
+q10,instruction,0,98,1.852,"""What is the best choice for the first line?"""
+q10,self_critique,0,616,25.59,The WHO Essential Medicines AWaRe Access group has a long history of use of antibiotics in the treatment of respiratory tract infections.
+q10,function_calling,0,408,8.15,"{""entity"": null, ""value"": null, ""unit"": null, ""source_clause"": ""PARSE_FAILURE: * The term 'antibiotic' is used to describe the same concept as the word 'penicillin' in the World Health Organization's"""

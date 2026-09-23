@@ -1,0 +1,6 @@
+Drug,Normal_Dose,CrCl_30_50,CrCl_10_30,CrCl_under_10,Monitoring
+Vancomycin,15-20 mg/kg q12h,q12-24h,q24-48h,q48-72h TDM,Trough 15-20 mg/L
+Tenofovir_TDF,300 mg q24h,300 mg q48h,300 mg q72-96h,Avoid,eGFR baseline + 6mo
+Amoxicillin,500 mg q8h,500 mg q8h,500 mg q12h,500 mg q24h,Standard
+Fluconazole,400 mg q24h,400 mg q24h,200 mg q24h,200 mg q24h,LFTs periodic
+Acyclovir_IV,10 mg/kg q8h,10 mg/kg q12h,10 mg/kg q24h,5 mg/kg q24h,Hydration

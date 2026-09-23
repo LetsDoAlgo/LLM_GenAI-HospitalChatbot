@@ -1,0 +1,9 @@
+qid,pattern,score,tokens,latency,answer
+q9,zero_shot_baseline,0,233,30.81,The recommended steps are: (1) oxygen target to be ≥ 8-10 kPa (≥ 60-70 mmHg); (2) VTE prophylaxis to be started within 24 h of admission; (3
+q9,chain1_plan_solve_verify,0,788,22.92,"The WHO recommended steps for managing an adult with severe COVID-19 requiring hospitalisation, from oxygen target to VTE prophylaxis."
+q6,zero_shot_baseline,0,45,1.28,Dexamethasone versus no corticosteroid versus an alternative steroid.
+q6,chain1_plan_solve_verify,0,733,8.39,Dexamethasone versus no corticosteroid versus an alternative steroid.
+q9,zero_shot_baseline,0,233,9.13,The recommended steps are: (1) oxygen target to be ≥ 8-10 kPa (≥ 60-70 mmHg); (2) VTE prophylaxis to be started within 24 h of admission; (3
+q9,chain2_decompose_synthesise,0,1221,32.04,(1) The recommended steps are: (1) oxygen target to be ≥ 8-10 kPa (≥ 60-70 mmHg); (2) VTE prophylaxis to be started within 24 h of admission
+q1,zero_shot_baseline,1,40,0.67,The combination of isoniazid and rifampicin is the preferred first-line regimen.
+q1,chain2_decompose_synthesise,1,336,7.14,The combination of isoniazid and rifampicin is the preferred first-line regimen for drug-susceptible pulmonary tuberculosis in adults.

@@ -1,0 +1,15 @@
+source_table,serialized_row
+arv_first_line,Population: Adults & adolescents | Preferred_First_Line_Regimen: TDF + 3TC (or FTC) + DTG | Alternative_Regimen: TDF + 3TC + EFV400 | Notes: DTG preferred; monitor weight
+arv_first_line,Population: Pregnant women | Preferred_First_Line_Regimen: TDF + 3TC + DTG | Alternative_Regimen: TDF + 3TC + EFV400 | Notes: DTG safe across trimesters
+arv_first_line,Population: Children 4wk-<20kg | Preferred_First_Line_Regimen: ABC + 3TC + DTG | Alternative_Regimen: ABC + 3TC + LPV/r | Notes: Weight-band dosing applies
+arv_first_line,Population: TB co-infection | Preferred_First_Line_Regimen: TDF + 3TC + DTG (double dose) | Alternative_Regimen: TDF + 3TC + EFV600 | Notes: Adjust DTG with rifampicin
+arv_first_line,Population: Second-line adults | Preferred_First_Line_Regimen: AZT + 3TC + DTG | Alternative_Regimen: AZT + 3TC + LPV/r | Notes: After first-line failure
+renal_dosing,Drug: Vancomycin | Normal_Dose: 15-20 mg/kg q12h | CrCl_30_50: q12-24h | CrCl_10_30: q24-48h | CrCl_under_10: q48-72h TDM | Monitoring: Trough 15-20 mg/L
+renal_dosing,Drug: Tenofovir_TDF | Normal_Dose: 300 mg q24h | CrCl_30_50: 300 mg q48h | CrCl_10_30: 300 mg q72-96h | CrCl_under_10: Avoid | Monitoring: eGFR baseline + 6mo
+renal_dosing,Drug: Amoxicillin | Normal_Dose: 500 mg q8h | CrCl_30_50: 500 mg q8h | CrCl_10_30: 500 mg q12h | CrCl_under_10: 500 mg q24h | Monitoring: Standard
+renal_dosing,Drug: Fluconazole | Normal_Dose: 400 mg q24h | CrCl_30_50: 400 mg q24h | CrCl_10_30: 200 mg q24h | CrCl_under_10: 200 mg q24h | Monitoring: LFTs periodic
+renal_dosing,Drug: Acyclovir_IV | Normal_Dose: 10 mg/kg q8h | CrCl_30_50: 10 mg/kg q12h | CrCl_10_30: 10 mg/kg q24h | CrCl_under_10: 5 mg/kg q24h | Monitoring: Hydration
+who_staging,"WHO_Stage: Stage 1 | Clinical_Category: Asymptomatic | Example_Conditions: Asymptomatic, PGL | ART_Action: Initiate ART (treat all)"
+who_staging,"WHO_Stage: Stage 2 | Clinical_Category: Mild | Example_Conditions: Weight loss <10%, herpes zoster | ART_Action: Initiate ART"
+who_staging,"WHO_Stage: Stage 3 | Clinical_Category: Advanced | Example_Conditions: Weight loss >10%, oral candidiasis, pulmonary TB | ART_Action: Initiate ART urgently"
+who_staging,"WHO_Stage: Stage 4 | Clinical_Category: Severe (AIDS) | Example_Conditions: PCP, Kaposi sarcoma, extrapulmonary TB | ART_Action: Initiate ART + OI treatment"

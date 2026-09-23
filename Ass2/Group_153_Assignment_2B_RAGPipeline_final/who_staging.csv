@@ -1,0 +1,5 @@
+WHO_Stage,Clinical_Category,Example_Conditions,ART_Action
+Stage 1,Asymptomatic,"Asymptomatic, PGL",Initiate ART (treat all)
+Stage 2,Mild,"Weight loss <10%, herpes zoster",Initiate ART
+Stage 3,Advanced,"Weight loss >10%, oral candidiasis, pulmonary TB",Initiate ART urgently
+Stage 4,Severe (AIDS),"PCP, Kaposi sarcoma, extrapulmonary TB",Initiate ART + OI treatment

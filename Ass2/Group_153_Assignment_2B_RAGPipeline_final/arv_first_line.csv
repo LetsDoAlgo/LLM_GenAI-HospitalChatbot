@@ -1,0 +1,6 @@
+Population,Preferred_First_Line_Regimen,Alternative_Regimen,Notes
+Adults & adolescents,TDF + 3TC (or FTC) + DTG,TDF + 3TC + EFV400,DTG preferred; monitor weight
+Pregnant women,TDF + 3TC + DTG,TDF + 3TC + EFV400,DTG safe across trimesters
+Children 4wk-<20kg,ABC + 3TC + DTG,ABC + 3TC + LPV/r,Weight-band dosing applies
+TB co-infection,TDF + 3TC + DTG (double dose),TDF + 3TC + EFV600,Adjust DTG with rifampicin
+Second-line adults,AZT + 3TC + DTG,AZT + 3TC + LPV/r,After first-line failure
