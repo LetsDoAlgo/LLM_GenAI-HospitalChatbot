@@ -1,0 +1,2940 @@
+WHO recommendations 
+for the prevention 
+and treatment of 
+postpartum haemorrhage
+
+ 
+
+WHO recommendations for the 
+prevention and treatment of 
+postpartum haemorrhage
+
+WHO Library Cataloguing-in-Publication Data
+ 
+WHO recommendations for the prevention and treatment of postpartum haemorrhage.
+ 
+1.Postpartum hemorrhage prevention and control. 2.Postpartum hemorrhage therapy. 
+ 
+3.Obstetric labor complications. 4.Guideline. I.World Health Organization.
+ 
+ISBN 978 92 4 154850 2 
+ 
+(NLM classification: WQ 330)
+ World Health Organization 2012
+All rights reserved. Publications of the World Health Organization are available on the WHO web site 
+(www.who.int) or can be purchased from WHO Press, World Health Organization, 20 Avenue Appia, 1211 
+Geneva 27, Switzerland (tel.: +41 22 791 3264; fax: +41 22 791 4857; e-mail: bookorders@who.int). 
+Requests for permission to reproduce or translate WHO publications whether for sale or for noncom 
+mercial distribution should be addressed to WHO Press through the WHO web site (http://www.who.int/
+about/licensing/copyright_form/en/index.html).
+The designations employed and the presentation of the material in this publication do not imply the 
+expression of any opinion whatsoever on the part of the World Health Organization concerning the legal 
+status of any country, territory, city or area or of its authorities, or concerning the delimitation of its 
+frontiers or boundaries. Dotted lines on maps represent approximate border lines for which there may not 
+yet be full agreement.
+The mention of specific companies or of certain manufacturers products does not imply that they are en 
+dorsed or recommended by the World Health Organization in preference to others of a similar nature that 
+are not mentioned. Errors and omissions excepted, the names of proprietary products are distinguished 
+by initial capital letters.
+All reasonable precautions have been taken by the World Health Organization to verify the information 
+contained in this publication. However, the published material is being distributed without warranty of 
+any kind, either expressed or implied. The responsibility for the interpretation and use of the material 
+lies with the reader. In no event shall the World Health Organization be liable for damages arising from 
+its use. 
+Printed in Italy
+
+Contents
+Acknowledgements 
+1
+Abbreviations 
+2
+Executive summary 
+3
+Box A: Recommendations for the prevention of PPH 
+5
+Box B: Recommendations for the treatment of PPH 
+6
+Box C: Recommendations on organization of care 
+7
+1. Background 
+8
+2. Methods 
+9
+3. Results 
+12
+Box 1: Recommendations for the prevention of PPH uterotonics 
+15
+Box 2: Recommendations for the prevention of PPH cord management 
+and uterine massage 
+16
+Table 1: Recommendation status of the individual components of 
+the active management of the third stage of labour, based on who 
+delivers the intervention 
+18
+Box 3: Recommendations for the prevention of PPH in caesarean sections 
+18
+Box 4: Recommendations for the treatment of PPH uterotonics 
+19
+Box 5: Recommendations for the treatment of PPH fluid resuscitation 
+and tranexamic acid 
+19
+Box 6: Recommendations for the treatment of PPH manoeuvres and 
+other procedures 
+20
+Box 7: Recommendations for the treatment of retained placenta 
+21
+Box 8: Health Systems and Organization of Care recommendations 
+22
+Box 9: Statements related to topics for which there is insufficient 
+evidence to issue a recommendation 
+23
+4. Research implications 
+24
+5. Dissemination and implementation of the guideline 
+25
+6. Applicability issues 
+26
+7. Updating the guideline 
+27
+References 
+27
+Annex 1. External experts, WHO staff involved in the preparation of 
+the guideline, and summary of declarations of interest 
+29
+Annex 2. Critical outcomes for decision making 
+33
+Annex 3: Summary of the considerations related to the strength of the recom 
+mendations (Balance Worksheets) 
+34
+Box 1. Summary of considerations related to the strength of 
+the recommendations (Recommendations 1 5) 
+34
+
+The standardized criteria used in grading the evidence, the narrative summaries of 
+evidence and GRADE tables are not included in this document. This material has 
+been published in a separate document entitled WHO recommendations for post 
+partum haemorrhage: evidence base and can be accessed online at: www.who.int/
+reproductivehealth/publications/maternal_perinatal_health/9789241548502/en/
+Box 2. Summary of considerations related to the strength of 
+the recommendations (Recommendations 6 10) 
+35
+Box 3. Summary of considerations related to the strength of 
+the recommendations (Recommendations 11 15) 
+36
+Box 4. Summary of considerations related to the strength of 
+the recommendations (Recommendations 16 20) 
+37
+Box 5. Summary of considerations related to the strength of 
+the recommendations (Recommendations 21 25) 
+38
+Box 6. Summary of considerations related to the strength of 
+the recommendations (Recommendations 26 30) 
+39
+Box 7. Summary of considerations related to the strength of 
+the recommendations (Recommendations 31 32) 
+40
+Box 8. Template for the summary of considerations related to 
+the strength of the recommendations with explanations for 
+completing the template 
+41
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+1
+Acknowledgements
+Work on this guideline was initiated by A. Metin G lmezoglu and Jo o Paulo Souza, 
+of the WHO Department of Reproductive Health and Research, and by Matthews 
+Mathai, of the WHO Department of Maternal, Newborn, Child and Adolescent Health. 
+Jo o Paulo Souza coordinated the development of the present guideline and drafted 
+this document. Edgardo Abalos and Virginia Diaz, of the Centro Rosarino de Estudios 
+Perinatales (CREP), Rosario, Argentina, reviewed the scientific evidence related to 
+the prevention and treatment of Postpartum Haemorrhage (PPH) and produced the 
+GRADE tables used in this guideline. Natasha Hezelgrave, of the Academic Women s 
+Health Centre, King s College London (KCL), United Kingdom (UK), drafted the nar 
+rative summaries of evidence. The GRADE tables were double-checked by Kanokwa 
+roon Watananirun (Fon) of the University of Bangkok, Thailand. A. Metin G lmezo 
+glu, Matthews Mathai and Edgardo Abalos commented on the draft document before 
+it was reviewed by Natasha Hezelgrave and participants at the WHO Technical 
+Consultation on the Prevention and Treatment of PPH (see Annex 1). 
+Thanks to Zahida Qureshi, of the University of Nairobi, Kenya, for serving as the 
+Chairperson of the Technical Consultation. We acknowledge gratefully the valuable 
+feedback given by a large number of international stakeholders during the online 
+consultation which took place as part of this process.
+WHO is grateful for the continued support of the United States Agency for Inter 
+national Development (USAID) in this area of work. Special thanks are also due to 
+Gynuity Health Projects for providing additional financial support for this guideline 
+work. WHO also wishes to thank the authors of the systematic reviews used in this 
+guideline for their assistance and collaboration in updating them. WHO is also grate 
+ful to the Cochrane Pregnancy and Childbirth Group, especially the staff at their 
+Liverpool office in the United Kingdom, for their support in updating the Cochrane 
+reviews.
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+2
+Abbreviations
+AGREE 
+Appraisal of Guidelines Research and Evaluation
+AMTSL 
+Active Management of the Third Stage of Labour
+CCT 
+Controlled Cord Traction 
+CI 
+Confidence Interval
+GREAT 
+Guideline development, Research priorities, Evidence synthesis, 
+ 
+Applicability of evidence, Transfer of knowledge (a WHO project)
+GDG 
+Guideline Development Group
+GRADE 
+Grading of Recommendations Assessment, Development and Evaluation
+HIV 
+Human immunodeficiency virus
+IM 
+Intramuscular
+IU 
+International Unit
+IV 
+Intravenous
+MCA 
+Maternal, Child and Adolescent Department
+ g 
+Microgram 
+MMR 
+Maternal Mortality Ratio
+PICO 
+Population, Interventions, Comparisons, and Outcomes
+PO 
+Per Os (orally)
+PPH 
+Postpartum Haemorrhage
+RCT 
+Randomized Controlled Trial
+RevMan 
+Review Manager (software)
+RR 
+Relative Risk
+OR 
+Odds Ratio
+USAID 
+United States Agency for International Development
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+3
+Executive summary
+Introduction
+Postpartum Haemorrhage (PPH) is commonly defined as a blood loss of 500 ml or 
+more within 24 hours after birth. PPH is the leading cause of maternal mortality in 
+low-income countries and the primary cause of nearly one quarter of all maternal 
+deaths globally. Most deaths resulting from PPH occur during the first 24 hours after 
+birth: the majority of these could be avoided through the use of prophylactic utero 
+tonics during the third stage of labour and by timely and appropriate management. 
+Improving health care for women during childbirth in order to prevent and treat PPH 
+is an essential step towards the achievement of the Millennium Development Goals. 
+The primary objective of this guideline therefore is to provide a foundation for the 
+strategic policy and programme development needed to ensure the sustainable 
+implementation of effective interventions for reducing the global burden of PPH. 
+Guideline development methods
+The procedures used in the development of this guideline are outlined in the WHO 
+handbook for guideline development 1. Briefly, these procedures are: (i) the identi 
+fication of questions related to clinical practice and health policy for which answers 
+are needed, (ii) the retrieval of up-to-date research-based evidence, (iii) the as 
+sessment and synthesis of evidence, (iv) the formulation of recommendations using 
+input from a wide range of stakeholders, and (v) the formulation of plans for the 
+dissemination, implementation, impact evaluation and updating of the guideline. 
+The scientific evidence for the recommendations was synthesized using the Grading 
+of Recommendations Assessment, Development and Evaluation (GRADE) methodol 
+ogy. For each of the previous WHO recommendations on PPH (2007 and 2009) and 
+for all the newly-added questions, evidence profiles were prepared based on 22 
+up-to-date systematic reviews. The revised and new recommendations were devel 
+oped and adopted by an international group of experts who participated in the WHO 
+Technical Consultation on the Prevention and Treatment of PPH, held in Montreux, 
+Switzerland, 6 8 March 2012. 
+The WHO Technical Consultation adopted 32 recommendations and these are shown 
+in Boxes A, B and C. For each recommendation, the quality of the supporting evi 
+dence is graded as very low , low , moderate or high . The contributing stake 
+holders qualified the strength of these recommendations by taking the quality of the 
+evidence and other factors into account (including the values and preferences of 
+stakeholders, the magnitude of effect, the balance of benefits versus disadvantages, 
+resource usage, and the feasibility of each recommendation). To ensure that each 
+recommendation is correctly understood and used in practice, additional remarks 
+have also been included, and these are noted in the full document below the recom 
+mendations. Readers should refer to these remarks in the full version of the guide 
+line if they are in any doubt about the meaning of each recommendation.
+1 WHO handbook for guideline development. Geneva, World Health Organization, 2012.
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+4
+Recommendations for PPH prevention
+The intrinsic contribution of each component of the active management of the 
+third stage of labour was examined in light of new available evidence, and relevant 
+recommendations were made. All women giving birth should be offered uterotonics 
+during the third stage of labour for the prevention of PPH; oxytocin (IM/IV, 10 IU) 
+is recommended as the uterotonic drug of choice. Other injectable uterotonics and 
+misoprostol are recommended as alternatives for the prevention of PPH in settings 
+where oxytocin is unavailable. The importance of controlled cord traction (CCT) was 
+revisited because of new evidence. This intervention is now regarded as optional 
+in settings where skilled birth attendants are available, and is contraindicated in 
+settings where skilled attendants do not assist with births. Early cord clamping is 
+generally contraindicated. Continuous uterine massage is not recommended as an 
+intervention to prevent PPH in women who have received prophylactic oxytocin, 
+as it may cause maternal discomfort, require a dedicated health professional, and 
+may not lead to a reduction of blood loss. However, surveillance of uterine tonus 
+through abdominal palpation is recommended in all women for early identification 
+of postpartum uterine atony. In summary, the Guideline Development Group (GDG) 
+considered the use of uterotonics as the main intervention within the active man 
+agement of third stage of labour package. In this context, the use of misoprostol for 
+the prevention of PPH by community health care workers and lay health workers is 
+supported in settings where skilled birth attendants are not present.
+The GDG also issued recommendations for reducing blood loss during the third stage 
+of labour in caesarean sections. Oxytocin is the recommended uterotonic drug for 
+the prevention of PPH in caesarean sections. Cord traction is recommended in pref 
+erence to manual removal when assisting placental delivery in caesarean sections.
+Recommendations for PPH treatment
+The use of uterotonics (oxytocin alone as the first choice) plays a central role in 
+the treatment of PPH. Uterine massage is recommended for the treatment of PPH 
+as soon as it is diagnosed, and initial fluid resuscitation with isotonic crystalloids is 
+recommended. The use of tranexamic acid is advised in cases of refractory atonic 
+bleeding or persistent trauma-related bleeding. The use of intrauterine balloon 
+tamponade is recommended for refractory bleeding or if uterotonics are unavail 
+able. Bimanual uterine compression, external aortic compression, and the use of 
+non-pneumatic anti-shock garments are recommended as temporizing measures until 
+substantive care is available. If there is persistent bleeding and the relevant re 
+sources are available, uterine artery embolization should be considered. If bleeding 
+persists, despite treatment with uterotonic drugs and other conservative interven 
+tions, surgical intervention should be used without further delay.
+If the third stage of labour lasts more than 30 minutes, CCT and IV/IM oxytocin 
+(10 IU) should be used to manage the retained placenta. If the placenta is retained 
+and bleeding occurs, the manual removal of the placenta should be expedited. 
+Whenever the manual removal of the placenta is undertaken, a single dose of pro 
+phylactic antibiotics is recommended.
+The GDG also issued recommendations related to the organization of PPH care. 
+Health facilities delivering maternity services should adopt formal protocols for the 
+prevention and treatment of PPH and for patient referral. The use of PPH treatment 
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+5
+simulations for pre-service and in-service training programmes was recommended. 
+Finally, the GDG recommended that the use of uterotonics for the prevention of PPH 
+should be monitored and a specific indicator was suggested.
+Box A: Recommendations for the prevention of PPH
+1. The use of uterotonics for the prevention of PPH during the third stage of labour is recom 
+mended for all births. (Strong recommendation, moderate-quality evidence)
+2. Oxytocin (10 IU, IV/IM) is the recommended uterotonic drug for the prevention of PPH. 
+(Strong recommendation, moderate-quality evidence)
+3. In settings where oxytocin is unavailable, the use of other injectable uterotonics (if appro 
+priate ergometrine/methylergometrine or the fixed drug combination of oxytocin and ergo 
+metrine) or oral misoprostol (600 g) is recommended. (Strong recommendation, moderate-
+quality evidence)
+4. In settings where skilled birth attendants are not present and oxytocin is unavailable, the 
+administration of misoprostol (600 g PO) by community health care workers and lay health 
+workers is recommended for the prevention of PPH. (Strong recommendation, moderate-
+quality evidence)
+5. In settings where skilled birth attendants are available, CCT is recommended for vaginal 
+births if the care provider and the parturient woman regard a small reduction in blood loss 
+and a small reduction in the duration of the third stage of labour as important (Weak recom 
+mendation, high-quality evidence) 
+6. In settings where skilled birth attendants are unavailable, CCT is not recommended. (Strong 
+recommendation, moderate-quality evidence)
+7. Late cord clamping (performed after 1 to 3 minutes after birth) is recommended for all births 
+while initiating simultaneous essential newborn care. (Strong recommendation, moderate-
+quality evidence)
+8. Early cord clamping (<1 minute after birth) is not recommended unless the neonate is as 
+phyxiated and needs to be moved immediately for resuscitation. (Strong recommendation, 
+moderate-quality evidence)
+9. Sustained uterine massage is not recommended as an intervention to prevent PPH in women 
+who have received prophylactic oxytocin. (Weak recommendation, low-quality evidence)
+10. Postpartum abdominal uterine tonus assessment for early identification of uterine atony is 
+recommended for all women. (Strong recommendation, very-low-quality evidence)
+11. Oxytocin (IV or IM) is the recommended uterotonic drug for the prevention of PPH in caesar 
+ean section. (Strong recommendation, moderate-quality evidence)
+12. Controlled cord traction is the recommended method for removal of the placenta in caesar 
+ean section. (Strong recommendation, moderate-quality evidence)
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+6
+Box B: Recommendations for the treatment of PPH
+13. Intravenous oxytocin alone is the recommended uterotonic drug for the treatment of PPH. 
+(Strong recommendation, moderate-quality evidence)
+14. If intravenous oxytocin is unavailable, or if the bleeding does not respond to oxytocin, the use 
+of intravenous ergometrine, oxytocin-ergometrine fixed dose, or a prostaglandin drug (includ 
+ing sublingual misoprostol, 800 g) is recommended. (Strong recommendation, low-quality 
+evidence)
+15. The use of isotonic crystalloids is recommended in preference to the use of colloids for the 
+initial intravenous fluid resuscitation of women with PPH. (Strong recommendation, low-qual 
+ity evidence)
+16. The use of tranexamic acid is recommended for the treatment of PPH if oxytocin and other 
+uterotonics fail to stop bleeding or if it is thought that the bleeding may be partly due to 
+trauma. (Weak recommendation, moderate-quality evidence)
+17. Uterine massage is recommended for the treatment of PPH. (Strong recommendation, very-
+low-quality evidence)
+18. If women do not respond to treatment using uterotonics, or if uterotonics are unavailable, 
+the use of intrauterine balloon tamponade is recommended for the treatment of PPH due to 
+uterine atony. (Weak recommendation, very-low-quality evidence)
+19. If other measures have failed and if the necessary resources are available, the use of uter 
+ine artery embolization is recommended as a treatment for PPH due to uterine atony. (Weak 
+recommendation, very-low-quality evidence)
+20. If bleeding does not stop in spite of treatment using uterotonics and other available conserva 
+tive interventions (e.g. uterine massage, balloon tamponade), the use of surgical interven 
+tions is recommended. (Strong recommendation, very-low-quality evidence)
+21. The use of bimanual uterine compression is recommended as a temporizing measure until ap 
+propriate care is available for the treatment of PPH due to uterine atony after vaginal deliv 
+ery. (Weak recommendation, very-low-quality evidence)
+22. The use of external aortic compression for the treatment of PPH due to uterine atony after 
+vaginal birth is recommended as a temporizing measure until appropriate care is available. 
+(Weak recommendation, very-low-quality evidence)
+23. The use of non-pneumatic anti-shock garments is recommended as a temporizing measure 
+until appropriate care is available. (Weak recommendation, low-quality evidence)
+24. The use of uterine packing is not recommended for the treatment of PPH due to uterine atony 
+after vaginal birth. (Weak recommendation, very-low-quality evidence)
+25. If the placenta is not expelled spontaneously, the use of IV/IM oxytocin (10 IU) in combina 
+tion with controlled cord traction is recommended. (Weak recommendation, very-low-quality 
+evidence)
+26. The use of ergometrine for the management of retained placenta is not recommended as this 
+may cause tetanic uterine contractions which may delay the expulsion of the placenta. (Weak 
+recommendation, very-low-quality evidence)
+27. The use of prostaglandin E2 alpha (dinoprostone or sulprostone) for the management of re 
+tained placenta is not recommended. (Weak recommendation, very-low-quality evidence)
+28. A single dose of antibiotics (ampicillin or first-generation cephalosporin) is recommended if 
+manual removal of the placenta is practised. (Weak recommendation, very-low-quality evi 
+dence)
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+7
+Box C: Organization of care
+29. The use of formal protocols by health facilities for the prevention and treatment of PPH is 
+recommended. (Weak recommendation, moderate-quality evidence)
+30. The use of formal protocols for referral of women to a higher level of care is recommended 
+for health facilities. (Weak recommendation, very-low-quality evidence)
+31. The use of simulations of PPH treatment is recommended for pre-service and in-service train 
+ing programmes. (Weak recommendation, very-low-quality evidence)
+32. Monitoring the use of uterotonics after birth for the prevention of PPH is recommended as 
+a process indicator for programmatic evaluation. (Weak recommendation, very-low-quality 
+evidence)
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+8
+1. Background
+Postpartum Haemorrhage (PPH) is commonly defined as a blood loss of 500 ml or 
+more within 24 hours after birth, while severe PPH is defined as a blood loss of 
+1000 ml or more within the same timeframe. PPH affects approximately 2% of all 
+women who give birth: it is associated not only with nearly one quarter of all ma 
+ternal deaths globally but is also the leading cause of maternal mortality in most 
+low-income countries. PPH is a significant contributor to severe maternal morbidity 
+and long-term disability as well as to a number of other severe maternal conditions 
+generally associated with more substantial blood loss, including shock and organ dys 
+function. (1 3)
+Uterine atony is the most common cause of PPH, but genital tract trauma (i.e. vagi 
+nal or cervical lacerations), uterine rupture, retained placental tissue, or maternal 
+coagulation disorders may also result in PPH. Although the majority of women who 
+experience PPH complications have no identifiable clinical or historical risk factors, 
+grand multiparity and multiple gestation are associated with an increased risk of 
+bleeding after birth. PPH may be aggravated by pre-existing anaemia and, in such 
+instances, the loss of a smaller volume of blood may still result in adverse clinical 
+sequelae. (4)
+During the second half of the 20th century, a package of interventions performed 
+during the third stage of labour became the cornerstone for the prevention of 
+PPH. This approach became known as the active management of the third stage 
+of labour and consisted initially of the following components: the administration 
+of a prophylactic uterotonic after the delivery of a baby, early cord clamping and 
+cutting, and the controlled traction of the umbilical cord. Uterine massage is also 
+frequently included as part of the active management of the third stage of labour. 
+In contrast to active management, expectant management involves instead waiting 
+for signs of placenta separation and allows for the placenta to be delivered sponta 
+neously, or aided by nipple stimulation or gravity. Compared with expectant man 
+agement, the active management of the third stage of labour is associated with a 
+substantial reduction in the occurrence of PPH. (5)
+It is generally assumed that by preventing and treating PPH, most PPH-associated 
+deaths could be avoided. The prevention and treatment of PPH are therefore 
+vital steps towards improving the health care of women during childbirth and the 
+achievement of the Millennium Development Goals. To reach these objectives, 
+health workers in developing countries should be given access to appropriate medi 
+cations and be trained in procedures relevant to the management of PPH. Countries 
+also need evidence-based guidance to inform their health policies and improve their 
+health outcomes. 
+Given the availability of new scientific evidence related to the prevention and treat 
+ment of PPH, the aim of this document is to revise previous WHO recommendations 
+for the prevention and treatment of PPH and to add new recommendations. The 
+primary goal of this guideline is to provide a foundation for the implementation of 
+strategic policy and programme developments for interventions shown to have been 
+effective in reducing the burden of PPH. Health professionals responsible for de 
+veloping national and local protocols and health policies constitute the main target 
+audience of this document. Obstetricians, midwives, general medical practitioners, 
+health care managers and public health policy-makers, particularly in under-re 
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+9
+sourced settings are also targeted. The guidance provided is evidence-informed and 
+covers topics related to the management of PPH that were selected and prioritized 
+by an international, multidisciplinary group of health care workers, consumers and 
+other stakeholders. This document establishes general principles of PPH care and it 
+is intended to inform the development of protocols and health policies related to 
+PPH. This document is not intended to provide a comprehensive practical guide for 
+the prevention and treatment of PPH.
+2. Methods
+This guideline is an update of the WHO recommendations for the prevention of 
+PPH published in 2007 and the WHO guidelines for the management of PPH and 
+retained placenta published in 2009 (6,7). This document represents WHO s nor 
+mative support for using evidence-informed policies and practices in all countries. 
+The guideline forms part of a WHO knowledge-to-action project entitled GREAT 
+(Guideline development, Research priorities, Evidence synthesis, Applicability of 
+evidence, Transfer of knowledge) (8) and was developed using standardized operat 
+ing procedures in accordance with the process described in the WHO handbook for 
+guideline development (9). In summary, the process included: (i) the identification 
+of critical questions and critical outcomes, (ii) the retrieval of the evidence, (iii) the 
+assessment and synthesis of evidence, (iv) the formulation of recommendations, and 
+(v) planning for the dissemination, implementation, impact evaluation and updating 
+of the guideline.
+Two technical groups have worked in the development of this guideline. A small 
+operative group composed of staff from the WHO s Department of Reproductive 
+Health and Research, and Department of Maternal, Newborn, Child and Adolescent 
+Health (MCA), as well as two external experts (see Annex 1 The guideline steer 
+ing group) and a larger group with international stakeholders including midwives, 
+obstetricians, neonatologists, researchers, experts in research synthesis, experts in 
+health care programmes, and consumer representatives (the Guideline Development 
+Group GDG). The guideline steering group was formed in the very beginning of the 
+project and reviewed the previous WHO guidelines on prevention and treatment of 
+PPH (6,7). This group prepared a list of potential additional questions related to the 
+prevention and treatment of PPH. Next, the GDG reviewed and prioritized the draft 
+questions. The guideline steering group then produced a list of all the questions to 
+be addressed. This included both questions from the earlier versions of the guideline 
+as well as new ones. The guideline steering group also adopted the outcomes used 
+in the 2007 and 2009 guideline documents. These outcomes, as before, were rated 
+on a scale from 1 to 9. A question or outcome was defined as critical if it was given 
+an average score of 7 or more. Questions and outcomes with a score of between 
+4 and 6 were considered important but not critical , while those with a score lower 
+than 4 were not considered to be important for the purposes of the guideline 
+(Annex 2).
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+10
+Cochrane systematic reviews of randomized controlled trials (RCTs) were the pri 
+mary source of evidence for the recommendations2. Using the assembled list of 
+questions and outcomes, the guideline steering group identified Cochrane systematic 
+reviews that were either relevant or potentially relevant and then evaluated wheth 
+er any needed updating. A review was considered to be outdated if the last specified 
+date for new trial searches was two years ago or more, or if there were relevant 
+studies still awaiting assessment, as identified by the standard search procedures of 
+the Cochrane Pregnancy and Childbirth Group. Updates were performed using spe 
+cific standard search strategies. The corresponding authors of the outdated reviews 
+were invited to update them within a specified time period. In instances in which 
+the corresponding authors were unable to do so, the updates were undertaken by 
+members of the guideline steering group. The search strategies employed to identify 
+the trials and the specific criteria for trial inclusion and exclusion are described in 
+the individual systematic reviews. A systematic review of literature that included 
+non-randomized trials was carried out by the guideline steering group members 
+when randomized-trial data related to specific questions were scarce.
+The following procedures were used to extract the evidence for this guideline from 
+each of these systematic reviews: first, the most recent version of the Review 
+Manager (RevMan) file was retrieved from the Cochrane Pregnancy and Childbirth 
+Cochrane Group and customized to reflect the key comparisons and outcomes (those 
+that were not relevant to the guideline were excluded). Then the RevMan file was 
+exported to the GRADE profiler software (Grading of Recommendations Assessment, 
+Development and Evaluation) and GRADE criteria were used to critically appraise the 
+retrieved scientific evidence. Finally, evidence profiles (in the form of GRADE tables) 
+were prepared for each comparison. An online content management system devel 
+oped for the GREAT project, namely the Guideline Production System, was used to 
+handle and share electronic files.
+The evidence presented in the GRADE tables was derived from a larger body of data 
+extracted primarily from Cochrane reviews which, in many cases, contained multiple 
+comparisons (Evidence Base (EB) Tables 1 to 70). Each GRADE table relates to one 
+specific question or comparison, but some GRADE tables do not contain data for all 
+critical outcomes. This is because data for those outcomes were not available in the 
+Cochrane reviews. The raw data which constitute the basis of the GRADE tables are 
+not included in this document, but readers interested in how these GRADE tables 
+were constructed may request access to this information. The guideline steering 
+group used the information presented in the GRADE tables to check if any existing 
+recommendations (included in the 2007 or 2009 documents) needed to be revised, 
+and to draft recommendations that related to the new questions. Each recom 
+mendation was allocated to a thematic module which included the narrative sum 
+maries of evidence and the relevant GRADE tables. The standardized criteria used 
+in grading the evidence and the thematic modules (including the GRADE tables) 
+are not included in this document. They have been published separately online 
+in a document entitled WHO recommendations for preventing and treating PPH: 
+evidence base (www.who.int/reproductivehealth/publications/maternal_perina 
+tal_health/9789241548502/en).
+2 As part of the Cochrane pre-publication editorial process, reviews are commented on by three peers 
+(one editor and two referees external to the editorial team) and the Group s Statistical Adviser (see 
+http://www.cochrane.org/cochrane-reviews). The Cochrane Handbook for Systematic Reviews of Inter 
+ventions describes in detail the process of preparing and maintaining Cochrane systematic reviews on 
+the effects of health care interventions.
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+11
+A preliminary online consultation was held to review the draft recommendations. 
+The draft recommendations and supporting evidence were made available to a large 
+number of international stakeholders who were then asked to respond to an online 
+survey. In addition, the preliminary online consultation identified other previous 
+recommendations that needed to be discussed at the WHO Technical Consultation 
+on the Prevention and Treatment of PPH held in Montreux, Switzerland, 6 8 March 
+2012. A subset of the international group of experts (who had participated in the 
+online consultations) and other additional experts were invited to attend the Techni 
+cal Consultation (see Annex 1 for a full list of participants). The draft recommen 
+dations, the narrative summaries of evidence, the GRADE tables for the new and 
+previous recommendations, and other related documents were provided in advance 
+to participants. Balance worksheets were used during the Technical Consultation to 
+summarize the values, preferences and judgements made about the strength of the 
+new and revised recommendations.
+Declaration of interest by participants in the WHO Technical Con 
+sultation
+According to WHO regulations, all experts must declare their relevant interests prior 
+to participation in WHO meetings. All GDG members and participants were therefore 
+required to complete a Declaration of Interest Form before the meeting. These were 
+reviewed by the guideline steering group before the group composition and invita 
+tions were finalized. The external advisers also verbally declared potential conflicts 
+of interest at the beginning of the meeting. The procedures for the management 
+of conflicts of interests were undertaken in accordance with the WHO guidelines 
+for declaration of interests (WHO experts) . In summary, all members of the GDG 
+declared that they had no commercial or financial interests that were directly or 
+indirectly related to the topic of the meeting/guideline. Seven members of the 
+GDG were involved in academic work related to the topic of the guideline, but this 
+involvement was not considered to be a conflict of interest and the full participation 
+of all the selected experts was deemed appropriate. A table summarizing the decla 
+rations of interest made by members of the GDG is included in Annex 1. 
+Decision-making during the Technical Consultation
+At the beginning of the Technical Consultation, the participants discussed and ad 
+opted a list of recommendations which needed to be addressed during the meeting. 
+This included the new recommendations as well as previous recommendations that 
+needed to be reviewed and possibly revised.
+The following protocol was used for the Technical Consultation: the meeting was 
+structured to allow participants to discuss the proposed list of recommendations and 
+these recommendations were revised, as needed, through group discussion. The final 
+adoption of each recommendation was made by consensus defined as the agree 
+ment by three quarters or more of the participants provided that those who dis 
+agreed did not feel strongly about their position. Strong disagreements were record 
+ed as such in the guideline. If the participants were unable to reach a consensus, 
+the disputed recommendation, or any other decision, was put to a vote. A recom 
+mendation or decision stood if a simple majority (more than half of the participants) 
+voted in support of it, unless the disagreement related to a safety concern, in which 
+case the WHO Secretariat would choose not to issue a recommendation at all. WHO 
+staff attending the meeting, external technical experts involved in the collection 
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+12
+and grading of the evidence, and observers were not eligible to vote. In addition to 
+discussing the scientific evidence and its quality, relevant applicability issues, costs 
+and other judgements were also taken into consideration when formulating the final 
+recommendations.
+The strength of each recommendation was determined during the Technical Con 
+sultation. By default, the strength of the recommendations discussed was aligned 
+initially with the quality of the evidence (i.e. at the start of the discussion, strong 
+recommendations were based on evidence of moderate and high quality, while 
+weak recommendations were based on evidence of low and very low quality). 
+In addition to the quality of the evidence, the following factors were considered 
+when determining the final recommendation and its strength: values and preferenc 
+es, the magnitude of effect, the balance of benefits versus disadvantages, resource 
+usage, and feasibility. Values and preferences, resource usage, and the feasibility of 
+each recommendation were based on the experience and opinion of the GDG mem 
+bers. Balance worksheets were used to note and synthesize these considerations 
+(Annex 3, Boxes 1 to 8) and record the reasons for changes made to the default 
+strength of the recommendations.
+Document preparation and peer review
+Prior to the Technical Consultation, the guideline steering group prepared a prelimi 
+nary version of this document using a guideline reporting template which had been 
+developed as part of the WHO s GREAT project. The draft guideline was reviewed by 
+Technical Consultation participants at the meeting in Montreux. During the meeting, 
+the draft guideline was modified in line with participant deliberation and comments. 
+Feedback received during the preliminary online consultation was also discussed and 
+incorporated into the document where appropriate. After the meeting, members of 
+the guideline steering group worked to ensure that a revised version of the docu 
+ment accurately reflected the deliberations and decisions of the participants. The 
+revised draft guideline document was sent to two external peer reviewers and their 
+inputs were carefully evaluated by the guideline steering group and document revi 
+sions made accordingly. The guideline steering group refrained from making substan 
+tive changes after the meeting in Montreux to the guideline scoping (such as the 
+further expansion of the guideline scoping) or to the recommendations. The revised 
+version was returned electronically to those who had attended the Technical Consul 
+tation for their approval.
+3. Results
+This guideline includes 32 recommendations for the prevention and treatment of 
+PPH. Seven of these recommendations are new, while the others have been revised 
+in light of new evidence. Most of the previous 2007 and 2009 recommendations 
+remain unchanged in essence, despite updates to the evidence base. The wording 
+of the previous recommendations has been revised to enhance the clarity of the 
+guidance provided. The recommendations included in this guideline are based on 
+a total of 22 Cochrane systematic reviews summarized in 70 GRADE tables. Boxes 
+1 to 8 present the most up-to-date WHO recommendations for the prevention and 
+treatment of PPH. Where applicable, remarks related to specific recommendations 
+are also shown in these boxes and new recommendations are marked with asterisks. 
+Narrative summaries of evidence supporting the recommendations are presented 
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+13
+in the electronic appendix together with the corresponding GRADE tables (see the 
+ WHO recommendations for preventing and treating PPH: evidence base at 
+www.who.int/reproductivehealth/publications/maternal_perinatal_health/
+9789241548502/en). Box 9 presents statements related to topics for which, accord 
+ing to the assessments of the GDG, there was insufficient evidence to issue a recom 
+mendation. Balance worksheets summarizing the values, preferences and judge 
+ments made about the strength of the recommendations are presented in Annex 3, 
+Boxes 1 to 8.
+The development of these recommendations involved 130 stakeholders who par 
+ticipated in the online preliminary survey (representing all WHO regions), and 25 
+experts who participated in the WHO Technical Consultation.
+Recommendations for PPH prevention
+The contribution of each component of the active management of the third stage of 
+labour was examined in light of new available evidence, and relevant recommenda 
+tions were made. Box 1 presents recommendations concerning the use of uteroton 
+ics for the prevention of PPH. All women giving birth should be offered uteroton 
+ics during the third stage of labour to prevent PPH and IM/IV oxytocin (10 IU) is 
+recommended as the uterotonic drug of choice. Other injectable uterotonics (i.e. 
+ergometrine/methylergometrine, or the fixed drug combination of oxytocin and 
+ergometrine) and misoprostol are recommended as alternatives for the prevention 
+of PPH in settings where oxytocin is unavailable. Box 2 contains recommendations 
+related to cord management and uterine massage. The importance of controlled 
+cord traction (CCT) was revisited because of new evidence. This intervention is now 
+regarded as optional in settings where skilled birth attendants are available, and 
+is contraindicated in settings where skilled attendants do not assist with births. 
+Early cord clamping is generally contraindicated. Continuous uterine massage is 
+not recommended as an intervention to prevent PPH for women who have received 
+prophylactic oxytocin, because the massage may cause maternal discomfort, re 
+quire a dedicated health professional, and may not lead to a reduction of blood loss. 
+However, surveillance of the uterine tonus through abdominal palpation is recom 
+mended for all women for the early identification of postpartum uterine atony. Table 
+1 summarizes the recommendation status of the individual components of the active 
+management of the third stage of labour. In summary, the GDG considered the use 
+of uterotonics as the main intervention within the active management of third stage 
+of labour package. In this context, the use of misoprostol for the prevention of PPH 
+by community health care workers and lay health workers is supported in settings 
+where skilled birth attendants are not present.
+Recommendations for reducing blood loss during the third stage of labour in caesar 
+ean sections are presented in Box 3. Oxytocin is the recommended uterotonic drug 
+for the prevention of PPH in caesarean sections. Cord traction is recommended in 
+preference to manual removal when assisting placental delivery in caesarean sec 
+tions.
+Recommendations for PPH treatment
+The use of uterotonics (oxytocin alone as the first choice) plays a central role in 
+the treatment of PPH (see Boxes 4 and 5). Uterine massage is recommended for the 
+treatment of PPH as soon as it is diagnosed (see Box 6) and the initial fluid resus 
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+14
+citation with isotonic crystalloids is recommended. The use of tranexamic acid is 
+advised in cases of refractory atonic bleeding or persistent trauma-related bleed 
+ing (see Box 5). The use of intrauterine balloon tamponade is recommended for 
+refractory bleeding or if uterotonics are unavailable. Bimanual uterine compression, 
+external aortic compression, and the use of non-pneumatic anti-shock garments are 
+recommended as temporizing measures until substantive care is available. If there is 
+persistent bleeding and the relevant resources are available, uterine artery emboli 
+zation should be considered. If bleeding persists despite treatment with uterotonic 
+drugs and other conservative interventions, surgical intervention should be used 
+without further delay.
+If the third stage of labour lasts more than 30 minutes, CCT and IV/IM oxytocin 
+(10 IU) should be used to manage the retained placenta. If the placenta is retained 
+and bleeding occurs, the manual removal of the placenta should be expedited. 
+Whenever the manual removal of the placenta is undertaken, a single dose of pro 
+phylactic antibiotics is recommended (see Box 7).
+The GDG also issued recommendations related to the organization of PPH care (see 
+Box 8). Health facilities delivering maternity services should adopt formal proto 
+cols for the prevention and treatment of PPH and for patient referral. The use of 
+PPH treatment simulations for pre-service and in-service training programmes was 
+recommended. Finally, the GDG recommended that the use of uterotonics for the 
+prevention of PPH should be monitored and a specific indicator was suggested.
+The GDG found insufficient evidence to recommend one route over another for the 
+prevention of PPH with oxytocin, the use of recombinant factor VIIa for the treat 
+ment of PPH, intraumbilical vein injection of oxytocin for treatment of retained 
+placenta, and the antenatal distribution of misoprostol. The GDG also found insuffi 
+cient evidence to recommend self-administration for the prevention of PPH and the 
+measurement of blood loss over clinical estimation (see Box 9).
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+15
+Box 1: Recommendations for the prevention of PPH uterotonics
+1. The use of uterotonics for the prevention of PPH during the third stage of labour is recom 
+mended for all births. (Strong recommendation, moderate-quality evidence)
+2. Oxytocin (10 IU, IV/IM) is the recommended uterotonic drug for the prevention of PPH. 
+(Strong recommendation, moderate-quality evidence)
+3. In settings where oxytocin is unavailable, the use of other injectable uterotonics (e.g. er 
+gometrine/methylergometrine or the fixed drug combination of oxytocin and ergometrine) 
+or oral misoprostol (600 g) is recommended. (Strong recommendation, moderate-quality 
+evidence)
+4. In settings where skilled birth attendants are not present and oxytocin is unavailable, the 
+administration of misoprostol (600 g PO) by community health care workers and lay health 
+workers is recommended for the prevention of PPH. (Strong recommendation, moderate-
+quality evidence)
+Remarks
+ 
+Available comparisons are limited, but a significant difference between the benefits of oxytocin and 
+ergometrine is unlikely. These recommendations place a high value on avoiding the adverse effects of 
+ergometrine and assume a similar benefit from using oxytocin and ergometrine for the prevention of 
+PPH. 
+ 
+Caution should be exercised when opting for ergot derivatives for the prevention of PPH as these drugs 
+have clear contraindications in women with hypertensive disorders. Thus, it is probably safer to avoid 
+the use of ergot derivatives in unscreened populations.
+ 
+Misoprostol (600 
+ g 
+ PO) was regarded by the GDG as an effective drug for the prevention of PPH. How 
+ever, the GDG considered the relative benefits of oxytocin compared to misoprostol in preventing blood 
+loss, as well as the increased adverse effects of misoprostol compared to oxytocin. The GDG acknowl 
+edged that there is no evidence to show that a 600 g dose of misoprostol provides greater efficacy over 
+a 400 
+ g g 
+ dose. Lower doses have a lower side-effect profile but the efficacy of lower doses of miso 
+prostol has not been evaluated sufficiently.
+ 
+The recommendations concerning alternative uterotonics should not detract from the objective of mak 
+ing oxytocin as widely accessible as possible.
+ 
+In view of past concerns regarding the community-level distribution of misoprostol and the potential 
+for serious consequences of administration before birth, the GDG places emphasis on training persons 
+administering misoprostol and monitoring community distribution interventions with scientifically sound 
+methods and appropriate indicators.
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+16
+Box 2: Recommendations for the prevention of PPH cord management and uterine massage
+5. In settings where skilled birth attendants are available, CCT is recommended for vaginal 
+births if the care provider and the parturient woman regard a small reduction in blood loss 
+and a small reduction in the duration of the third stage of labour as important. (Weak recom 
+mendation, high-quality evidence) 
+6. In settings where skilled birth attendants are unavailable, CCT is not recommended. (Strong 
+recommendation, moderate-quality evidence)
+7. Late cord clamping (performed approximately 1 to 3 minutes after birth) is recommended 
+for all births while initiating simultaneous essential newborn care. (Strong recommendation, 
+moderate-quality evidence)
+8. Early cord clamping (<1 minute after birth) is not recommended unless the neonate is as 
+phyxiated and needs to be moved immediately for resuscitation. (Strong recommendation, 
+moderate quality evidence)
+9. Sustained uterine massage is not recommended as an intervention to prevent PPH in women 
+who have received prophylactic oxytocin. (Weak recommendation, low-quality evidence)
+10. Postpartum abdominal uterine tonus assessment for early identification of uterine atony is 
+recommended for all women. (Strong recommendation, very-low-quality evidence)
+Remarks
+ 
+Recommendations 5 and 6 are based on a large RCT in which oxytocin 10 IU was used for the prevention 
+of PPH in all participants. Based on this evidence, CCT was regarded as safe when applied by skilled 
+birth attendants as it provides small beneficial effects on blood loss (average reduction of 11 ml on 
+blood loss) and on the duration of the third stage of labour (average reduction of 6 minutes). The deci 
+sion to implement CCT in the context of a prophylactic uterotonic drug should be discussed by the care 
+provider and the woman herself. 
+ 
+If ergot alkaloids are used for the prevention of PPH, then CCT to minimize placenta retention is re 
+garded as essential.
+ 
+There is insufficient evidence to determine the benefit or risk of CCT when used in conjunction with 
+misoprostol. 
+ 
+CCT is the first intervention to treat retained placenta, therefore the teaching of CCT in medical and 
+midwifery curricula is essential.
+ 
+The evidence base for recommendations for the timing of cord clamping includes both vaginal and cae 
+sarean births. The GDG considers this recommendation to be equally important for caesarean sections.
+ 
+Delayed clamping should be performed during the provision of essential newborn care. For essential 
+newborn care and resuscitation, please refer to the WHO guidelines on neonatal resuscitation. (10) 
+ 
+The recommendations for the timing of cord clamping apply equally to preterm and term births. The 
+GDG considers the benefits of delayed clamping for preterm infants to be particularly important.
+(Continued on next page)
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+17
+ 
+Some health professionals working in areas of high HIV prevalence have expressed concern regard 
+ing delayed cord clamping as part of management of the third stage of labour. These professionals are 
+concerned that during placental separation, a partially detached placenta could be exposed to maternal 
+blood and this could lead to a micro-transfusion of maternal blood to the baby. It has been demonstrat 
+ed that the potential for maternal-to-child transmission of HIV can take place at three different points 
+in time: micro-transfusions of maternal blood to the fetus during pregnancy (intra-uterine HIV transmis 
+sion), exposure to maternal blood and vaginal secretions when the fetus passes through the birth canal 
+in vaginal deliveries (intra-partum transmission), and during breastfeeding (postnatal infection). For this 
+reason, the main intervention to reduce the maternal-to-child transmission is the reduction of mater 
+nal viral load through the use of antiretroviral drugs during pregnancy, childbirth and postnatal period. 
+There is no evidence that delaying the cord clamping increases the possibility of HIV transmission from 
+the mother to the newborn. Maternal blood percolates through the placental intervillous space through 
+out pregnancy with a relatively low risk of maternal fetal transmission before delivery. It is highly un 
+likely that separation of the placenta increases exposure to maternal blood, and is highly unlikely that 
+it disrupts the fetal placental circulation (i.e. it is unlikely that during placenta separation the newborn 
+circulation is exposed to maternal blood). Thus, the proven benefits of a 1 3 minute delay at least in 
+clamping the cord outweigh the theoretical, and unproven, harms. Late cord clamping is recommended 
+even among women living with HIV or women with unknown HIV status.
+ 
+There is a lack of evidence regarding the role of uterine massage for PPH prevention when no uterotonic 
+drugs are used, or if a uterotonic drug other than oxytocin is used. 
+ 
+Although the GDG acknowledged that one small study reported that sustained uterine massage and clot 
+expulsion were associated with a reduction in the use of additional uterotonics, there is lack of robust 
+evidence supporting other benefits. However, the GDG considered that routine and frequent uterine 
+tone assessment remains a crucial part of immediate postpartum care, particularly for the optimization 
+of early PPH diagnosis.
+ 
+Based on the most recent evidence, understanding of the contribution of each component of the active 
+management of the third stage of labour package has evolved. The GDG considered that this package 
+has a primary intervention: the use of an uterotonic. In the context of oxytocin use, CCT may add a 
+small benefit, while uterine massage may add no benefit for the prevention of PPH. Early cord clamping 
+is generally contraindicated.
+(Continued from previous page)
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+18
+Box 3: Recommendations for the prevention of PPH in caesarean sections
+11. Oxytocin (IV or IM) is the recommended uterotonic drug for the prevention of PPH in caesar 
+ean section. (Strong recommendation, moderate-quality evidence)
+12. Cord traction is the recommended method for the removal of the placenta in caesarean sec 
+tion. (Strong recommendation, moderate-quality evidence)
+Remarks
+ 
+The GDG noted that, in terms of blood loss, there was not enough evidence to recommend oxytocin 
+infusion over IV bolus injection. However, due to concerns regarding adverse haemodynamic effects, 
+the GDG considered that if an IV bolus injection is used, a slow injection rate is preferred and a rapid 
+injection rate should be avoided. 
+ 
+The GDG noted that the combination of an oxytocin infusion after an initial IV bolus of oxytocin after 
+caesarean delivery reduces the need for additional uterotonic agents but does not affect the overall 
+occurrence of major obstetric haemorrhage. 
+ 
+The GDG noted that carbetocin is associated with a reduction in the use of additional uterotonic agents 
+but with no difference in the occurrence of major obstetric haemorrhage. In addition, the GDG noted 
+that the use of carbetocin is considerably more expensive than oxytocin. This remark is equally appli 
+cable to vaginal deliveries.
+Table 1: Recommendation status of the individual components of the active management 
+of the third stage of labour, based on who delivers the intervention
+Skilled 
+birth attendant
+Non-skilled 
+birth attendant
+Self-administered
+Uterotonics
+In favour
+In favour
+Research*
+Early cord clamping
+Against
+Against
+Against
+Controlled cord traction
+Conditional**
+Against
+Against
+Continuous uterine massage
+Against***
+Against
+Research****
+* Distribution of misoprostol during the antenatal period for self-administration during the third stage of labour
+** Small reduction in blood loss and in the length of the third stage; adoption based on the values and preferences of the 
+woman and the health care provider
+*** Routine uterine tone assessment remains a vital part of clinical decision making and should be practised during the third 
+stage of labour
+**** Self-administered uterine massage in the absence of uterotonics
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+19
+Box 4: Recommendations for the treatment of PPH uterotonics
+13. Intravenous oxytocin is the recommended uterotonic drug for the treatment of PPH. (Strong 
+recommendation, moderate quality evidence)
+14. If intravenous oxytocin is unavailable, or if the bleeding does not respond to oxytocin, the use 
+of intravenous ergometrine, oxytocin-ergometrine fixed dose, or a prostaglandin drug (includ 
+ing sublingual misoprostol, 800 g) is recommended. (Strong recommendation, low-quality 
+evidence)
+Remarks
+ 
+The GDG recommended IV oxytocin as the first line uterotonic drug for the treatment of PPH, including 
+when women have already received this drug for the prophylaxis of PPH.
+ 
+The GDG recognized that IV oxytocin may not be available in all settings. It encourages health care 
+decision-makers in these settings to strive to make oxytocin available.
+ 
+In settings where IV oxytocin is unavailable to women who have received prophylactic IM oxytocin during 
+the third stage of labour, the GDG considered misoprostol to be a valid alternative.
+ 
+If PPH prophylaxis with misoprostol has been administered and if injectable uterotonics are unavailable, 
+there is insufficient evidence to guide further misoprostol dosing and consideration must be given to the 
+risk of potential toxicity.
+ 
+There is no added benefit to offering misoprostol simultaneously to women receiving oxytocin for the 
+treatment of PPH (i.e. adjunct misoprostol).
+ 
+The GDG noted that the two largest trials of misoprostol for the treatment of PPH (Winikoff 2010, Blum 
+2010) reported the use of a 800 g dose administered sublingually. The majority of the GDG members 
+agreed that 800 g is an acceptable sublingual misoprostol dose for the treatment of PPH, though some 
+members of the GDG expressed concern related to the risk of hyperpyrexia associated with this dosage.
+ 
+If IV oxytocin has been used for the treatment of PPH and the bleeding does not stop, there is a paucity 
+of data to recommend preferences for second line uterotonic drug treatment. Decisions in such situ 
+ations must be guided by the experience of the provider, the availability of the drugs, and by known 
+contraindications.
+ 
+In situations in which IM oxytocin can be administered and there is no possibility of IV treatment with 
+ergot alkaloids/injectable prostaglandins, there is a paucity of data to recommend a preference of IM 
+oxytocin over misoprostol or other uterotonics. Decisions in such situations must be guided by the expe 
+rience of the provider, the availability of the drugs, and by known contraindications.
+Box 5: Recommendations for the treatment of PPH fluid resuscitation and tranexamic acid
+15. The use of isotonic crystalloids is recommended in preference to the use of colloids for the 
+intravenous fluid resuscitation of women with PPH. (Strong recommendation, low-quality 
+evidence)
+16. The use of tranexamic acid is recommended for the treatment of PPH if oxytocin and other 
+uterotonics fail to stop the bleeding or if it is thought that the bleeding may be partly due to 
+trauma. (Weak recommendation, moderate-quality evidence)
+Remarks
+ 
+Evidence for the recommendation of tranexamic acid was extrapolated from the literature on surgery 
+and trauma, which shows tranexamic acid to be a safe option for the treatment of trauma-related 
+bleeding. 
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+20
+Box 6: Recommendations for the treatment of PPH manoeuvres and other procedures
+17. Uterine massage is recommended for the treatment of PPH. (Strong recommendation, very-
+low-quality evidence)
+18. If women do not respond to treatment using uterotonics, or if uterotonics are unavailable, 
+the use of intrauterine balloon tamponade is recommended for the treatment of PPH due to 
+uterine atony. (Weak recommendation, very-low-quality evidence)
+19. If other measures have failed and if the necessary resources are available, the use of uter 
+ine artery embolization is recommended as a treatment for PPH due to uterine atony. (Weak 
+recommendation, very-low-quality evidence)
+20. If bleeding does not stop in spite of treatment using uterotonics and other available conserva 
+tive interventions (e.g. uterine massage, balloon tamponade), the use of surgical interven 
+tions is recommended. (Strong recommendation, very-low-quality evidence)
+21. The use of bimanual uterine compression is recommended as a temporizing measure until 
+appropriate care is available for the treatment of PPH due to uterine atony after vaginal 
+delivery. (Weak recommendation, very-low-quality evidence)
+22. The use of external aortic compression for the treatment of PPH due to uterine atony after 
+vaginal birth is recommended as a temporizing measure until appropriate care is available. 
+(Weak recommendation, very-low-quality evidence)
+23. The use of non-pneumatic anti-shock garments is recommended as a temporizing measure 
+until appropriate care is available. (Weak recommendation, low-quality evidence)
+24. The use of uterine packing is not recommended for the treatment of PPH due to uterine 
+atony after vaginal birth. (Weak recommendation, very-low-quality evidence)
+Remarks
+ 
+The GDG noted that the application of these interventions requires training and that maternal discom 
+fort and complications associated with these procedures have been reported.
+ 
+Uterine massage as a therapeutic measure is defined as the rubbing of the uterus achieved through the 
+manual massaging of the abdomen. This is typically sustained until the bleeding stops or the uterus con 
+tracts. The GDP considered that uterine massage should be started once PPH has been diagnosed.
+ 
+The initial rubbing of the uterus and expression of blood clots are not regarded as therapeutic uterine 
+massage.
+ 
+When rating the recommendation #17 as strong , the low cost and safety of uterine massage were 
+taken into account.
+ 
+The use of balloon tamponade was considered by the GDG to be a measure that can potentially avoid 
+surgery or as a temporizing measure while awaiting transfer to a higher level facility. The GDG acknowl 
+edges that balloon tamponade can be obtained with specific devices as well as with lower cost adapta 
+tions, including those based on the use of condoms and surgical gloves.
+ 
+The GDG noted that uterine artery embolization requires significant resources, in terms of the cost of 
+the treatment, the facilities, and the training of health care workers.
+ 
+The GDG noted that conservative surgical approaches should be tried first. If these do not work, they 
+should be followed by more invasive procedures. Compression sutures, for example, may be attempted 
+as a first intervention, and if these fail, then uterine, utero-ovarian and hypogastric vessel ligation may 
+be tried. If life-threatening bleeding continues even after ligation, then a subtotal (otherwise known as 
+supracervical) or total hysterectomy should be performed.
+ 
+The GDG acknowledged that the level of health care provider skills will play a role in the selection and 
+sequence of the surgical interventions.
+(Continued on next page)
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+21
+ 
+External aortic compression has long been recommended as a potential life-saving technique, and me 
+chanical compression of the aorta, if successful, slows blood loss. The GDG placed a high value on this 
+procedure as a temporizing measure in the treatment of PPH.
+ 
+The GDG noted that research evaluating the potential benefits and harms of non-pneumatic anti-shock 
+garments is ongoing. Based on the evidence available, the GDG regarded non-pneumatic anti-shock gar 
+ments as a temporizing measure while transfer is awaited.
+ 
+The GDG noted that there was no evidence of benefit of uterine packing and placed a high value on 
+concerns regarding its potential harm.
+Box 7: Recommendations for the treatment of retained placenta
+25. If the placenta is not expelled spontaneously, the use of additional oxytocin (10 IU, IV/IM) in 
+combination with controlled cord traction is recommended. (Weak recommendation, very-
+low-quality evidence)
+26. The use of ergometrine for the management of a retained placenta is not recommended as 
+this may cause tetanic uterine contractions which may delay the expulsion of the placenta. 
+(Weak recommendation, very-low-quality evidence)
+27. The use of prostaglandin E2 alpha (dinoprostone or sulprostone) in the management of re 
+tained placenta is not recommended. (Weak recommendation, very-low-quality evidence)
+28. A single dose of antibiotics (ampicillin or first-generation cephalosporin) is recommended if 
+manual removal of the placenta is practised. (Weak recommendation, very-low-quality evi 
+dence)
+Remarks
+ 
+The GDG found no empirical evidence to support recommending the use of uterotonics for the manage 
+ment of a retained placenta in the absence of haemorrhage. The above recommendation was reached 
+by consensus.
+ 
+The WHO guide, Managing complications in pregnancy and childbirth (WHO, 2007), states that if a 
+placenta is not expelled within 30 minutes after the delivery of a baby, the woman should be diagnosed 
+as having a retained placenta. Since there is no evidence for or against this definition, the delay used 
+before this condition is diagnosed is left to the judgement of the clinician.
+ 
+The same WHO guide also suggests that in the absence of haemorrhage, the woman should be observed 
+for a further 30 minutes after the initial 30 minutes, before the manual removal of the placenta is at 
+tempted. The GDG noted that spontaneous expulsion of the placenta can still occur, even in the absence 
+of bleeding. A conservative approach is therefore advised and the timing of the manual removal of the 
+placenta as a definitive treatment is left to the judgement of the clinician.
+ 
+The recommendation regarding the use of prostaglandin E2 is informed by a lack of evidence on this 
+question and also by concerns related to adverse events, particularly cardiac events.
+ 
+Direct evidence of the value of antibiotic prophylaxis after the manual removal of the placenta was not 
+available. The GDG considered indirect evidence of the benefit of prophylactic antibiotics from studies 
+of caesarean section and abortion, as well as observational studies of other intrauterine manipulations.
+ 
+Current practice suggests that ampicillin or first-generation cephalosporins may be administered when 
+the manual removal of the placenta is performed.
+ 
+This question was identified as a research priority for settings in which prophylactic antibiotics are not 
+routinely administered and those with low infectious morbidity. 
+(Continued from previous page)
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+22
+Box 8: Health Systems and Organization of Care recommendations for the prevention and 
+treatment of PPH
+29. The use of formal protocols by health facilities for the prevention and treatment of PPH is 
+recommended. (Weak recommendation, moderate-quality evidence)
+30. The use of formal protocols for referral of women to a higher level of care is recommended 
+for health facilities. (Weak recommendation, very-low-quality evidence)
+31. The use of simulations of PPH treatment is recommended for pre-service and in-service train 
+ing programmes. (Weak recommendation, very-low-quality evidence)
+32. Monitoring the use of uterotonics after birth for the prevention of PPH is recommended as 
+a process indicator for programmatic evaluation. (Weak recommendation, very-low-quality 
+evidence)
+Remarks
+ 
+Routine and frequent uterine tone assessment remains a crucial part of immediate postpartum care, 
+particularly for optimizing the early diagnosis of PPH.
+ 
+The GDG acknowledged that the implementation of formal protocols is a complex process which will 
+require the local adaptation of general guidelines.
+ 
+The GDG placed a high value on the costs of simulation programmes and acknowledged that there are 
+different types of simulation programmes. Some programmes are hi-tech, computerized and costly while 
+others are less expensive and more likely to be affordable in low- and middle-income countries. The 
+GDG identified improvement in communication between health care providers and patients and their 
+family members as an important priority in the training of health care providers in PPH management.
+ 
+The GDG recommended monitoring the use of prophylactic uterotonics. This recommendation is based 
+on experience from other areas of health care, particularly child health, where content-based health 
+indicators are common and regarded as useful for programmatic purposes. The suggested indicator is 
+calculated as the number of women receiving prophylactic uterotonic drugs after birth divided by all 
+women giving birth.
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+23
+Box 9: Statements related to topics for which there is insufficient evidence to issue a recom 
+mendation
+A. There is insufficient evidence to recommend one oxytocin route over another for the prevention of PPH.
+B. There is insufficient evidence to recommend the use of recombinant factor VIIa for the treatment of 
+PPH.
+C. There is insufficient evidence to recommend the use of intraumbilical vein injection of oxytocin as a 
+treatment for retained placenta.
+D. There is insufficient evidence to recommend the antenatal distribution of misoprostol to pregnant 
+women for self-administration for the prevention of PPH. 
+E. There is insufficient evidence to recommend the measurement of blood loss over clinical estimation of 
+blood loss.
+Remarks
+ 
+The GDG noted that there are three ongoing trials in which the IV and IM routes for oxytocin administra 
+tion are being compared for the prevention of PPH.
+ 
+The GDG considered there to be insufficient evidence to recommend the use of oxytocin infusion over 
+IV bolus injection with regard to blood loss. However, in light of concerns about the potential adverse 
+haemodynamic effects, the GDG considered that if IV bolus injection treatment is to be used then a 
+slow injection rate is preferred and a rapid injection rate should be avoided.
+ 
+In the context of PPH, the GDP considered that the use of recombinant factor VIIa should be limited to 
+women with specific haematological indications. The group regarded the recombinant factor VIIa as a 
+potentially life-saving drug, but noted that it is also associated with life-threatening side-effects. More 
+over, recombinant factor VIIa is expensive and may be difficult to administer.
+ 
+The GDG acknowledged that while there is a paucity of data to recommend intraumbilical vein injec 
+tion of oxytocin as a treatment for retained placenta, the procedure itself has not been shown to cause 
+harm and demonstrates a non-significant trend towards a lower risk of requiring the manual removal of 
+the placenta.
+ 
+The GDG acknowledged that a number of countries have embarked on community-level programmes of 
+misoprostol distribution and considered that this should be done in the context of research (where reli 
+able data on coverage, safety and health outcomes can be collected).
+ 
+The GDG noted that all trials included in the systematic review on the measurement of blood loss were 
+conducted in developed countries and views the applicability of this evidence to low- and middle-
+income countries as very uncertain.
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+24
+4. Research implications
+The GDG identified important knowledge gaps that need to be addressed through 
+primary research. In this guideline, recommendations based on evidence quality that 
+was rated as very low or low require further research. Conversely, further re 
+search is not a priority for those recommendations based on evidence of moderate 
+or high quality. Knowledge gaps identified in the 2007 and 2009 WHO documents 
+were also reviewed. The identified knowledge gaps were prioritized by considering 
+whether such research would be feasible, innovative, original, likely to promote 
+equity, and contribute to the reduction of the burden of PPH. The main barriers to 
+scaling up the intervention were also considered in this prioritization exercise.
+The GDG noted that research is either planned or ongoing for some of the research 
+priorities identified. However, there is no certainty that these investigations will 
+provide conclusive results, and the topics have therefore remained listed as re 
+search priorities in this document.
+Key research priority
+In settings where the use of injectable uterotonics is not feasible, what are the ef 
+fects of antenatal distribution of misoprostol to pregnant women for self-administra 
+tion during the third stage of labour?
+Other research questions 
+ 
+What is the minimum effective dose of oxytocin for the prevention of PPH? 
+ 
+What are the effects of IM oxytocin (versus IV oxytocin) for the prevention of 
+PPH?
+ 
+Can oxytocin be administered safely by unskilled attendants?
+ 
+What are the effects of buccal and sublingual use of oxytocin for the prevention 
+of PPH?
+ 
+What is the minimum effective dose of misoprostol for the prevention of PPH?
+ 
+What is the minimum effective dose of misoprostol for the treatment of PPH?
+ 
+What are effects and safety of misoprostol as treatment for PPH, in women who 
+received misoprostol as PPH prophylaxis? 
+ 
+Should misoprostol be used in addition to oxytocin for PPH prevention?
+ 
+What are the effects of tranexamic acid in PPH treatment?
+ 
+What are the effects of uterine massage for the prevention of PPH?
+ 
+What are the effects of uterine massage to prevent PPH, where oxytocin is not 
+available? 
+ 
+What are the effects of uterine balloon or tamponade in the treatment of PPH?
+ 
+What are the effects of uterine massage to prevent PPH, where only misoprostol 
+is available? 
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+25
+ 
+What are the effects of prophylactic antibiotics after manual extraction of the 
+placenta as part of the treatment of retained placenta?
+ 
+What are the effects of the use of misoprostol for the treatment of retained 
+placenta?
+ 
+What are effects of ergometrine (in combination or not with oxytocin) after 
+caesarean section for the prevention of PPH?
+ 
+What is the optimal time for cord clamping in the context of physiologic and ac 
+tive management of third stage of labour?
+ 
+What is the appropriate time to administer oxytocin for PPH prevention, rela 
+tive to cord clamping and placental delivery? (i.e. before/after cord clamping, 
+before/after placenta delivery)
+ 
+Which clinical consequences of blood loss are of greatest value for the diagnosis 
+and treatment of PPH?
+ 
+What is the role of lay health workers in management of PPH?
+5. Dissemination and implementation of 
+the guideline
+The ultimate goal of this guideline is to improve the quality of care and health 
+outcomes related to PPH. Therefore the dissemination and implementation of this 
+guideline are crucial steps that should be undertaken by the international commu 
+nity and local health care services. The WHO Department of Reproductive Health 
+and Research has adopted a formal knowledge-to-action framework for the dissemi 
+nation, adaptation and implementation of guidelines (8). In addition to this frame 
+work, a list of priority actions was established during the WHO Technical Consulta 
+tion which will be used by the WHO and other partners to foster the dissemination 
+and implementation of this guideline (EB Box 2).
+Guideline dissemination and evaluation
+The recommendations in this guideline will be disseminated through a broad net 
+work of international partners, including WHO country and regional offices, min 
+istries of health, WHO collaborating centres, other United Nations agencies, and 
+non-governmental organizations. They will also be published on the WHO website 
+and in The WHO Reproductive Health Library (11), where they will be accompanied 
+by an independent critical appraisal based on the AGREE instrument (Appraisal of 
+Guidelines Research and Evaluation) which can be found at http://www.agreecol 
+laboration.org/instrument. A policy brief will also be developed for a wide range of 
+policy-makers, programme managers and clinicians, and then disseminated through 
+WHO country offices.
+Guideline implementation
+The successful introduction of evidence-based policies related to the prevention and 
+management of PPH into national programmes and health care services depends on 
+well-planned and participatory consensus-driven processes of adaptation and imple 
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+26
+mentation. These processes may include the development or revision of existing 
+national guidelines or protocols based on this document.
+The recommendations contained in the present guideline should be adapted into 
+locally-appropriate documents that are able to meet the specific needs of each 
+country and health service. Modifications to the recommendations, where necessary, 
+should be limited to weak recommendations and justifications for any changes made 
+in an explicit and transparent manner. 
+An enabling environment should be created for the use of these recommendations 
+(for example, by widening the availability of uterotonics), including changes in the 
+behaviour of health care practitioners to enable the use of evidence-based practic 
+es. Local professional societies may play important roles in this process and an all-
+inclusive and participatory process should be encouraged. The WHO s Department of 
+Reproductive Health and Research has published specific guidance on the introduc 
+tion of the WHO s reproductive health guidelines and tools in national programmes.
+6. Applicability issues
+Anticipated impact on the organization of care and 
+resources
+The evidence-based prevention and management of PPH can be achieved with the 
+use of relatively inexpensive drugs. However, the GDG noted that the following is 
+sues should be considered before the recommendations made in this current guide 
+line are applied:
+ 
+Women should not be left alone during the first hours after delivery of the baby 
+and the placenta
+ 
+In settings where oxytocin is used, attention should be paid to the oxytocin cold 
+chain (i.e. the requirements of a temperature-controlled supply chain)
+ 
+Health services adopting late cord clamping should also adopt strategies to iden 
+tify (and if necessary to treat) neonatal jaundice
+Monitoring and evaluating the guideline implementation
+The implementation of the recommendations in this guideline should be monitored 
+at the health-service level. Interrupted time series, clinical audits or criterion-based 
+clinical audits could be used to obtain relevant data related to the management of 
+PPH. Clearly-defined review criteria and indicators are needed and these could be 
+associated with locally-agreed targets. The GDG strongly recommends that the cov 
+erage of prophylactic uterotonics be used as a process indicator for the monitoring 
+and prevention of PPH.
+ 
+Prophylactic Uterotonic Coverage Indicator: The suggested indicator is calculat 
+ed as the number of women receiving prophylactic uterotonics during the third 
+stage of labour divided by all women giving birth
+This indicator provides an overall assessment of adherence to a key recommendation 
+included in this guideline. The use of other locally-agreed and more specific indica 
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+27
+tors (e.g. the assessment of the use of specific uterotonics) may be necessary to 
+obtain a more complete assessment of the quality of care related to the prevention 
+and treatment of PPH. WHO has developed specific guidance for evaluating the qual 
+ity of care for severe maternal complications (including PPH) based on the near-miss 
+and criterion-based clinical audit concepts (13).
+7. Updating the guideline
+This guideline will be updated in 2017 or following the identification of new evi 
+dence that indicates a need to revise these recommendations. WHO welcomes sug 
+gestions regarding additional questions for inclusion in the updated guideline. Please 
+e-mail your suggestions to: reproductivehealth@who.int.
+References
+1. Khan KS, Wojdyla D, Say L, G lmezoglu AM, Van Look PF. WHO analysis of causes 
+of maternal death: A systematic review. Lancet. 2006;367 (9516): 1066 74. 
+2. Campbell OM, Graham WJ. Lancet Maternal Survival Series Steering Group. 
+Strategies for reducing maternal mortality: getting on with what works. Lancet. 
+2006;368 (9543): 1284 99. 
+3. World Health Organization. World Health Organization multicountry survey on 
+maternal and newborn health. Geneva: WHO; 2012 
+4. World Health Organization. Managing complication in pregnancy and child 
+birth: a guide for midwives and doctors. Geneva: WHO; 2000. Available from: 
+http://www.who.int/reproductivehealth/publications/maternal_perinatal_ 
+health/9241545879/en/index.html 
+5. Begley CM, Gyte GM, Devane D, McGuire W, Weeks A. Active versus expect 
+ant management for women in the third stage of labour. Cochrane Data 
+base Syst Rev. 2011(11). Available from: http://onlinelibrary.wiley.com/
+doi/10.1002/14651858.CD007412.pub3/abstract
+6. World Health Organization. WHO recommendations for the prevention of post 
+partum haemorrhage. Geneva: WHO; 2007. Available from: http://whqlibdoc.
+who.int/hq/2007/WHO_MPS_07.06_eng.pdf 
+7. World Health Organization. WHO guidelines for the management of postpar 
+tum haemorrhage and retained placenta. Geneva: WHO; 2009. Available from: 
+http://whqlibdoc.who.int/publications/2009/9789241598514_eng.pdf 
+8. World Health Organization. Knowledge to action framework and the G.R.E.A.T 
+project. Geneva: WHO; 2010. Available from: http://www.who.int/reproduc 
+tivehealth/topics/best_practices/greatproject_KTAframework/en/index.html 
+9. World Health Organization. WHO Handbook for guideline development. 
+Geneva: WHO; 2012. Available from: http://apps.who.int/iris/bitstre
+am/10665/75146/1/9789241548441_eng.pdf
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+28
+10. World Health Organization. Guidelines on basic newborn resuscitation. 
+Geneva: WHO; 2012. Available from: http://apps.who.int/iris/bitstre
+am/10665/75157/1/9789241503693_eng.pdf
+11. World Health Organization. The WHO Reproductive Health Library. Geneva: WHO. 
+Available from: www.who.int/rhl
+12. World Health Organization. Introducing WHO s sexual and reproductive health 
+guidelines and tools into national programmes: principles and process of adap 
+tation and implementation. Geneva: WHO; 2007. Available from: http://www. 
+who.int/reproductivehealth/publications/general/RHR_07_09/en/index.html 
+13. World Health Organization. Evaluating the quality of care for severe preg 
+nancy complications: the WHO near-miss approach for maternal health. 
+Geneva: WHO; 2011. Available from: http://whqlibdoc.who.int/publica 
+tions/2011/9789241502221_eng.pdf 
+The full list of references that support the recommendations is included in the docu 
+ment entitled WHO recommendations for post partum haemorrhage: evidence base 
+and can be accessed online at: www.who.int/reproductivehealth/publications/mater 
+nal_perinatal_health/9789241548502/en/
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+29
+Annex 1. External experts, WHO staff involved in the 
+preparation of the guideline, and summary of decla 
+rations of interest
+A. Guideline Development Group (participants in the WHO Technical Consultation)
+Members (WHO External Advisers) 
+Professor Hany Abdel-Aleem
+Professor of Obstetrics and Gynecology
+Women s Health Center
+Assiut University Hospital
+Assiut
+Egypt
+Dr Catherine Deneux-Tharaux
+Medical Epidemiologist and Researcher
+Inserm U953
+Recherche pid miologique en sant p rinatale et 
+sant des femmes et des enfants
+H pital Tenon
+Paris
+France
+Dr Bukola Fawole
+Senior Lecturer
+Department of Obstetrics and Gynaecology
+College of Medicine
+University of Ibadan
+Ibadan
+Nigeria
+Dr Atf Gh rissi
+Ma tre Assistante Universitaire en Sciences de 
+l Education appliqu es la Sant 
+Ecole Sup rieure des Sciences et Techniques de la 
+Sant Universit 
+Tunis-El Manar
+Tunisia
+Ms Gill Gyte
+Research Associate
+Cochrane Pregnancy and Childbirth Group
+University of Liverpool
+Liverpool Women s Hospital NHS Trust
+Crown Street
+United Kingdom
+Dr Justus Hofmeyr
+Director
+Effective Care Research Unit 
+University of the Witwatersrand/ 
+University of Fort Hare/ 
+Eastern Cape Department of Health
+Amalinda Drive
+Private Bag X9047
+East London 
+Eastern Cape 5201
+South Africa
+Dr Simon Lewin
+Senior Researcher
+Global Health Unit
+Norwegian Knowledge Centre for the Health 
+Services & Medical Research Council, South Africa
+Oslo
+Norway
+Professor Syeda Batool Mazhar
+Professor of Obstetrics and Gynaecology
+Mother and Child Health Centre (MCH) Pakistan 
+Institute of Medical Sciences
+Islamabad
+Pakistan
+Professor Suneeta Mittal
+Professor of Obstetrics and Gynecology 
+Officer-in-Charge of the WHO Collaborating 
+Centre for Research on Human Reproduction
+All India Institute of Medical Sciences
+New Delhi
+India
+Dr Enrique Oyarzun
+Chairman 
+Department Obstetrics and Gynaecology
+Facultad de Medicina
+Pontificia Universidad Cat lica de Chile
+Santiago
+Chile
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+30
+Dr Zahida Qureshi
+Senior Lecturer
+Department of Obstetrics and Gynaecology
+University of Nairobi
+Nairobi
+Kenya
+Professor Hamid Rushwan
+Chief Executive 
+International Federation of Gynecology and Obstetrics
+FIGO House, Suite 3
+Waterloo Court, 10 Theed Street
+London 
+SE1 8ST
+United Kingdom
+Dr Jeffrey Michael Smith
+Director, Maternal Health, MCHIP
+Washington
+USA
+Dr Tran Son Thach
+Perinatal Epidemiologist
+Australian Research Centre for Health of Women and 
+Babies
+Discipline of Obstetrics and Gynaecology
+The University of Adelaide
+Women s and Children s Hospital
+King William Road
+Australia
+Dr Dilys Walker
+Associate Professor
+Department of Global Health and Obstetrics & 
+Gynecology
+University of Washington
+Ninth & Jefferson Building, Harborview Medical Center
+Seattle, WA
+USA
+Observers
+Ms Deborah Armbruster
+Senior Maternal and Newborn Health Advisor
+Center for Population, Health and Nutrition
+United States Agency for International Development
+Washington D.C.
+USA
+Ms Jennifer Blum
+Gynuity Health Projects
+New York 
+USA
+Ms Claire Glenton
+Senior Researcher
+Nordic Cochrane Centre, Norwegian Branch/ 
+Global Health Unit 
+Norwegian Knowledge Centre for the Health Services
+Oslo
+Norway
+Dr Sarah Rosenbaum 
+Norwegian Knowledge Centre for the Health Services
+Oslo
+Norway
+Ms Mary Ellen Stanton
+Senior Reproductive Health Advisor
+Center for Population, Health and Nutrition
+United States Agency for International Development
+Washington D.C.
+USA
+Ms Clare Waite
+Project Manager
+Misoprostol for Post-Partum Haemorrhage in Low 
+Resource Settings
+International Federation of Gynecology and 
+Obstetrics
+FIGO House
+London 
+United Kingdom
+Dr Beverly Winikoff
+Gynuity Health Projects
+New York
+USA 
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+31
+WHO Regional and Country Offices
+AFRO
+Dr Alicia Carbonell
+National Professional Officer
+Making Pregnancy Safer and Reproductive Health
+Bureau de pays de l OMS 
+PO Box CP 377 
+Maputo 
+Mozambique
+SEARO
+Dr Narimah Awin
+Medical Officer
+Making Pregnancy Safer and Reproductive Health
+Department of Family and Research
+World Health Organization 
+Regional Office for South-East Asia
+World Health House, Indraprastha Estate
+Mahatma Gandhi Marg
+New Delhi 110 002
+India
+WPRO
+Dr Hiromi Obara
+Medical Officer
+Maternal and Child Health and Nutrition
+Building Healthy Communities and Populations
+World Health Organization 
+Regional Office for the Western Pacific
+P.O. Box 2932
+1000 Manila
+Philippines 
+External Secretariat
+Dr Edgardo Abalos
+Centro Rosarino de Estudios Perinatales (CREP)
+Rosario 
+Argentina
+Dr Virginia Diaz
+Centro Rosarino de Estudios Perinatales (CREP)
+Rosario 
+Argentina
+Dr Natasha Hezelgrave
+Academic Clinical Fellow, Obstetrics and Gynaecology
+Kings College London
+Guy s & St Thomas NHS Foundation Trust
+London
+United Kingdom
+WHO Secretariat
+Dr Michael Mbizvo
+Director 
+Department of Reproductive Health and Research
+Dr Ana Pilar Betran
+Medical Officer
+Improving Maternal and Perinatal Health
+Research, Evidence and Norms
+Department of Reproductive Health and Research
+Dr Metin G lmezoglu
+Lead Specialist
+Improving Maternal and Perinatal Health
+Research, Evidence and Norms
+Department of Reproductive Health and Research
+Dr Matthews Mathai
+Coordinator
+Epidemiology, Monitoring and Evaluation
+Department of 
+Maternal, Newborn, Child and Adolescent 
+Health (MCA)
+Dr Jo o Paulo Souza
+Medical Officer
+Improving Maternal and Perinatal Health Research, 
+Evidence and Norms
+Department of Reproductive Health and Research
+Dr Joshua Vogel
+Improving Maternal and Perinatal Health Research, 
+Evidence and Norms
+Department of Reproductive Health and Research
+Dr Mariana Widmer
+Technical officer
+Improving Maternal and Perinatal Health Research, 
+Evidence and Norms
+Department of Reproductive Health and Research
+B. Guideline Steering Group
+Dr A. Metin G lmezoglu (WHO)
+Dr Matthews Mathai (WHO)
+Dr Jo o Paulo Souza (WHO)
+Dr Edgardo Abalos (CREP)
+Dr Virginia Diaz (CREP)
+Dr Natasha Hezelgrave (KCL)
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+32
+C. Summary of the declarations of interest: Members of the GDG
+Name
+Region 
+Country
+Declaration of Conflict 
+of interest 
+(please indicate yes or 
+ no for each section)
+Advice from 
+Legal Department 
+(please indicate 
+ yes or no )
+Meeting 
+restriction: 
+Please indicate 
+see below for 
+explanation)
+A
+B 
+C 
+D
+Professor Hany 
+Abdel-Aleem
+EMRO
+Egypt
+Y
+N 
+N
+N
+N
+N
+Dr Catherine 
+Deneux-Tharaux
+EURO
+France
+Y
+N
+N
+N
+N
+N
+Dr Bukola Fawole
+AFRO
+Nigeria 
+N
+N
+N
+N
+N
+N
+Dr Atf Gh rissi
+EMRO
+Tunisia
+N
+N
+N
+N
+N
+N
+Ms Gill Gyte
+EURO
+UK
+Y
+N
+N
+N
+N
+N
+Dr Justus Hofmeyr
+AFRO
+South 
+Africa
+Y
+N
+N
+N
+N
+N
+Dr Simon Lewin
+EURO
+Norway/
+South 
+Africa
+N
+N
+N
+N
+N
+N
+Professor Syeda 
+Batool Mazhar
+EMRO
+Pakistan
+N
+N
+N
+N
+N
+N
+Dr Enrique 
+Oyarzun
+AMRO
+Chile
+N
+N
+N
+N
+N
+N
+Dr Zahida Qureshi
+AFRO
+Kenya
+Y
+N
+N
+N
+N
+N
+Professor 
+Hamid Rushwan 
+EURO
+Sudan/UK
+N
+N
+N
+N
+N
+N
+Dr Jeffrey Michael 
+Smith
+AMRO
+USA
+N
+N
+N
+N
+N
+N
+Dr Tran Son Thach
+WPRO
+Vietnam /
+Australia
+Y
+N
+N
+N
+N
+N
+Dr Dilys Walker
+AMRO
+USA
+Y
+N
+N
+N
+N
+N
+A: Involved in academic work related to the topic of the meeting/guideline
+B: Declared any commercial financial interest, related to the topic of the meeting/guideline
+C: Declared any commercial financial interest, not directly related to the topic of the meeting/guideline
+D: Declared non-commercial interest or grants related to the topic of the meeting/guideline
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+33
+Annex 2. Critical outcomes for decision making
+PPH prevention
+Critical outcomes
+Fewer maternal deaths
+Fewer events of severe PPH (blood loss >1000 ml)
+Less use of blood transfusion
+Important outcomes
+Fewer admissions to intensive care unit
+Blood loss 500 ml
+Additional uterotonics
+Mean blood loss
+Postpartum anaemia
+Breastfeeding
+Less anaemia in infancy
+Any side effect of intervention
+Any side effect requiring treatment
+Nausea
+Vomiting
+Diarrhoea
+Headache
+Abdominal pain
+High blood pressure
+Shivering
+Maternal temperature 38 C
+Maternal temperature 40 C
+PPH treatment
+Critical outcomes
+Additional blood loss 500 ml
+Additional blood loss 1000 ml
+Blood transfusion
+Additional uterotonics
+Invasive non-surgical interventions
+Surgical interventions (including hysterectomy)
+Maternal temperature 40 C
+Procedure-related complications
+Infections
+Severe morbidity
+Maternal transfer
+Reduction of time from decision-making to implemen 
+tation
+Availability of drugs and treatment
+Important outcomes
+Accuracy in blood loss assessment
+Mean blood loss
+Postpartum anaemia
+Additional non-surgical interventions (e.g. external 
+aortic compression and compression garments)
+Artery embolization
+Nausea, vomiting or shivering
+Maternal temperature 38 C
+Delayed initiation of breastfeeding
+Prolonged hospitalization
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+34
+Annex 3: Summary of the considerations related to the strength of the recommen 
+dations (Balance Worksheets)
+Box 1. Summary of considerations related to the strength of the recommendations (Recommendations 1 5) 
+Recommendation
+1
+2
+3
+4
+5
+Intervention
+Uterotonics for PPH 
+prevention
+Oxytocin for PPH prevention
+Other uterotonics for PPH 
+prevention
+Misoprostol by community 
+health workers for PPH 
+prevention
+CCT by skilled birth 
+attendants for PPH 
+prevention
+Quality of the 
+evidence
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+Values and 
+preferences
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+Absolute 
+magnitude of 
+effect
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+Balance of 
+benefits versus 
+disadvantages
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+Resource use
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+Feasibility
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+Recommendation 
+direction
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+Overall ranking
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+35
+Box 2. Summary of considerations related to the strength of the recommendations (Recommendations 6 10) 
+Recommendation
+6
+7
+8
+9
+10
+Intervention
+CCT by unskilled birth 
+attendants for PPH 
+prevention
+Late cord clamping for PPH 
+prevention
+Early cord clamping for PPH 
+prevention
+Sustained uterine massage 
+for PPH prevention
+Postpartum abdominal 
+assessment of uterine tonus
+Quality of the
+evidence
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+Values and 
+preferences
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+Absolute 
+magnitude of 
+effect
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+Balance of 
+benefits versus 
+disadvantages
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+Resource use
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+Feasibility
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+Recommendation 
+direction
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+Overall ranking
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+36
+Box 3. Summary of considerations related to the strength of the recommendations (Recommendations 11 15) 
+Recommendation
+11
+12
+13
+14
+15
+Intervention
+Oxytocin for PPH prevention 
+in CS
+CCT for PPH prevention in 
+CS
+Oxytocin for PPH treatment
+Other uterotonic drugs for 
+PPH treatment
+Isotonic crystalloids for PPH 
+treatment
+Quality of the 
+evidence
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+Values and 
+preferences
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+Absolute 
+magnitude of 
+effect
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+Balance of 
+benefits versus 
+disadvantages
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+Resource use
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+Feasibility
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+Recommendation 
+direction
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+Overall ranking
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+37
+Box 4. Summary of considerations related to the strength of the recommendations (Recommendations 16 20) 
+Recommendation
+16
+17
+18
+19
+20
+Intervention
+Tranexamic acid for PPH 
+treatment
+Uterine massage for PPH 
+treatment
+Intrauterine balloon 
+tamponade for PPH 
+treatment
+Uterine artery embolization 
+for PPH treatment
+Surgical interventions for 
+PPH treatment
+Quality of the 
+evidence
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+Values and 
+preferences
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+Absolute 
+magnitude of 
+effect
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+Balance of 
+benefits versus 
+disadvantages
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+Resource use
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+Feasibility
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+Recommendation 
+direction
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+Overall ranking
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation*
+ Weak recommendation
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+38
+Box 5. Summary of considerations related to the strength of the recommendations (Recommendations 21 25) 
+Recommendation
+21
+22
+23
+24
+25
+Intervention
+Bimanual uterine 
+compression for PPH 
+treatment
+External aortic compression 
+for PPH treatment
+Non-pneumatic anti-shock 
+garment for PPH treatment
+Uterine packing for PPH 
+treatment
+Uterotonics and CCT for 
+retained placenta
+Quality of the 
+evidence
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+Values and 
+preferences
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+Absolute 
+magnitude of 
+effect
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+Balance of 
+benefits versus 
+disadvantages
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+Resource use
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+Feasibility
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+Recommendation 
+direction
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+Overall ranking
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+39
+Box 6. Summary of considerations related to the strength of the recommendations (Recommendations 26 30) 
+Recommendation
+26
+27
+28
+29
+30
+Intervention
+Ergometrine for retained 
+placenta
+Prostaglandin E2 alpha for 
+retained placenta
+Antibiotics with manual 
+removal for retained 
+placenta
+Formal protocols for PPH 
+treatment
+Formal protocols for patient 
+referral
+Quality of the 
+evidence
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+Values and 
+preferences
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+Absolute 
+magnitude of 
+effect
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+Balance of 
+benefits versus 
+disadvantages
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+Resource use
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+Feasibility
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+Recommendation 
+direction
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+Overall ranking
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+40
+Box 7. Summary of considerations related to the strength of the recommendations 
+(Recommendations 31 32) 
+Recommendation
+31
+32
+Intervention
+Simulations of PPH 
+treatment
+Monitoring the use of 
+uterotonics
+Quality of the 
+evidence
+ High
+ Moderate
+ Low
+ Very low
+ High
+ Moderate
+ Low
+ Very low
+Values and 
+preferences
+ No significant variability
+ Significant variability
+ No significant variability
+ Significant variability
+Absolute magnitude 
+of effect
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+Balance of 
+benefits versus 
+disadvantages
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+ Benefits outweigh 
+disadvantages
+ Benefits and disadvantages 
+are balanced
+ Disadvantages outweigh 
+benefits
+Resource use
+ Less resource intensive
+ More resource intensive
+ Less resource intensive
+ More resource intensive
+Feasibility
+ Yes, globally
+ Yes, conditionally
+ Yes, globally
+ Yes, conditionally
+Recommendation 
+direction
+ In favour of the 
+intervention
+ Against the intervention
+ In favour of the 
+intervention
+ Against the intervention
+Overall ranking
+ Strong recommendation
+ Weak recommendation
+ Strong recommendation
+ Weak recommendation
+
+WHO recommendations for the prevention and treatment of postpartum haemorrhage
+41
+Box 8. Template for the summary of considerations related to the strength of the recommendations with explanations for completing the template 
+Recommendation
+Which recommendation?
+Intervention
+What is the intervention?
+Quality of the 
+evidence
+ High
+ Moderate
+ Low
+ Very low
+The higher the quality of the evidence, the stronger the recommendation.
+If the evidence quality is low or very low , consider more carefully the other criteria below in deciding the strength of the 
+recommendation.
+Values and 
+preferences
+ No significant variability
+ Significant variability
+This refers to values placed by health workers, policy-makers, patients and other stakeholders on the intended outcomes of 
+the interventions.
+If there is wide variability between the values and preferences of various stakeholders, the intervention is less likely to have a 
+strong recommendation.
+Magnitude of 
+effect in critical 
+outcomes
+ Large effect (RR>2 or 
+RR<0.5)
+ Small effect (0.5<RR<2)
+This refers to the potential of the intervention to have large effects. The effects can be enhanced by being combined with 
+other interventions. Consider which potential associations (or bundles ) can enhance effects.
+The larger the potential effects and the longer the time period of the potential effects, the more likely the intervention is to 
+have a strong recommendation.
+Balance of 
+benefits versus 
+disadvantages
+ Benefits outweigh 
+disadvantages
+ Benefits and 
+disadvantages are 
+balanced
+ Disadvantages outweigh 
+benefits
+Benefits refer to the intended positive effects of an intervention .
+Disadvantages refer to the potentially negative effects of an intervention as well as its unintended effects.
+The fewer the potentially negative effects there are, the more likely the intervention is to receive a strong recommendation.
+Resource use
+ Less resource intensive
+ More resource intensive
+The resources needed for the implementation of a recommendation may include financial resources, human resources, 
+and infrastructure or equipment. Ideally, the cost of the benefits of an intervention should be reasonable, affordable and 
+sustainable. It should be remembered that capital costs, such as those required for infrastructural development, may be 
+initially high but may also yield long-term benefits. 
+Generally, interventions that incur higher incremental or recurrent costs are less likely to be strongly recommended.
+Feasibility
+ Yes, globally
+ Yes, conditionally
+Political commitment and wide stakeholder engagement are prerequisites for interventions. The technical feasibility of 
+interventions also depends on sufficiently functional organizational and institutional structures to manage, follow through, 
+and monitor the implementation of the recommendation. The elements of technical feasibility vary considerably by country 
+and by context; where these elements are likely to be functional across a wide variety of settings it is more likely that 
+interventions will receive strong recommendations.
+Recommendation 
+direction
+ In favour of the 
+intervention
+ Against the intervention
+Overall ranking
+ Strong recommendation
+ Weak recommendation
+Strength of the recommendation.
+
+For more information, please contact:
+Department of Reproductive Health and Research
+E-mail: reproductivehealth@who.int
+www.who.int/reproductivehealth
+Maternal, Newborn, Child and Adolescent Health
+E-mail: mncah@who.int
+www.who.int/maternal_child_adolescent
+World Health Organization
+Avenue Appia 20, CH-1211 Geneva 27
+Switzerland

@@ -1,0 +1,1658 @@
+GLOBAL ACTION PLAN 
+ON ANTIMICROBIAL 
+RESISTANCE
+
+WHO Library Cataloguing-in-Publication Data
+Global Action Plan on Antimicrobial Resistance.
+I.World Health Organization.
+ 
+ISBN 978 92 4 150976 3 
+ 
+ 
+ 
+ 
+Subject headings are available from WHO institutional repository
+ World Health Organization 2015
+All rights reserved. Publications of the World Health Organization are available on the WHO web site (www.who.int) or can be purchased 
+from WHO Press, World Health Organization, 20 Avenue Appia, 1211 Geneva 27, Switzerland (tel.: +41 22 791 3264; fax: +41 22 791 4857; 
+e-mail: bookorders@who.int). 
+Requests for permission to reproduce or translate WHO publications whether for sale or for non-commercial distribution should be addressed 
+to WHO Press through the WHO website (www.who.int/about/licensing/copyright_form/en/index.html).
+The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on 
+the part of the World Health Organization concerning the legal status of any country, territory, city or area or of its authorities, or concerning 
+the delimitation of its frontiers or boundaries. Dotted lines on maps represent approximate border lines for which there may not yet be 
+full agreement.
+The mention of specific companies or of certain manufacturers products does not imply that they are endorsed or recommended by the 
+World Health Organization in preference to others of a similar nature that are not mentioned. Errors and omissions excepted, the names of 
+proprietary products are distinguished by initial capital letters.
+All reasonable precautions have been taken by the World Health Organization to verify the information contained in this publication. However, 
+the published material is being distributed without warranty of any kind, either expressed or implied. The responsibility for the interpretation 
+and use of the material lies with the reader. In no event shall the World Health Organization be liable for damages arising from its use. 
+The definitive version of the Global Action Plan can be found in the official records of the Sixty-eighth World Health Assembly (document 
+WHA68/2015/REC/1, Annex 3.)
+Design and layout: www.paprika-annecy.com
+Printed by the WHO Document Production Services, Geneva, Switzerland
+
+Contents
+V
+Foreword..................................................................................................................VII
+Introduction...............................................................................................................1
+Scope..........................................................................................................................2
+The challenge............................................................................................................3
+The way forward........................................................................................................5
+Consultative process.................................................................................................7
+Strategic objectives...................................................................................................8
+ Objective 1: 
+Improve awareness and understanding of antimicrobial resistance through effective 
+communication, education and training................................................................................8
+ Objective 2: 
+Strengthen the knowledge and evidence base through surveillance and research........8
+ Objective 3: 
+Reduce the incidence of infection through effective sanitation, hygiene and 
+infection prevention measures................................................................................................9
+Objective 4: 
+Optimize the use of antimicrobial medicines in human and animal health....................10
+Objective 5: 
+Develop the economic case for sustainable investment that takes account 
+of the needs of all countries, and increase investment in new medicines, 
+diagnostic tools, vaccines and other interventions.............................................................11
+Framework for action on antimicrobial resistance...............................................12
+
+VII
+Antimicrobial resistance threatens the very core of modern medicine and the sustainability of an effective, global public 
+health response to the enduring threat from infectious diseases. Effective antimicrobial drugs are prerequisites for 
+both preventive and curative measures, protecting patients from potentially fatal diseases and ensuring that complex 
+procedures, such as surgery and chemotherapy, can be provided at low risk. Yet systematic misuse and overuse of 
+these drugs in human medicine and food production have put every nation at risk. Few replacement products are in the 
+pipeline. Without harmonized and immediate action on a global scale, the world is heading towards a post-antibiotic 
+era in which common infections could once again kill.
+Alert to this crisis, the May 2015 World Health Assembly adopted a global action plan on antimicrobial resistance, 
+which outlines five objectives:
+`
+` to improve awareness and understanding of antimicrobial resistance through effective communication, education 
+and training; 
+`
+` to strengthen the knowledge and evidence base through surveillance and research; 
+`
+` to reduce the incidence of infection through effective sanitation, hygiene and infection prevention measures; 
+`
+` to optimize the use of antimicrobial medicines in human and animal health; 
+`
+` to develop the economic case for sustainable investment that takes account of the needs of all countries and to 
+increase investment in new medicines, diagnostic tools, vaccines and other interventions.
+This action plan underscores the need for an effective one health approach involving coordination among numerous 
+international sectors and actors, including human and veterinary medicine, agriculture, finance, environment, and well-
+informed consumers. The action plan recognizes and addresses both the variable resources nations have to combat 
+antimicrobial resistance and the economic factors that discourage the development of replacement products by the 
+pharmaceutical industry. 
+An all-out effort is needed. WHO will work with the United Nations to tackle antimicrobial resistance at the political 
+level. Our strong collaboration with FAO and OIE will continue. A framework for monitoring and evaluating national 
+activities is being developed. The objective is to have multisectoral national action plans in place by the 2017 World 
+Health Assembly. 
+Antimicrobial resistance is a crisis that must be managed with the utmost urgency. As the world enters the ambitious 
+new era of sustainable development, we cannot allow hard-won gains for health to be eroded by the failure of our 
+mainstay medicines. 
+Dr Margaret Chan
+Director-General
+World Health Organization
+Foreword
+
+1
+Introduction
+1. 
+ 
+ When microbes become resistant to medicines, the options 
+for treating the diseases they cause are reduced. 
+This resistance to antimicrobial medicines is happening 
+in all parts of the world for a broad range of microorganisms 
+with an increasing prevalence that threatens human 
+and animal health. The direct consequences of infection 
+with resistant microorganisms can be severe, including 
+longer illnesses, increased mortality, prolonged stays 
+in hospital, loss of protection for patients undergoing 
+operations and other medical procedures, and increased 
+costs. Antimicrobial resistance affects all areas of health, 
+involves many sectors and has an impact on the whole 
+of society.
+2. 
+ 
+ The indirect impact of antimicrobial resistance, however, 
+extends beyond increased health risks and has many 
+public health consequences with wide implications, 
+for instance on development. Antimicrobial resistance 
+is a drain on the global economy with economic losses 
+due to reduced productivity caused by sickness (of both 
+human beings and animals) and higher costs of treatment. 
+To counter it needs long-term investment, such as financial 
+and technical support for developing countries and in 
+development of new medicines, diagnostic tools, vaccines 
+and other interventions, and in strengthening health 
+systems to ensure more appropriate use of and access 
+to antimicrobial agents.
+3. 
+ 
+ The development of this global action plan on antimicrobial 
+resistance1, requested by the Health Assembly in resolution 
+WHA67.25 in May 2014, reflects a global consensus that 
+antimicrobial resistance poses a profound threat to human 
+health. It reflects the input received to date from broad 
+multisectoral and Member States consultations.
+4. 
+ 
+ The goal of the global action plan is to ensure, for as 
+long as possible, continuity of successful treatment and 
+prevention of infectious diseases with effective and safe 
+medicines that are quality-assured, used in a responsible 
+way, and accessible to all who need them. It is expected 
+that countries will develop their own national action plans 
+on antimicrobial resistance in line with the global plan.
+5. 
+ 
+ To achieve this goal, the global action plan sets out 
+five strategic objectives: (1) to improve awareness and 
+understanding of antimicrobial resistance; (2) to strengthen 
+knowledge through surveillance and research; (3) to 
+reduce the incidence of infection; (4) to optimize the use 
+of antimicrobial agents; and (5) to ensure sustainable 
+investment in countering antimicrobial resistance. These 
+objectives can be attained through the implementation of 
+clearly identified actions by Member States, the Secretariat, 
+and international and national partners across multiple 
+sectors. The actions to optimize use of antimicrobial 
+medicines and to renew investment in research and 
+development of new products must be accompanied by 
+actions to ensure affordable and equitable access by 
+those who need them.
+6. 
+ 
+ With this approach, the main goal of ensuring treatment 
+and prevention of infectious diseases with quality-assured, 
+safe and effective medicines is achievable.
+1 See resolution WHA68.7.
+
+GLOBAL ACTION PLAN ON ANTIMICROBIAL RESISTANCE
+2
+7. 
+ 
+ Antibiotic resistance develops when bacteria adapt and 
+grow in the presence of antibiotics. The development of 
+resistance is linked to how often antibiotics are used. 
+Because many antibiotics belong to the same class of 
+medicines, resistance to one specific antibiotic agent can 
+lead to resistance to a whole related class. Resistance 
+that develops in one organism or location can also spread 
+rapidly and unpredictably, through, for instance, exchange 
+of genetic material between different bacteria, and can 
+affect antibiotic treatment of a wide range of infections 
+and diseases. Drug-resistant bacteria can circulate in 
+populations of human beings and animals, through food, 
+water and the environment, and transmission is influenced 
+by trade, travel and both human and animal migration. 
+Resistant bacteria can be found in food animals and food 
+products destined for consumption by humans.
+8. 
+ 
+ Some of these features also apply to medicines that are 
+used to treat viral, parasitic and fungal diseases; hence 
+the broader term antimicrobial resistance.
+9. 
+ 
+ The global action plan covers antibiotic resistance in 
+most detail but also refers, where appropriate, to existing 
+action plans for viral, parasitic and bacterial diseases, 
+including HIV/AIDS, malaria and tuberculosis.2 Many of 
+the actions proposed in this plan are equally applicable 
+to antifungal resistance in addition to resistance in those 
+other microorganisms.
+10. 
+ 
+ Antimicrobial resistance (and particularly antibiotic 
+resistance) is spreading, and there are few prospects for 
+the development of new classes of antibiotics in the short 
+term. However, there is today considerable awareness of 
+the need for, and political support for, action to combat 
+antimicrobial resistance. Support is multisectoral, and there 
+is increasing collaboration among the relevant sectors, 
+in particular, human health, animal health and agriculture 
+(including a tripartite collaboration agreed by FAO, OIE and 
+WHO3). The need for urgent action is consistent with a 
+precautionary approach,4 and national and international 
+multisectoral action and collaboration should not be 
+impeded by gaps in knowledge.
+11. 
+ 
+ This global action plan provides the framework for national 
+action plans to combat antimicrobial resistance. It sets 
+out the key actions that the various actors involved should 
+take, using an incremental approach over the next 5-10 
+years to combat antimicrobial resistance. These actions 
+are structured around the five strategic objectives set out 
+in paragraphs 29 47.
+Scope
+2 World Health Organization global strategy for the surveillance and monitoring 
+of HIV drug resistance. Geneva: World Health Organization; 2012. Guidelines for 
+surveillance of drug resistance in tuberculosis, fourth edition. Geneva: World 
+Health Organization; 2009. Companion handbook to the WHO guidelines for the 
+programmatic management of drug-resistant tuberculosis. Geneva: World Health 
+Organization; 2014. Global plan for artemisinin resistance containment. Geneva: 
+World Health Organization; 2011. Emergency response to artemisinin resistance 
+in the Greater Mekong subregion. Geneva: World Health Organization; 2013. See 
+also resolution WHA62.15.
+3 The FAO-OIE-WHO Collaboration: sharing responsibilities and coordinating global 
+activities to address health risks at the animal-human-ecosystems interfaces 
+ a tripartite concept note, 2010, available at http://www.who.int/influenza/ 
+resources/documents/tripartite_concept_note_hanoi_042011_en.pdf (accessed 
+20 November 2014).
+4 Section IV: Risk analysis, paragraph 11. In: Joint FAO/WHO Food Standards 
+Programme. Codex Alimentarius Commission: procedural manual, twenty-third 
+edition. Rome: Food and Agriculture Organization of the United Nations; 2015:110.
+
+3
+12. 
+ 
+ Improvements in global health over recent decades are 
+under threat because the microorganisms that cause 
+many common human diseases and medical conditions 
+ including tuberculosis, HIV/AIDS, malaria, sexually 
+transmitted diseases, urinary tract infections, pneumonia, 
+blood-stream infections and food poisoning have become 
+resistant to a wide range of antimicrobial medicines. 
+Doctors must increasingly use last-resort medicines that 
+are more costly, may have more side effects and are often 
+unavailable or unaffordable in low- and middle-income 
+countries. Some cases of tuberculosis and gonorrhoea are 
+now resistant even to antibiotics of last resort.
+13. 
+ 
+ Resistance develops more rapidly through the misuse 
+and overuse of antimicrobial medicines. Antibiotic use for 
+human health is reported to be increasing substantially. 
+Surveys in a wide range of countries show that many 
+patients believe that antibiotics will cure viral infections 
+that cause coughs, colds and fever. Antibiotics are 
+needed to treat sick animals but are also widely used 
+in healthy animals to prevent disease and, in many 
+countries, to promote growth through mass administration 
+to herds. Antimicrobial agents are commonly used in plant 
+agriculture and commercial fish and seafood farming. 
+The potential impact of antimicrobials in the environment 
+is also of concern to many.
+14. 
+ 
+ Antimicrobial resistance can affect all patients and 
+families. Some of the commonest childhood diseases 
+in developing countries malaria, pneumonia, other 
+respiratory infections, and dysentery can no longer be 
+cured with many older antibiotics or medicines. In lower-
+income countries, effective and accessible antibiotics are 
+crucial for saving the lives of children who have those 
+diseases, as well as other conditions such as bacterial 
+blood infections. In all countries, some routine surgical 
+operations and cancer chemotherapy will become less safe 
+without effective antibiotics to protect against infections.
+15. 
+ 
+ Health care workers have a vital role in preserving the 
+power of antimicrobial medicines. Inappropriate prescribing 
+and dispensing can lead to their misuse and overuse if 
+medical staff lack up-to-date information, cannot identify 
+the type of infection, yield to patient pressure to prescribe 
+antibiotics, or benefit financially from supplying the 
+medicines. Inadequate hygiene and infection prevention 
+and control in hospitals help to spread infections. Hospital 
+patients infected with methicillin-resistant Staphylococcus 
+aureus have a higher risk of dying than those infected by 
+a non-resistant form of the bacteria.
+16. 
+ 
+ For farmers, animal husbandry and the food industry, 
+the loss of effective antimicrobial agents to treat sick 
+animals damages food production and family livelihoods. 
+An additional risk for livestock workers is exposure to 
+animals carrying resistant bacteria. For example, farmers 
+working with cattle, pigs and poultry that are infected 
+with methicillin-resistant Staphylococcus aureus have 
+a much higher risk of also being colonized or infected 
+with these bacteria. Food is one of the possible vehicles 
+for transmission of resistant bacteria from animals to 
+human beings and human consumption of food carrying 
+antibiotic-resistant bacteria has led to acquisition of 
+antibiotic-resistant infections. Other risks for infection 
+with resistant organisms include exposure to crops treated 
+with antimicrobial agents or contaminated by manure or 
+slurry, and farmyard run-offs into groundwater.
+The challenge
+
+GLOBAL ACTION PLAN ON ANTIMICROBIAL RESISTANCE
+4
+17. 
+ 
+ Reducing antimicrobial resistance will require the political 
+will to adopt new policies, including controlling the use 
+of antimicrobial medicines in human health and animal 
+and food production. In most countries, antibiotics can 
+be purchased in markets, shops, pharmacies or over the 
+Internet without prescription or involvement of a health 
+professional or veterinarian. Poor quality medical and 
+veterinary products are widespread, and often contain 
+low concentrations of active ingredients, encouraging 
+emergence of resistant microbes. Laws to ensure that 
+medicines are of assured quality, safe, effective and 
+accessible to those who need them need to be enacted 
+and enforced.
+18. 
+ 
+ The World Economic Forum has identified antibiotic 
+resistance as a global risk beyond the capacity of any 
+organization or nation to manage or mitigate alone,5 
+but in general there is little awareness of the potential 
+social, economic and financial impacts of drug resistance. 
+In developed economies, these include higher health 
+care costs and decreases in labour supply, productivity, 
+household incomes, and national income and tax revenues. 
+In the European Union alone, a subset of drug-resistant 
+bacteria is responsible annually for some 25 000 deaths, 
+with extra health care costs and lost productivity due to 
+antimicrobial resistance amounting to at least 1500 million. 
+Similar analyses are needed for low- and middle-income 
+countries. Resistance to common veterinary antimicrobial 
+medicines also causes food production losses, poor animal 
+welfare and extra costs. Antimicrobial resistance is sapping 
+the global economy and the full economic case needs to 
+be made for long-term sustainable investment to tackle 
+the problem, including the ensuring of access to financial 
+and technical support for developing countries.
+19. 
+ 
+ For the pharmaceutical sector, medicines that are no 
+longer effective lose their value. Industry leaders are 
+important partners in combating antimicrobial resistance, 
+both by supporting the responsible use of medicines 
+in order to prolong their effectiveness and through 
+research and development of innovative medicines and 
+other tools to combat resistance. No major new class 
+of antibiotics has been discovered since 1987 and too 
+few antibacterial agents are in development to meet 
+the challenge of multidrug resistance. New concepts 
+are needed for providing incentives for innovation and 
+promoting cooperation among policy-makers, academia 
+and the pharmaceutical industry to ensure that new 
+technologies are available globally to prevent, diagnose 
+and treat resistant infections. Public sector partnerships 
+with the private sector are also important to help to ensure 
+equitable access to quality-assured products and other 
+related health technologies, through fair pricing and 
+donations for the poorest populations.
+5 Howell L, Ed. Global risks 2013: eighth edition. Geneva: World Economic 
+Forum, 2013.
+
+5
+20. 
+ 
+ Despite proposals and initiatives over many years to 
+combat antimicrobial resistance, progress has been slow, 
+in part because of, on the one hand, inadequate monitoring 
+and reporting at national, regional and global levels, and, 
+on the other, inadequate recognition by all stakeholders 
+of the need for action in their respective areas.
+21. 
+ 
+ At the national level, operational action plans to combat 
+antimicrobial resistance are needed to support strategic 
+frameworks.6 All Member States are urged to have in 
+place, within two years of the endorsement of the action 
+plan by the Health Assembly, national action plans 
+on antimicrobial resistance that are aligned with the 
+global action plan and with standards and guidelines 
+established by intergovernmental bodies such as the 
+Codex Alimentarius Commission, FAO and OIE. These 
+national action plans are needed to provide the basis for 
+an assessment of the resource needs, and should take 
+into account national and regional priorities. Partners and 
+other stakeholders, including FAO, OIE, the World Bank, 
+industry associations and foundations, should also put 
+in place and implement action plans in their respective 
+field of responsibility to counter antimicrobial resistance, 
+and report progress as part of their reporting cycles. 
+All action plans should reflect the following principles:
+ (1) Whole-of-society engagement including a one-
+health approach. Antimicrobial resistance will affect 
+everybody, regardless of where they live, their health, 
+economic circumstances, lifestyle or behaviour. It will 
+affect sectors beyond human health, such as animal health, 
+agriculture, food security and economic development. 
+Therefore, everybody in all sectors and disciplines 
+should be engaged in the implementation of the action plan, 
+and in particular in efforts to preserve the effectiveness 
+of antimicrobial medicines through conservation and 
+stewardship programmes.
+ (2) Prevention first. Every infection prevented is one that 
+needs no treatment. Prevention of infection can be cost 
+effective and implemented in all settings and sectors, 
+even where resources are limited. Good sanitation, hygiene 
+and other infection prevention measures that can slow the 
+development and restrict the spread of difficult-to-treat 
+antibiotic-resistant infections are a best buy .
+ (3) Access. The aim to preserve the ability to treat 
+serious infections requires both equitable access to, 
+and appropriate use of, existing and new antimicrobial 
+medicines. Effective implementation of national and global 
+action plans to address antimicrobial resistance depends 
+also on access, inter alia, to health facilities, health care 
+professionals, veterinarians, preventive technologies, 
+diagnostic tools including those which are point of care , 
+and to knowledge, education and information.
+The way forward
+6 The Secretariat has worked with Member States to collate information on the 
+status of national action plans on antimicrobial resistance and on regulations 
+and policies for use of antimicrobial medicines. A report based on these data 
+provides a baseline against which future progress at national and global levels 
+can be monitored and reported, see http://www.who.int/drugresistance/documents/
+situationanalysis/en/ (accessed 9 September 2015).
+
+GLOBAL ACTION PLAN ON ANTIMICROBIAL RESISTANCE
+6
+ (4) Sustainability. All countries should have a national 
+action plan on antimicrobial resistance that includes an 
+assessment of resource needs. The implementation of these 
+plans will require long-term investment, for instance in 
+surveillance, operational research, laboratories, human and 
+animal health systems, competent regulatory capacities, 
+and professional education and training, in both the human 
+and animal health sectors. Political commitment and 
+international collaboration are needed to promote the 
+technical and financial investment necessary for effective 
+development and implementation of national action plans.
+ (5) Incremental targets for implementation. Member 
+States are at very different stages in terms of developing 
+and implementing national plans to combat antimicrobial 
+resistance. To enable all countries to make the most 
+progress towards implementing the global action plan 
+on antimicrobial resistance, flexibility will be built into 
+the monitoring and reporting arrangements in order to 
+allow each country to determine the priority actions that 
+it needs to take in order to attain each of the five strategic 
+objectives and to implement the actions in a stepwise 
+manner that meets both local needs and global priorities.
+
+7
+22. 
+ 
+ In May 2014, the Sixty-seventh World Health Assembly 
+adopted resolution WHA67.25 on antimicrobial resistance, 
+in which it requested, inter alia, the Director-General, 
+to develop a draft global action plan to combat antimicrobial 
+resistance, including antibiotic resistance, and to submit 
+the draft to the Sixty-eighth World Health Assembly, through 
+the Executive Board.
+23. 
+ 
+ To initiate the preparation of a draft global action plan, 
+the Secretariat used the recommendations of the Strategic and 
+Technical Advisory Group on antimicrobial resistance,7 existing 
+national and regional action plans, WHO s guidance and action 
+plans on related subjects, as well as other available evidence 
+and analysis.8 The Secretariat regularly consulted FAO and OIE, 
+for example through meetings as part of the tripartite collaboration 
+and through their participation in other consultations, to ensure a 
+one-health approach and consistency with Codex Alimentarius 
+and OIE international standards and guidelines.
+24. 
+ 
+ At its second meeting (Geneva, 14-16 April 2014),9 the 
+Strategic and Technical Advisory Group considered input 
+from more than 30 additional participants, including 
+representatives of intergovernmental organizations, civil 
+society, public health and regulatory agencies, industry 
+associations, professional organizations and patient 
+groups. At a subsequent meeting (Geneva, 17 October 
+2014), the Advisory Group reviewed the text of the draft 
+global action plan. The Strategic and Technical Advisory 
+Group recently held its fourth meeting (Geneva, 24 and 
+25 February 2015) in order to provide advice to the 
+Secretariat on finalization of the draft global action plan.
+25. 
+ 
+ During July and August 2014 the Secretariat held a web-
+based consultation for Member States and other relevant 
+stakeholders, attracting 130 comments and contributions, 
+including 54 from Member States, 40 from nongovernmental 
+organizations and 16 from private-sector entities.
+26. 
+ 
+ Between June and November 2014, Member States, 
+stakeholders and the Secretariat convened additional 
+high-level technical, political and interagency discussions 
+to contribute to the action plan.10 These included the 
+Ministerial Conference on Antibiotic Resistance: joining 
+forces for future health (The Hague, 25 and 26 June 2014); 
+a meeting on the Global Health Security Agenda, including 
+antimicrobial resistance (Jakarta, 20 and 21 August 
+2014); an informal Member States consultation to provide 
+direct input on the draft plan (Geneva, 16 October 2014); 
+a meeting on the responsible use of antibiotics (Oslo, 
+13 and 14 November 2014); and a meeting on global 
+surveillance capacity, systems and standards (Stockholm, 
+2 and 3 December 2014).
+Consultative process
+7 Details of the Strategic and Technical Advisory Group on antimicrobial resistance 
+and its recommendations are available at: http://www.who.int/drugresistance/
+stag/en/ (accessed 18 November 2014).
+8 Details of national and regional action plans, WHO guidance and action 
+plans for specific diseases and health topics including antimicrobial 
+resistance, standards and guidelines established by intergovernmental 
+organizations such as FAO and OIE, and other information taken into account 
+are documented in supplementary material, see http://www.who.int/ 
+drugresistance/documents/situationanalysis/en/ (accessed 9 September 2015).
+9 The report of the meeting is available at: http://apps.who.int/iris/bitstream/10665/ 
+128675/1/WHO_HSE_PED_AIP_2014.4_eng.pdf?ua=1&ua=1 (accessed 
+18 November 2014).
+10 Information on these consultations is available at: http://www.who.int/drugresistance/
+en/ (accessed 9 March 2015).
+
+GLOBAL ACTION PLAN ON ANTIMICROBIAL RESISTANCE
+8
+27. 
+ 
+ The overall goal of the action plan is to ensure, for as 
+long as possible, continuity of the ability to treat and 
+prevent infectious diseases with effective and safe 
+medicines that are quality-assured, used in a responsible 
+way, and accessible to all who need them.
+28. 
+ 
+ To achieve this overall goal, five strategic objectives 
+have been identified. These are set out below with the 
+corresponding actions for Member States, the Secretariat 
+(including actions for FAO, OIE and WHO within the tripartite 
+collaboration), and international organizations and other 
+partners, in the tables following paragraph 50. It is expected 
+that countries will develop their own national action plans 
+on antimicrobial resistance in line with the global plan.
+ Objective 1: Improve awareness 
+and understanding of 
+antimicrobial resistance through 
+effective communication, 
+education and training
+29. 
+ 
+ Steps need to be taken immediately in order to raise 
+awareness of antimicrobial resistance and promote 
+behavioural change, through public communication 
+programmes that target different audiences in human 
+health, animal health and agricultural practice as well as 
+consumers. Inclusion of the use of antimicrobial agents 
+and resistance in school curricula will promote better 
+understanding and awareness from an early age.
+30. 
+ 
+ Making antimicrobial resistance a core component of 
+professional education, training, certification, continuing 
+education and development in the health and veterinary 
+sectors and agricultural practice will help to ensure proper 
+understanding and awareness among professionals.
+ Objective 2: Strengthen the 
+knowledge and evidence base 
+through surveillance and 
+research
+31. 
+ 
+ Actions and investments to tackle antimicrobial 
+resistance should be supported by clear rationales of 
+their benefit and cost effectiveness. National governments, 
+intergovernmental organizations, agencies, professional 
+organizations, nongovernmental organizations, industry 
+and academia have important roles in generating such 
+knowledge and translating it into practice.
+32. 
+ 
+ Particularly important gaps in knowledge that need to be 
+filled include the following:
+`
+` Information on: the incidence, prevalence, range 
+across pathogens and geographical patterns related 
+to antimicrobial resistance is needed to be made 
+accessible in a timely manner in order to guide the 
+treatment of patients; to inform local, national and 
+regional actions; and to monitor the effectiveness 
+of interventions;
+`
+` Understanding how resistance develops and spreads, 
+including how resistance circulates within and between 
+humans and animals and through food, water and 
+the environment, is important for the development 
+of new tools, policies and regulations to counter 
+antimicrobial resistance;
+`
+` The ability rapidly to characterize newly emerged 
+resistance in microorganisms and elucidate the 
+underlying mechanisms; this knowledge is necessary 
+to ensure that surveillance and diagnostic tools and 
+methods remain current;
+Strategic objectives
+
+9
+`
+` Understanding social science and behaviour, and other 
+research needed to support the achievement of 
+Objectives 1, 3 and 4, including studies to support 
+effective antimicrobial stewardship programmes in 
+human and animal health and agriculture;
+`
+` Research, including clinical studies conducted in 
+accordance with relevant national and international 
+governance arrangements, on treatments and 
+prevention for common bacterial infections, especially 
+in low resource settings;
+`
+` Basic research and translational studies to support 
+the development of new treatments, diagnostic tools, 
+vaccines and other interventions;
+`
+` Research to identify alternatives to nontherapeutic 
+uses of antimicrobial agents in agriculture and 
+aquaculture, including their use for growth promotion 
+and crop protection;
+`
+` Economic research, including the development of 
+models to assess the cost of antimicrobial resistance 
+and the costs and benefits of this action plan.
+33. 
+ 
+ WHO s global report on surveillance of antimicrobial 
+resistance11 also revealed many gaps in information on 
+antimicrobial resistance in pathogens of major public health 
+importance. International standards on harmonization 
+of national antimicrobial resistance surveillance and 
+monitoring programmes were adopted by OIE s members in 
+2012, but there are no internationally agreed standards for 
+collection of data and reporting on antibacterial resistance 
+in human health, and no harmonizing standards across 
+medical, veterinary and agricultural sectors. In addition, 
+there is no global forum for the rapid sharing of information 
+on antimicrobial resistance.
+34. 
+ 
+ In 2013, some Member States of the European Union 
+published a strategic research agenda on antimicrobial 
+resistance through a joint programming initiative.12 This 
+initiative, which includes some countries outside the 
+European Union, could provide an initial framework for 
+further development of a global strategic research agenda.
+ Objective 3: Reduce the incidence 
+of infection through effective 
+sanitation, hygiene and infection 
+prevention measures
+35. 
+ 
+ Many of the most serious and difficult-to-treat antibiotic-
+resistant infections occur in health care facilities, not only 
+because that is where patients with serious infections are 
+admitted but also because of the intensive use therein 
+of antibiotics. Although the development of resistance 
+in such situations may be a natural consequence of 
+necessary antimicrobial use, inadequate measures to 
+prevent and control infection may contribute to the spread 
+of microorganisms resistant to antimicrobial medicines.
+36. 
+ 
+ Better hygiene and infection prevention measures 
+are essential to limit the development and spread of 
+antimicrobial-resistant infections and multidrug-resistant 
+bacteria. Effective prevention of infections transmitted 
+through sex or drug injection as well as better sanitation, 
+hand washing, and food and water safety must also be 
+core components of infectious disease prevention.
+37. 
+ 
+ Vaccination, where appropriate as an infection prevention 
+measure, should be encouraged. Immunization can reduce 
+antimicrobial resistance in three ways:
+11 Antimicrobial resistance: global report on surveillance 2014. Geneva: World Health 
+Organization; 2014.
+12 Strategic Research Agenda: Joint Programming Initiative on Antimicrobial Resistance. 
+The Hague, JPIAMR, 2013.
+
+GLOBAL ACTION PLAN ON ANTIMICROBIAL RESISTANCE
+10
+`
+` Existing vaccines can prevent infectious diseases whose 
+treatment would require antimicrobial medicines;
+`
+` Existing vaccines can reduce the prevalence of primary 
+viral infections, which are often inappropriately treated 
+with antibiotics, and which can also give rise to 
+secondary infections that require antibiotic treatment;
+`
+` Development and use of new or improved vaccines can 
+prevent diseases that are becoming difficult to treat 
+or are untreatable owing to antimicrobial resistance.
+38. 
+ 
+ Much antibiotic use is linked to animal production. 
+Antibiotics are sometimes used to prevent infections, 
+to prevent the spread of diseases within a herd when 
+infection occurs, and as a growth stimulant, and are 
+often administered through feed and water. Sustainable 
+husbandry practices, including the use of vaccines, 
+can reduce infection rates and dependence on antibiotics 
+as well as the risk that antibiotic-resistant organisms will 
+develop and spread through the food chain.
+Objective 4: Optimize the use 
+of antimicrobial medicines in 
+human and animal health
+39. 
+ 
+ Evidence that antimicrobial resistance is driven by the 
+volume of use of antimicrobial agents is compelling. 
+High antibiotic use may reflect over-prescription, 
+easy access through over-the-counter sales, and more 
+recently sales via the Internet which are widespread in 
+many countries. Despite measures taken by some Member 
+States, antibiotic use in humans, animals and agriculture is 
+still increasing globally. The projected increase in demand 
+for animal food products may lead to yet further increases 
+in antibiotic use.
+40. 
+ 
+ Data on antibiotic use are collected and analysed in many 
+high- and middle-income countries and OIE is developing 
+a database on antibiotic use in animals. However, data are 
+lacking on antibiotic use in human beings at the point of 
+care and from lower-income countries.
+41. 
+ 
+ More widespread recognition of antimicrobial medicines as 
+a public good is needed in order to strengthen regulation 
+of their distribution, quality and use, and encourage 
+investment in research and development. In some cases, 
+industry spending on promoting products is greater than 
+governmental investment in promoting rational use of 
+antimicrobial medicines or providing objective information.
+42. 
+ 
+ Decisions to prescribe antibiotics are rarely based on 
+definitive diagnoses. Effective, rapid, low-cost diagnostic 
+tools are needed for guiding optimal use of antibiotics in 
+human and animal medicine, and such tools should be 
+easily integrated into clinical, pharmacy and veterinary 
+practices. Evidence-based prescribing and dispensing 
+should be the standard of care.
+43. 
+ 
+ Regulation of the use of antimicrobial agents is inadequate 
+or poorly enforced in many areas, such as over-the-counter 
+and Internet sales. Related weaknesses that contribute 
+to development of antimicrobial resistance include poor 
+patient and health care provider compliance, the prevalence 
+of substandard medicines for both human and veterinary 
+use, and inappropriate or unregulated use of antimicrobial 
+agents in agriculture.
+
+11
+Objective 5: Develop the 
+economic case for sustainable 
+investment that takes account 
+of the needs of all countries, 
+and increase investment in new 
+medicines, diagnostic tools, 
+vaccines and other interventions
+44. 
+ 
+ The economic case must reflect the need for capacity 
+development, including training in low-resource settings, 
+and the need for the evidence-based use of interventions 
+across human and animal health care systems including 
+medicines, diagnostic tools and vaccines.
+45. 
+ 
+ Economic impact assessments are needed on the health 
+and broader socioeconomic burden of antimicrobial 
+resistance, and should compare the cost of doing nothing 
+against the cost and benefit of action. Lack of such data 
+hindered implementation of the 2001 Global Strategy 
+for Containment of Antimicrobial Resistance.13 The few 
+studies on the economic cost of antimicrobial resistance 
+are limited chiefly to developed countries.
+46. 
+ 
+ Investment in the development of new antimicrobial 
+medicines, as well as in diagnostic tools and vaccines, 
+is needed urgently. Lack of such investment reflects, in part, 
+fears that resistance will develop rapidly and that returns 
+on investment will be limited because of restrictions in 
+use. Thus research and development of new antibiotics 
+is seen as a less attractive business investment than that 
+of medicines for chronic diseases. Currently most major 
+pharmaceutical companies have stopped research in this 
+area, a situation described by WHO s Consultative Expert 
+Working Group on Research and Development: Financing 
+and Coordination14 as a serious market failure and a 
+particular cause for concern . New processes are needed 
+both to facilitate renewed investment in research and 
+development of new antibiotics, and to ensure that use of 
+new products is governed by a public health framework of 
+stewardship that conserves the effectiveness and longevity 
+of such products. The cost of investment in research and 
+development may need to be de-linked from price and 
+the volume of sales to facilitate equitable and affordable 
+access to new medicines, diagnostic tools, vaccines 
+and other results from research and development in all 
+countries. Many forums have been created in recent years 
+to discuss these issues.15
+47. 
+ 
+ Antibiotics must also be supplemented by affordable, 
+point-of-care diagnostic tools to inform health practitioners 
+and veterinarians of the susceptibility of the pathogens 
+to available antibiotics. The applicability and affordability 
+of these techniques in low- and middle-income countries 
+must be considered.
+13 Implementation workshop on the WHO global strategy for containment of 
+antimicrobial resistance. Geneva: World Health Organization; 2003.
+14 Research and development to meet health needs in developing countries: 
+strengthening global financing and coordination. Report of the consultative 
+expert working group on research and development: financing and coordination. 
+Geneva: World Health Organization; 2012.
+15 Several existing initiatives were reviewed at WHO s Technical Consultation on 
+Innovative Models for New Antibiotics Development and Preservation (Geneva, 
+13 May 2014) (http://www.who.int/phi/implementation/consultation_imnadp/en/, 
+accessed 20 November 2014).
+
+GLOBAL ACTION PLAN ON ANTIMICROBIAL RESISTANCE
+12
+48. 
+ 
+ The framework presented below tabulates the actions 
+that the Member States, Secretariat and international and 
+national partners need to take in order to attain the goal 
+and meet the objectives of the global plan.
+49. 
+ 
+ All Member States are urged to have in place, within two 
+years of the endorsement of the action plan by the Health 
+Assembly, national action plans on antimicrobial resistance 
+that are aligned with the global action plan and with 
+standards and guidelines established by intergovernmental 
+bodies such as the Codex Alimentarius Commission, 
+FAO and OIE. These national action plans should provide the 
+basis for an assessment of the resource needs, take into 
+account national and regional priorities, and address 
+relevant national and local governance arrangements. 
+The Secretariat will facilitate this work by:
+`
+` Supporting countries to develop, implement and 
+monitor national plans;
+`
+` Leading and coordinating support to countries for 
+assessment and implementation of investment 
+needs, consistent with the principle of sustainability 
+(subparagraph 21(4) above);
+`
+` Monitoring development and implementation of action 
+plans by Member States and other partners;
+`
+` Publishing biennial progress reports, including an 
+assessment of countries and organizations that have 
+plans in place, their progress in implementation, and the 
+effectiveness of action at regional and global levels; 
+and including an assessment of progress made by 
+FAO, OIE and WHO in implementing actions undertaken 
+within the organizations tripartite collaboration will 
+also be included in these reports.
+50. 
+ 
+ The Secretariat will also work with the Strategic and 
+Technical Advisory Group on antimicrobial resistance, 
+Member States, FAO and OIE, and other relevant partners 
+to develop a framework for monitoring and evaluation, 
+including the identification of measurable indicators of 
+implementation and effectiveness of the global action 
+plan. Examples of such indicators of effectiveness (impact) 
+that could be applied for each of the strategic objectives 
+are shown in the tabulated framework.
+Framework for action on antimicrobial resistance
+
+13
+Objective 1: Improve awareness and understanding of antimicrobial resistance through effective 
+communication, education and training
+Potential measures of effectiveness: extent of reduction in global human consumption of antibiotics (with allowance for 
+the need for improved access in some settings), and reduction in the volume of antibiotic use in food production
+ I. Member State action
+II. Secretariat action
+III. International and national 
+partners action
+i. Increase national awareness of 
+antimicrobial resistance through public 
+communication programmes that target 
+the different audiences in human health, 
+animal health and agricultural practice, 
+including participation in an annual world 
+antibiotic awareness campaign.
+ii. Establish antimicrobial resistance 
+as a core component of professional 
+education, training, certification 
+and development for the health and 
+veterinary sectors and 
+agricultural practice.
+iii. Include antimicrobial use and 
+resistance in school curricula in order 
+to promote better understanding and 
+awareness, and provide the public media 
+with accurate and relevant information 
+so that public information and reporting 
+reinforce key messages.
+iv. Recognize antimicrobial resistance 
+as a priority need for action across all 
+government ministries through inclusion 
+in national risk registers or other effective 
+mechanisms for cross- 
+government commitment.
+v. Promote and support establishment 
+of multisectoral (one-health) coalitions to 
+address antimicrobial resistance at local 
+or national level, and participation in 
+such coalitions at regional and 
+global levels.
+i. Develop and implement global 
+communication programmes and 
+campaigns, including an annual world 
+antibiotic awareness campaign, building 
+on existing regional and national 
+campaigns and in partnership with 
+other organizations (e.g. UNESCO and 
+UNICEF). Provide core communication 
+materials and tools (including those for 
+social media and for assessing public 
+awareness and understanding) that can 
+be adapted and implemented by Member 
+States and others.
+ii. Develop, with FAO and OIE through 
+the tripartite collaboration, core 
+communication, education and training 
+materials that can be adapted and 
+implemented regionally and nationally, 
+on subjects that include the need for 
+responsible use of antibiotics, the 
+importance of infection prevention 
+in human and animal health and 
+agricultural practice, and measures to 
+control spread of resistant organisms 
+through food and the environment. 
+Provide support to Member States 
+with the integration of education on 
+antimicrobial resistance into professional 
+training, education and registration.
+iii. Publish regular reports on progress 
+in implementing the global action plan 
+and progress towards meeting impact 
+targets, in order to maintain commitment 
+to reducing antimicrobial resistance.
+iv. Maintain antimicrobial resistance 
+as a priority for discussion with Member 
+States through the regional committees, 
+the Executive Board and Health Assembly, 
+and with other intergovernmental 
+organizations, including the 
+United Nations.
+i. Professional organizations and 
+societies should establish antimicrobial 
+resistance as a core component of 
+education, training, examination, 
+professional registration or certification, 
+and professional development.
+ii. OIE should continue to support its 
+members in implementing OIE standards 
+including veterinary professional 
+standards and training, applying its 
+Performance of Veterinary Services 
+Pathway16 and updating of legislation.
+iii. FAO should support awareness-
+raising on antimicrobial resistance 
+and promote good animal production 
+and hygiene practices among animal 
+production and health workers, animal 
+producers, and other stakeholders in the 
+food and agriculture sectors.
+iv. Intergovernmental organizations, 
+including FAO, OIE and the World 
+Bank, should raise awareness and 
+understanding of antimicrobial resistance 
+and, in collaboration with WHO, should 
+mirror the actions of the Secretariat 
+within their constituencies.
+v. Other stakeholders including 
+civil society organizations, trade and 
+industry bodies, employee organizations, 
+foundations with an interest in science 
+education, and the media should 
+help to promote public awareness and 
+understanding of infection prevention 
+and use of antimicrobial medicines 
+across all sectors.
+vi. WHO, FAO, OIE and other 
+international stakeholders should 
+encourage and support Member States 
+in forging in-country as well as regional/
+global coalitions and alliances.
+16 See: http://www.oie.int/support-to-oie-members/pvs-evaluations/ (accessed 20 November 2014).
+
+GLOBAL ACTION PLAN ON ANTIMICROBIAL RESISTANCE
+14
+Objective 2: Strengthen the knowledge and evidence base through surveillance and research
+Potential measure of effectiveness: extent of reduction in the prevalence of antimicrobial resistance, based on data 
+collected through integrated programmes for surveillance of antimicrobial resistance in all countries
+ I. Member State action
+II. Secretariat action
+III. International and national 
+partners action
+i. Develop a national surveillance 
+system for antimicrobial 
+resistance that:
+ 
+ includes a national reference 
+centre with the ability systematically 
+to collect and analyse data 
+including those on a core set 
+of organisms and antimicrobial 
+medicines from both health care 
+facilities and the community in 
+order to inform national policies and 
+decision-making;
+ 
+ includes at least one reference 
+laboratory capable of susceptibility 
+testing to fulfil the core data 
+requirements, using standardized 
+tests for identification of resistant 
+microorganisms and operating to 
+agreed quality standards;
+ 
+ strengthens surveillance in 
+animal health and agriculture 
+sectors by implementation of the 
+recommendations of the WHO 
+Advisory Group on Integrated 
+Surveillance of Antimicrobial 
+Resistance for antimicrobial 
+susceptibility testing of foodborne 
+pathogens,17 the standards 
+published in the OIE terrestrial and 
+aquatic animal codes including 
+the monitoring of resistance and 
+antimicrobial use;18,19 the FAO/
+WHO Codex Alimentarius Code of 
+Practice to Minimize and Contain 
+Antimicrobial Resistance20 and the 
+Codex Alimentarius Guidelines for 
+Risk Analysis of Foodborne 
+Antimicrobial Resistance;
+i. Develop and implement a 
+global programme for surveillance of 
+antimicrobial resistance in human health, 
+including surveillance and reporting 
+standards and tools, case definitions, 
+external quality assessment schemes, 
+and a network of WHO Collaborating 
+Centres to support surveillance of 
+antimicrobial resistance and external 
+quality assessment in each WHO region.
+ii. Develop, in consultation with 
+Member States and other multisectoral 
+stakeholders, standards for the reporting, 
+sharing and publication of data on 
+antimicrobial resistance that take into 
+account established practices for global 
+disease surveillance and reporting, as 
+well as legal and ethical requirements.
+iii. Report regularly on global and 
+regional trends in the prevalence of 
+antimicrobial resistance in human health.
+iv. Work with FAO and OIE, within 
+the tripartite collaboration, to support 
+integrated surveillance and reporting 
+of antimicrobial resistance in human 
+and animal health and agriculture, and 
+develop measures of antimicrobial 
+resistance in the food chain for use as 
+indicators of risk to human health.
+v. Develop a framework for monitoring 
+and reporting on antimicrobial 
+consumption in human health, including 
+standards for collection and reporting of 
+data on use in different settings, building 
+on the work of OECD.21
+vi. With FAO and OIE, within the tripartite 
+collaboration, collect, consolidate 
+and publish information on the global 
+consumption of antimicrobial medicines.
+i. FAO, with WHO, should review and 
+update regularly the FAO/WHO Codex 
+Alimentarius Code of Practice to minimize 
+and contain antimicrobial resistance and 
+the Codex Alimentarius guidelines for 
+risk analysis of foodborne 
+antimicrobial resistance.
+ii. The international research 
+community and FAO should support 
+studies to improve understanding of 
+the impact of antimicrobial resistance 
+on agriculture, animal production and 
+food security, as well as the impacts of 
+agricultural practices on development 
+and spread of antimicrobial resistance, 
+and to reduce non-therapeutic use 
+of antimicrobial agents in agriculture 
+through the development of sustainable 
+husbandry practices.
+iii. OIE should regularly update 
+the terrestrial and aquatic animal 
+codes (particularly with reference to 
+antimicrobial resistance), revise the 
+guideline on laboratory methods for 
+bacterial antimicrobial susceptibility 
+testing, and support the establishment of 
+veterinary laboratory services through its 
+Performance of Veterinary 
+Services Pathway.
+iv. Global health donors, international 
+development bodies, and aid and 
+technical agencies should support 
+developing countries to build capacity 
+to collect and analyse data on the 
+prevalence of antimicrobial resistance 
+and share or report such data.
+17 Integrated surveillance on antimicrobial resistance: guidance from a WHO advisory group. Geneva: World Health Organization; 2013.
+18 See document CAC/GL 77-2011 at: http://www.codexalimentarius.org/standards/list-of-standards/en/ (accessed 20 November 2014).
+19 See: http://www.oie.int/en/our-scientific-expertise/veterinary-products/antimicrobials (accessed 20 November 2014).
+20 See: http://www.codexalimentarius.org/committees-task-forces//?provide=committeeDetail&idList=6 (accessed 20 November 2014).
+21 Prescribing in primary care. In: Health at a glance 2013: OECD Indicators. Paris: Organisation for Economic Cooperation and Development; 2013.
+
+15
+Objective 2 (cont.): Strengthen the knowledge and evidence base through surveillance and research
+Potential measure of effectiveness: extent of reduction in the prevalence of antimicrobial resistance, based on data 
+collected through integrated programmes for surveillance of antimicrobial resistance in all countries
+ I. Member State action
+II. Secretariat action
+III. International and national 
+partners action
+ 
+ promotes participation in regional 
+and global networks and sharing of 
+information so that national, regional 
+and global trends can be detected 
+and monitored;
+ 
+ has the capacity to detect and 
+report newly emerged resistance 
+that may constitute a public health 
+emergency of international concern, 
+as required under the International 
+Health Regulations (2005).
+ii. Collect and report data on use of 
+antimicrobial agents in human and 
+animal health and agriculture so that 
+trends can be monitored and the impact 
+of action plans assessed.
+iii. Consider implementing an agreed 
+global public health research agenda 
+on antimicrobial resistance, including: 
+research to promote responsible use 
+of antimicrobial medicines; defining 
+improved practices for preventing 
+infection in human and animal health and 
+agricultural practice; and encouraging 
+development of novel diagnostic tools 
+and antimicrobial medicines.
+vii. Consult Member States and other 
+multisectoral stakeholders for the 
+development of a global public health 
+research agenda for filling major gaps in 
+knowledge on antimicrobial resistance, 
+including methods to assess the health 
+and economic burdens of antimicrobial 
+resistance, cost effectiveness of actions, 
+mechanisms of development and spread 
+of resistance, and research to underpin 
+development of new interventions, 
+diagnostic tools and vaccines. Monitor 
+and report on implementation of the 
+research agenda, for instance through the 
+use of WHO s Global Health Research and 
+Development Observatory.
+viii. Work with partners to establish a 
+sustainable repository for information on 
+antimicrobial resistance and on the use 
+and efficacy of antimicrobial medicines 
+that is integrated with the global health 
+research and development observatory 
+and with a programme for independent 
+evidence assessment and evaluation.
+v. Research funding organizations 
+and foundations should support 
+implementation of the agreed global 
+public health research agenda on 
+antimicrobial resistance.
+
+GLOBAL ACTION PLAN ON ANTIMICROBIAL RESISTANCE
+16
+Objective 3: Reduce the incidence of infection through effective sanitation, hygiene and infection 
+prevention measures
+Potential measures of effectiveness: extent of reduction in the prevalence of preventable infections, and in particular 
+the incidence of drug-resistant infections in health care settings
+ I. Member State action
+II. Secretariat action
+III. International and national 
+partners action
+i. Member States may consider the 
+following actions:
+ 
+ take urgent action to implement 
+and strengthen hygiene and infection 
+prevention and control;
+ 
+ include training and education in 
+hygiene and infection prevention and 
+control as core (mandatory) content 
+in training and education for health 
+care and veterinary professionals 
+and in their continuing professional 
+development and accreditation 
+or registration.
+ 
+ develop or strengthen national 
+policies and standards of practice 
+regarding infection prevention and 
+control activities in health facilities 
+and monitor implementation of and 
+adherence to these national policies 
+and standards.
+ii. Include within national surveillance 
+of antimicrobial resistance the collection 
+and reporting of data on antimicrobial 
+susceptibility of microorganisms causing 
+health care- 
+associated infections.
+iii. Strengthen animal health 
+and agricultural practices through 
+implementation of the standards 
+published in the OIE Terrestrial and 
+Aquatic Animal Health Codes22 and FAO/
+WHO Codex Alimentarius Code of Practice 
+to Minimize and Contain Antimicrobial 
+Resistance.23
+iv. Promote vaccination as a method of 
+reducing infections in food animals.
+i. Facilitate the design and 
+implementation of policies and tools 
+to strengthen hygiene and infection 
+prevention and control practices, 
+particularly to counter antimicrobial 
+resistance, and promote the engagement 
+of civil society and patient groups in 
+improving practices in hygiene and 
+infection prevention and control.
+ii. Ensure that policy recommendations 
+for new and existing vaccines take 
+into account the prospects for 
+restricted treatment options because 
+of antimicrobial resistance, and the 
+additional benefits of reduced 
+use of antimicrobial agents, 
+including antibiotics.
+iii. Work with partners and other 
+organizations to facilitate the 
+development and clinical evaluation 
+of specific priority vaccines for the 
+prevention of difficult-to-treat or 
+untreatable infections.
+iv. Work with FAO and OIE, within 
+the tripartite collaboration, to develop 
+recommendations for the use of vaccines 
+in food-producing animals, including 
+recommendations for new vaccines, as 
+a means to prevent foodborne diseases 
+in humans and animals and reduce 
+antimicrobial use.
+i. Professional societies and 
+accreditation bodies should support 
+training and education on infection-
+prevention measures as a mandatory 
+requirement in professional development, 
+accreditation and registration.
+ii. OIE should update its codes 
+and manuals to take account of new 
+developments in vaccines.
+iii. FAO should continue to engage and 
+support producers and stakeholders 
+in the food and agriculture sectors 
+in adopting good practices in animal 
+husbandry and health aimed at reducing 
+the use of antibiotics and the risk of 
+development and spread of 
+antimicrobial resistance.
+22 See: http://www.oie.int/en/our-scientific-expertise/veterinary-products/antimicrobials (accessed 20 November 2014).
+23 See: http://www.codexalimentarius.org/committees-task-forces//?provide=committeeDetail&idList=6 (accessed 29 October 2014).
+
+17
+Objective 4: Optimize the use of antimicrobial medicines in human and animal health
+Potential measure of effectiveness: extent of reduction in global human consumption of antibiotics (with allowance 
+for the need for improved access in some settings), the consumption of antibiotics used in food production (terrestrial 
+and aquatic livestock, and other agricultural practices), and the use of medical and veterinary antimicrobial agents for 
+applications other than human and animal health
+ I. Member State action
+II. Secretariat action
+III. International and national 
+partners action
+i. Develop and implement 
+comprehensive action plans on 
+antimicrobial resistance that incorporate 
+the following elements:
+ 
+ distribution, prescription, and 
+dispensing of antimicrobials is carried 
+out by accredited health or veterinary 
+professionals under statutory body 
+supervision or other suitably trained 
+person authorized in accordance with 
+national legislation;
+ 
+ marketing authorization is given 
+only to antimicrobial agents that are 
+quality assured, safe and efficacious;
+ 
+ development and implementation 
+of national and institutional 
+essential medicine lists guided by 
+the WHO Model Lists of Essential 
+Medicines, reimbursement lists and 
+standard treatment guidelines to 
+guide purchasing and prescribing 
+of antimicrobial medicines, and 
+regulation and control of promotional 
+practices by industry;
+ 
+ laboratory capacity to identify 
+pathogens and their antimicrobial 
+susceptibility in order to guide 
+optimal use of antimicrobial 
+medicines in clinical practice;
+ 
+ provision of stewardship 
+programmes that monitor and 
+promote optimization of antimicrobial 
+use at national and local levels 
+in accordance with international 
+standards in order to ensure the 
+correct choice of medicine at the right 
+dose on the basis of evidence;
+ 
+ identification and elimination of 
+economic incentives in all sectors 
+that encourage inappropriate use of 
+antimicrobial agents, and introduction 
+of incentives to optimize use;
+i. Strengthen and align, within the 
+tripartite collaboration with FAO and 
+OIE, the concepts of critically important 
+antibiotics for human and animal health, 
+and ensure that these concepts include 
+use of new antibiotics so that a common 
+position on restriction of antimicrobial 
+medicines for human use can 
+be established.
+ii. Provide support to Member States 
+in the development and enforcement of 
+relevant regulations so that only, quality 
+assured, safe and effective antimicrobial 
+products reach users.
+iii. Develop technical guidelines 
+and standards to support access to, 
+and evidence-based selection and 
+responsible use of, antimicrobial 
+medicines, including follow-up to 
+treatment failure.
+iv. Provide leadership to strengthen 
+medicines regulatory systems at national 
+and regional levels, so that appropriate 
+practices for optimizing use of 
+antimicrobial medicines are supported by 
+appropriate and enforceable regulation, 
+and that promotional practices can be 
+adequately regulated.
+v. Consult with Member States and 
+pharmaceutical industry associations 
+on innovative regulatory mechanisms 
+for new antimicrobial medicines, for 
+example considering them as a class 
+of medicine that will require a different 
+set of regulatory controls, and on new 
+approaches to product labelling that 
+focus on public health needs rather than 
+marketing claims, in order to address the 
+need for preservation of effectiveness 
+and for global access.
+i. OIE should regularly update its 
+Terrestrial and Aquatic Animal Health 
+Codes, particularly with reference to 
+antimicrobial resistance.
+ii. FAO, in collaboration with WHO, 
+should regularly review and update 
+the FAO/WHO Codex Alimentarius Code 
+of Practice to Minimize and Contain 
+Antimicrobial Resistance to take into 
+account not only residues in food but also 
+the need for standards to minimize and 
+control use of antimicrobial agents in 
+agricultural practice.
+iii. OIE, supported by FAO and WHO 
+within the tripartite collaboration, should 
+build and maintain a global database on 
+the use of antimicrobial medicines 
+in animals.
+iv. The research community in both the 
+public and private sectors, including the 
+pharmaceutical industry, should invest 
+in the development of effective and 
+low-cost tools for diagnosis of infectious 
+diseases and antimicrobial susceptibility 
+testing for use in human and animal 
+health at points of care and 
+dispensing (pharmacies).
+v. Donors, philanthropic and other 
+nongovernmental organizations and civil 
+society should ensure that their efforts 
+to increase access to antimicrobial 
+medicines are accompanied by measures 
+to protect the continued efficacy of 
+such medicines.
+
+GLOBAL ACTION PLAN ON ANTIMICROBIAL RESISTANCE
+18
+Objective 4 (cont.): Optimize the use of antimicrobial medicines in human and animal health
+Potential measure of effectiveness: extent of reduction in global human consumption of antibiotics (with allowance 
+for the need for improved access in some settings), the consumption of antibiotics used in food production (terrestrial 
+and aquatic livestock, and other agricultural practices), and the use of medical and veterinary antimicrobial agents for 
+applications other than human and animal health
+ I. Member State action
+II. Secretariat action
+III. International and national 
+partners action
+ 
+ effective and enforceable 
+regulation and governance for 
+licensing, distribution, use and quality 
+assurance of antimicrobial medicines 
+in human and animal health, 
+including a regulatory framework for 
+preservation of new antibiotics;
+ 
+ policies on use of antimicrobial 
+agents in terrestrial and aquatic 
+animals and agriculture, 
+including: implementation of Codex 
+Alimentarius and OIE international 
+standards and guidelines as well 
+as WHO/OIE guidance on the use 
+of critically important antibiotics; 
+phasing out of use of antibiotics 
+for animal growth promotion and 
+crop protection in the absence 
+of risk analysis; and reduction in 
+nontherapeutic use of antimicrobial 
+medicines in animal health.
+vi. Develop standards and guidance 
+(within the tripartite collaboration with 
+FAO and OIE), based on best available 
+evidence of harms, for the presence of 
+antimicrobial agents and their residues 
+in the environment, especially in water, 
+wastewater and food (including aquatic 
+and terrestrial animal feed).
+vi. Professional bodies and 
+associations, including industry 
+associations, health insurance providers 
+and other payers, should develop a 
+code of conduct for appropriate training 
+in, education about, and marketing, 
+purchasing, reimbursement and use of 
+antimicrobial agents. This code should 
+include commitment to comply with 
+national and international regulations 
+and standards, and to eliminate 
+dependence on the pharmaceutical 
+industry for information and education on 
+medicines and, in some cases, income.
+ 
+
+19
+24 Research and development to meet health needs in developing countries: strengthening global financing and coordination. Report of the consultative expert working group 
+on research and development: financing and coordination. Geneva: World Health Organization; 2012.
+25 Many of the actions that can support affordable and equitable access to medicines are set out in the Global strategy and plan of action on public health, innovation and 
+intellectual property. Geneva: World Health Organization; 2011.
+Objective 5: Develop the economic case for sustainable investment that takes account of the needs of all 
+countries, and increase investment in new medicines, diagnostic tools, vaccines and other interventions
+Potential measures of effectiveness: extent of increase in sustainable investment in capacity to counter antimicrobial 
+resistance for all countries, including investment in development of new medicines, diagnostics and other interventions
+ I. Member State action
+II. Secretariat action
+III. International and national 
+partners action
+i. Member States should 
+consider assessing investment 
+needs for implementation of 
+their national action plans on 
+antimicrobial resistance, and 
+should develop plans to secure 
+and apply the required financing.
+ii. Member States are 
+encouraged to participate in 
+international collaborative research 
+to support the development of new 
+medicines, diagnostic tools and 
+vaccines through:
+ 
+ prioritization and support 
+of basic scientific research 
+on infectious diseases, and 
+promoting partnerships 
+between research institutions in 
+developed and 
+developing countries;
+ 
+ collaboration, based on 
+fair and equitable benefit 
+sharing as mutually agreed, 
+in the investigation of natural 
+sources of biodiversity and 
+biorepositories as sources for 
+the development of 
+new antibiotics;
+ 
+ strengthening existing and 
+creating new public-private 
+partnerships for encouraging 
+research and development of 
+new antimicrobial agents 
+and diagnostics;
+ 
+ piloting of innovative 
+ideas for financing research 
+and development and for the 
+adoption of new market models 
+to encourage investment 
+and ensure access to new 
+antimicrobial products.
+i. Work with the United Nations Secretary-General 
+and bodies in the United Nations system to identify the 
+best mechanism(s) to realize the investment needed 
+to implement the global action plan on antimicrobial 
+resistance, particularly with regard to the needs of 
+developing countries.
+ii. Work with the World Bank and with other 
+development banks to develop and implement a 
+template or models to estimate the investment needed 
+to implement national action plans on antimicrobial 
+resistance, and to collate and summarize these needs.
+iii. Work with the World Bank and with FAO and 
+OIE, within the tripartite collaboration, to assess the 
+economic impact of antimicrobial resistance and of 
+implementation of the action plan in animal health 
+and agriculture.
+iv. Explore with Member States, intergovernmental 
+organizations, industry associations and other 
+stakeholders, options for the establishment of a new 
+partnership or partnerships: 
+ 
+ to coordinate the work of many unlinked 
+initiatives aiming to renew investment in research 
+and development of antibiotics (including follow-
+up initiatives from the Consultative Expert Working 
+Group on Research and Development24);
+ 
+ to identify priorities for new treatments, 
+diagnostics and vaccines on the basis of 
+emergence and prevalence of serious or life-
+threatening infections caused by 
+resistant pathogens;
+ 
+ to act as the vehicle(s) for securing and 
+managing investment in new medicines, 
+diagnostics, vaccines and other interventions;
+ 
+ to facilitate affordable and equitable access to 
+existing and new medicines25 and other products 
+while ensuring their proper and optimal use;
+ 
+ to establish open collaborative models of 
+research and development in a manner that will 
+support access to the knowledge and products 
+from such research, and provide incentives 
+for investment.
+i. Partners in the finance and 
+economic sectors should define 
+the economic case for national and 
+global investment in combating 
+antimicrobial resistance, including 
+an assessment of the cost of 
+implementing this action plan 
+and the consequential cost of no 
+action; this work could be led by 
+the World Bank. 
+ii. FAO, OIE and other partners 
+should support appropriate 
+analyses to establish the case 
+for investment and to inform 
+the selection of interventions 
+to improve animal husbandry, 
+management, health, hygiene 
+and biosecurity practices aimed 
+at reducing antimicrobial use 
+(and antimicrobial resistance) in 
+different production settings.
+
+ISBN 978 92 4 150976 3
+World Health Organization
+Avenue Appia 20
+1211 Geneva
+Switzerland

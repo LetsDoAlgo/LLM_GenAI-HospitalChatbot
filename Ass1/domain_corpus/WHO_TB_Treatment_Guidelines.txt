@@ -1,0 +1,2694 @@
+WHO 
+consolidated 
+guidelines on
+tuberculosis
+Module 4: Treatment
+Drug-susceptible 
+tuberculosis treatment
+
+WHO 
+consolidated 
+guidelines on
+tuberculosis
+Module 4: Treatment
+Drug-susceptible 
+tuberculosis treatment
+
+WHO consolidated guidelines on tuberculosis. Module 4: treatment - drug-susceptible tuberculosis treatment. 
+ISBN 978-92-4-004812-6 (electronic version)
+ISBN 978-92-4-004813-3 (print version)
+ World Health Organization 2022
+Some rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence 
+(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo). 
+Under the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes, provided the work is 
+appropriately cited, as indicated below. In any use of this work, there should be no suggestion that WHO endorses any specific organization, 
+products or services. The use of the WHO logo is not permitted. If you adapt the work, then you must license your work under the same 
+or equivalent Creative Commons licence. If you create a translation of this work, you should add the following disclaimer along with the 
+suggested citation: This translation was not created by the World Health Organization (WHO). WHO is not responsible for the content or 
+accuracy of this translation. The original English edition shall be the binding and authentic edition . 
+Any mediation relating to disputes arising under the licence shall be conducted in accordance with the mediation rules of the World 
+Intellectual Property Organization (http://www.wipo.int/amc/en/mediation/rules/).
+Suggested citation. WHO consolidated guidelines on tuberculosis. Module 4: treatment - drug-susceptible tuberculosis treatment. Geneva: 
+World Health Organization; 2022. Licence: CC BY-NC-SA 3.0 IGO.
+Cataloguing-in-Publication (CIP) data. CIP data are available at http://apps.who.int/iris.
+Sales, rights and licensing. To purchase WHO publications, see http://apps.who.int/bookorders. To submit requests for commercial use 
+and queries on rights and licensing, see https://www.who.int/copyright. 
+Third-party materials. If you wish to reuse material from this work that is attributed to a third party, such as tables, figures or images, it 
+is your responsibility to determine whether permission is needed for that reuse and to obtain permission from the copyright holder. The 
+risk of claims resulting from infringement of any third-party-owned component in the work rests solely with the user.
+General disclaimers. The designations employed and the presentation of the material in this publication do not imply the expression 
+of any opinion whatsoever on the part of WHO concerning the legal status of any country, territory, city or area or of its authorities, or 
+concerning the delimitation of its frontiers or boundaries. Dotted and dashed lines on maps represent approximate border lines for which 
+there may not yet be full agreement.
+The mention of specific companies or of certain manufacturers products does not imply that they are endorsed or recommended by WHO 
+in preference to others of a similar nature that are not mentioned. Errors and omissions excepted, the names of proprietary products are 
+distinguished by initial capital letters.
+All reasonable precautions have been taken by WHO to verify the information contained in this publication. However, the published 
+material is being distributed without warranty of any kind, either expressed or implied. The responsibility for the interpretation and use of 
+the material lies with the reader. In no event shall WHO be liable for damages arising from its use. 
+Design by Inis Communication
+
+Contents
+Acknowledgements 
+v
+List of abbreviations 
+vi
+Definitions 
+vii
+Executive summary 
+ix
+Introduction 
+1
+Objectives 
+3
+Methods used to update the guidelines 
+5
+Scope of the guideline update 
+5
+Certainty of evidence and strength of recommendations 
+5
+Assessment of evidence and its grading 
+6
+External review 
+7
+Publication, dissemination, implementation, evaluation and expiry 
+7
+Recommendations 
+9
+Treatment of drug-susceptible TB using 6-month regimen 
+9
+Treatment of drug-susceptible TB using 4-month regimens 
+16
+Drug-susceptible TB treatment and ART in people living with HIV 
+26
+The use of adjuvant steroids in the treatment of TB meningitis and pericarditis 
+28
+Research priorities 
+31
+References 
+33
+Annex. Summary of changes in policy on DS-TB treatment since 2010 and 
+mapping of recommendations in consolidated DS-TB guidelines 
+37
+iii
+
+iv
+Web Annexes 
+53
+Web Annex 1. Expert panels
+Web Annex 2. Declarations of interest
+Web Annex 3. PICO questions
+Web Annex 4. GRADE evidence profiles and evidence-to-decision tables
+Web Annex 5. 2010 and 2017 DS-TB Guidelines
+https://apps.who.int/iris/bitstream/handle/10665/353398/9789240048140-eng.pdf
+
+Acknowledgements
+v
+Acknowledgements
+The production and writing of this document WHO consolidated guidelines on tuberculosis. 
+Module 4: Treatment: Drug-susceptible tuberculosis treatment was coordinated by Fuad Mirzayev, 
+with the support of Medea Gegia, Linh Nguyen and Kerri Viney, under the guidance of Matteo Zignol, 
+and the overall direction of Tereza Kasaeva, Director of the WHO Global Tuberculosis Programme.
+The World Health Organization (WHO) acknowledges and is grateful for the time and support of all 
+individuals who have contributed to these efforts and gratefully acknowledges the contribution of all 
+experts involved in the production of these guidelines.
+The details on the participants and members of the Guideline Development Group and other groups 
+and partners who contributed to the 2010, 2017 and 2022 guidelines update can be found in the 
+Annexes. 
+This update was funded by grants provided to WHO by the United States Agency for 
+International Development.
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+vi
+List of abbreviations
+AIDS 
+Acquired immunodeficiency syndrome
+ART 
+Antiretroviral treatment
+CDC 
+United States Centers for Disease Control and Prevention
+DST 
+Drug susceptibility testing
+FDC 
+Fixed-dose combination
+GDG 
+Guideline Development Group
+GRADE 
+Grading of Recommendations Assessment, Development and Evaluation
+GTB 
+Global TB Programme
+HIV 
+Human immunodeficiency virus
+MDR-TB 
+Multidrug-resistant tuberculosis 
+NGO 
+non-government organization
+PICO 
+Population, Intervention, Comparator and Outcomes
+TB 
+Tuberculosis
+USAID 
+United States Agency for International Development
+WHO 
+World Health Organization
+XDR-TB 
+Extensively drug-resistant tuberculosis
+TB medicines 
+E 
+ethambutol
+H 
+isoniazid
+M or Mfx 
+moxifloxacin
+Z 
+pyrazinamide
+R 
+rifampicin
+P or Rpt 
+rifapentine
+
+Definitions
+vii
+Definitions
+Drug-susceptible TB (DS-TB): A bacteriologically confirmed or clinically diagnosed case of TB 
+without evidence of infection with strains resistant to rifampicin and isoniazid. 
+Drug susceptibility testing (DST): In vitro testing using either: 1) molecular, genotypic techniques 
+to detect resistance-conferring mutations; or 2) phenotypic methods to determine susceptibility to 
+a medicine.1
+Extensive (or advanced) pulmonary tuberculosis (TB) disease: Presence of bilateral cavitary disease 
+or extensive parenchymal damage on chest radiography. In children aged under 15 years, advanced 
+disease is usually defined by the presence of cavities or bilateral disease on chest radiography.2
+New case: a newly registered episode of TB in a patient who has never been treated for TB or who 
+has taken anti-TB medicines for less than 1 month.
+Rifampicin-susceptible, isoniazid-resistant TB (Hr-TB): TB caused by M. tuberculosis strains 
+resistant to isoniazid and susceptible to rifampicin.
+A bacteriologically confirmed TB case is one from whom a biological specimen is positive by smear 
+microscopy, culture or a WHO-recommended rapid diagnostic (such as Xpert MTB/RIF). All such cases 
+should be notified, regardless of whether TB treatment has started.
+A clinically diagnosed TB case is a person who does not fulfil the criteria for bacteriological 
+confirmation but has been diagnosed with active TB by a clinician or other medical practitioner 
+who has decided to give the patient a full course of TB treatment. This definition includes cases 
+diagnosed on the basis of X-ray abnormalities or suggestive histology and extrapulmonary cases 
+without laboratory confirmation.
+Pulmonary tuberculosis (PTB) refers to any bacteriologically confirmed or clinically diagnosed case 
+of TB involving the lung parenchyma or the tracheobronchial tree.
+Extrapulmonary tuberculosis (EPTB) refers to any bacteriologically confirmed or clinically diagnosed 
+case of TB involving organs other than the lungs (e.g. pleura, lymph nodes, abdomen, genitourinary 
+tract, skin, joints and bones, meninges).
+Rifampicin-resistant TB (RR-TB): TB caused by M. tuberculosis strains resistant to rifampicin. These 
+strains may be susceptible or resistant to isoniazid (i.e. MDR-TB), or resistant to other first-line or 
+second-line TB medicines. In these guidelines and elsewhere, MDR-TB and RR-TB cases are often 
+grouped together as MDR/RR-TB and are eligible for treatment with MDR-TB regimens.
+1 
+Implementing tuberculosis diagnostics: a policy framework. Geneva: World Health Organization; 2015. (http://apps.who.int/iris/
+bitstream/10665/162712/1/9789241508612_eng.pdf, accessed 27 September 2021). 
+2 
+WHO consolidated guidelines on tuberculosis. Module 4: treatment drug-resistant tuberculosis treatment. (https://apps.who.int/iris/
+rest/bitstreams/1280998/retrieve, accessed 27 September 2021).
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+viii
+Pre-XDR-TB:3 TB caused by Mycobacterium tuberculosis (M. tuberculosis) strains that fulfil the definition 
+of MDR/RR-TB and that are also resistant to any fluoroquinolone.4
+XDR-TB: TB caused by Mycobacterium tuberculosis (M. tuberculosis) strains that fulfil the definition 
+of MDR/RR-TB and that are also resistant to any fluoroquinolone and at least one additional Group 
+A drug.5
+Treatment support terminology in this document is used to describe an approach to supporting 
+patients who are taking prescribed doses of TB medicines in order to help ensure adherence to 
+treatment and maximize its efficacy. Treatment support needs to be provided in the context of people-
+centred care and should be based on the individual patient s needs, acceptability and preferences. It 
+includes aspects of support, motivation and understanding of patients without coercion. Historically, 
+this group of interventions were labelled as directly observed treatment or DOT.
+3 
+Meeting report of the WHO expert consultation on the definition of extensively drug-resistant tuberculosis, 27 29 October 2020. 
+Geneva: World Health Organization; 2021. (https://www.who.int/publications/i/item/meeting-report-of-the-who-expert-consultation-
+on-the-definition-of-extensively-drug-resistant-tuberculosis, accessed 27 September 2021).
+4 
+The fluoroquinolones include levofloxacin and moxifloxacin because these are the fluoroquinolones currently recommended by WHO 
+for inclusion in shorter and longer regimens.
+5 
+The Group A drugs are currently levofloxacin or moxifloxacin, bedaquiline and linezolid; therefore, XDR-TB is MDR/RR-TB that is resistant 
+to a fluoroquinolone and either bedaquiline or linezolid (or both). The Group A drugs may change in the future. Consequently, the 
+terminology Group A is appropriate here and will apply to any Group A drugs in the future.
+
+Executive summary
+ix
+Executive summary
+Tuberculosis (TB) affects an estimated 10 million people per year (range 8.9 11.0 million) and is one 
+of the world s leading infectious disease killers. TB is responsible for an estimated 1.2 million TB deaths 
+among HIV-negative people (range, 1.1 1.3 million), and an additional 208 000 deaths among HIV-
+positive persons (range, 177 000 242 000). Of the estimated 10 million, approximately 70% are 
+diagnosed and treated and also reported to the World Health Organization (WHO), resulting in 7.1 
+million TB notifications by National TB Programmes. Of the 7.1 million persons notified in 2019, 5.9 
+million (84%) had pulmonary TB [1].
+For several decades WHO has developed and issued recommendations on the treatment of TB. 
+The most recent WHO recommendations for treating people suffering from drug-susceptible TB 
+have been defined in WHO s Guidelines for treatment of drug-susceptible tuberculosis and patient 
+care, 2010 and 2017 updates (see Annex). A focus of these guidelines was a 6-month treatment 
+regimen composed of four first-line TB medicines, namely isoniazid, rifampicin, ethambutol and 
+pyrazinamide, recommended for treatment of drug-susceptible TB. This regimen is well known and 
+has been widely adopted worldwide for decades; while using it, approximately 85% of patients 
+will have a successful treatment outcome. This regimen is based on seminal TB treatment studies 
+conducted by the British Medical Research Council in the second half of 20th century. In addition to 
+the recommendation on the treatment regimen, the 2010 and 2017 updates of the guideline included 
+a number of recommendations on the modalities and formulations used for treatment, frequency 
+of treatment administration, special situations and patient care during treatment. The consolidated 
+and updated guidelines in the current Module 4: Treatment Drug-susceptible tuberculosis treatment 
+brings together, without modifications, all valid and evidence-based recommendations from the 
+2010 and 2017 guideline updates and adds a new section stemming from the most recent round of 
+guidelines development in 2021 the recommendations for the 4-month regimens to treat drug-
+susceptible TB (DS-TB). 
+This module of the consolidated guidelines includes only recommendations related to treatment since 
+all recommendations on patient care and support, for both the drug-susceptible and drug-resistant 
+TB (DR-TB) have been merged in a dedicated guideline module on Tuberculosis care and support . 
+The update of the guidelines for treatment of DS-TB is important in the context of the End TB Strategy 
+[2], which recommends treatment and patient support for all people with TB. This update by WHO 
+aims to use the best available evidence on the treatment of DS-TB in order to inform policy decisions 
+made by national TB control programme managers, national policy-makers and medical practitioners 
+in a variety of geographical, economic and social settings. 
+The objectives of the updated Guidelines are:
+1) to provide updated recommendations based on newly emerged evidence on the treatment of 
+drug-susceptible TB; and
+2) to provide a summary of changes in the new guidelines together with all the existing and valid 
+WHO recommendations on the treatment of DS-TB.
+The guidance provided in this module outlines specific WHO recommendations on the overall treatment 
+management, care and monitoring of patients with DS-TB. It brings forward recommendations 
+developed by various WHO-convened guideline development groups (GDGs), using the Grading of 
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+x
+Recommendations Assessment, Development and Evaluation (GRADE) approach to summarize the 
+evidence, and to formulate policy recommendations and accompanying remarks. The recommendations 
+and remarks in the current module on the treatment of DS-TB are the result of collaborative efforts 
+of professionals from a range of specialties who have extensive expertise and experience in public 
+health policy, TB programme management, the care and management of patients with TB, members 
+of affected communities and TB survivors. 
+The recommendations included herein are part of WHO s consolidated guidelines on TB and are 
+primarily intended for use by national TB control programmes, public health agencies, and other 
+key constituencies involved in the planning, implementation and monitoring of activities for the 
+programmatic management of DS-TB. 
+These recommendations have been developed through several meetings of the GDGs and have then 
+been consolidated in the present module. The recommendation on the use of the 4-month regimens 
+stem from the GDG meetings that took place in 2021. The remainder of the recommendations have 
+been consolidated from the GDGs that took place in 2009 and 2016, as expressed in the 2010 and 
+2017 guidelines update. 
+Summary of WHO recommendations on drug-
+susceptible TB treatment
+Treatment of drug-susceptible TB using 6-month regimen
+1. New patients with pulmonary TB should receive a regimen containing 6 months of 
+rifampicin: 2HRZE/4HR (strong recommendation, high certainty of evidence). 
+2. Wherever feasible, the optimal dosing frequency for new patients with pulmonary TB is 
+daily throughout the course of therapy (strong recommendation, high certainty of evidence). 
+3. In all patients with drug-susceptible pulmonary TB, the use of thrice-weekly dosing is 
+not recommended in both the intensive and continuation phases of therapy, and daily 
+dosing remains the recommended dosing frequency (conditional recommendation, very 
+low certainty of evidence).
+4. The use of fixed-dose combination (FDC) tablets is recommended over separate drug 
+formulations in treatment of patients with drug-susceptible TB (conditional recommendation, 
+low certainty of evidence).
+5. In new pulmonary TB patients treated with the regimen containing rifampicin throughout 
+treatment, if a positive sputum smear is found at completion of the intensive phase, the 
+extension of the intensive phase is not recommended (strong recommendation, high 
+certainty of evidence).
+Treatment of drug-susceptible TB using 4-month regimens
+6. People aged 12 years or older with drug-susceptible pulmonary TB may receive a 4-month 
+regimen of isoniazid, rifapentine, moxifloxacin and pyrazinamide (2HPMZ/2HPM) 
+(conditional recommendation, moderate certainty of evidence) new recommendation.
+7. In children and adolescents between 3 months and 16 years of age with non-severe TB (without 
+suspicion or evidence of MDR/RR-TB), a 4-month treatment regimen (2HRZ(E)/2HR) should 
+be used (strong recommendation, moderate certainty of evidence) new recommendation.
+
+Executive summary
+xi
+Drug-susceptible TB treatment and antiretroviral therapy 
+(ART) in people living with HIV
+8. It is recommended that TB patients who are living with HIV should receive at least the 
+same duration of TB treatment as HIV-negative TB patients (strong recommendation, high 
+certainty of evidence).
+9. ART should be started as soon as possible within two weeks of initiating TB treatment, 
+regardless of CD4 cell count, among people living with HIV. Adults and adolescents (strong 
+recommendation, low to moderate certainty of evidence); Children and infants (strong 
+recommendation, very low certainty of evidence).
+The use of adjuvant steroids in the treatment of TB meningitis 
+and pericarditis
+10. In patients with tuberculous meningitis, an initial adjuvant corticosteroid therapy 
+with dexamethasone or prednisolone tapered over 6 8 weeks should be used (strong 
+recommendation, moderate certainty of evidence).
+11. In patients with tuberculous pericarditis, an initial adjuvant corticosteroid therapy may be 
+used (conditional recommendation, very low certainty of evidence).
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+xii
+
+Introduction
+1
+Introduction
+For several decades the World Health Organization (WHO) developed and issued recommendations 
+on the treatment of TB. The most recent WHO recommendations for treating people suffering from 
+drug-susceptible TB (DS-TB) have been defined in the WHO s Guidelines for treatment of drug-
+susceptible tuberculosis and patient care, 2010 and 2017 updates [3, 4]. These guidelines focused on 
+the 6-month treatment regimen composed of four first-line TB medicines, namely isoniazid, rifampicin, 
+ethambutol and pyrazinamide, recommended for treatment of DS-TB. This regimen is well known 
+and has been widely adopted worldwide for decades; while using it, approximately 85% of patients 
+will have a successful treatment outcome. This regimen is based on seminal TB treatment studies 
+conducted by the British Medical Research Council in the second half of 20th century [5]. In addition 
+to the recommendation on the treatment regimen, the 2010 and 2017 guideline updates included 
+a number of recommendations on the modalities and formulations used for treatment, frequency of 
+treatment administration, special situations and patient care during treatment. The consolidated and 
+updated guidelines in the current Module 4: Treatment Drug-susceptible tuberculosis treatment, 
+brings together, without modifications, all valid and evidence-based recommendations from the 
+2010 and 2017 guidelines and adds a new section based on the most recent round of guidelines 
+development the recommendations for the 4-month treatments of DS-TB. 
+This module of the consolidated guidelines includes recommendations related to treatment of DS-TB 
+in all age groups. All recommendations on patient care and support during treatment, for both the 
+DS-TB and drug-resistant TB (DR-TB) have been merged in a dedicated module on Tuberculosis 
+care and support . The recommendations specific for children and adolescents are consolidated in 
+the module on Management of tuberculosis in children and adolescents. 
+The update of the guidelines for treatment of DS-TB is important in the context of the End TB 
+Strategy (1) which recommends treatment and patient support for all people with TB. 
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+2
+
+Objectives
+3
+Objectives
+The present guideline update aims to use the best available evidence on the treatment of DS-TB 
+in order to inform policy decisions made in this technical area by national TB control programme 
+managers, national policy-makers and medical practitioners in a variety of geographical, economic 
+and social settings.
+The objectives of the updated Guidelines are:
+1) to provide updated recommendations based on newly emerged evidence on the treatment of 
+drug-susceptible TB; and
+2) to provide a summary of changes in the new guidelines together with all existing and valid WHO 
+recommendations on the treatment of DS-TB.
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+4
+
+Methods used to update the guidelines
+5
+Methods used to update the 
+guidelines
+Scope of the guideline update
+The scope of the 2021 update of the DS-TB treatment guideline was to consolidate in one document 
+all the previous evidence-based policy recommendations on treatment of DS-TB (previously presented 
+in two separate guideline documents) and to add new recommendations. Thus the current module 
+brings together all recommendations that are valid from previous guidelines without any modifications 
+as no additional reviews have been performed. In addition to these previous valid recommendations, 
+the 2021 update presents new recommendations on the 4-month regimens emerging from the 
+Guideline Development Group (GDG) meetings in 2021. Now that the guidelines are consolidated, 
+WHO will strive to review and update individual recommendations based on the emerging evidence.
+Certainty of evidence and strength of 
+recommendations
+The recommendations in these guidelines qualify both their strength and in the certainty of the 
+evidence on which they are based. The certainty of the evidence is categorized into four levels (Table 
+1). The criteria used by the evidence reviewers to qualify the certainty of evidence are summarized 
+in the GRADE tables (see Web Annex 4). Several factors may increase or decrease the certainty of 
+evidence (see tables 12.2b and 12.2c in the WHO handbook for guideline development [6]. The highest 
+certainty rating is usually assigned to evidence from randomized controlled trials, while evidence from 
+observational studies is usually assigned a low or very low certainty value at the start. 
+A recommendation may be strong or conditional. Apart from the certainty of evidence, the strength 
+of a recommendation is determined by the balance between desirable and undesirable effects, values 
+and preferences, and costs or resource allocation. For strong recommendations, the GDG is confident 
+that the desirable effects of adherence to the recommendation outweigh the undesirable effects. For 
+conditional recommendations, the GDG considers that the desirable effects probably outweigh the 
+undesirable effects. The strength of a recommendation has different implications for the individuals 
+affected by these guidelines (Table 2).
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+6
+Table 1. Certainty in the evidence
+Certainty in the 
+evidence 
+Definition 
+High (
+)
+Further research is very unlikely to change our confidence in the estimate 
+of effect. 
+Moderate (
+)
+Further research is likely to have an important impact on our confidence 
+in the effect and may change the estimate. 
+Low (
+)
+Further research is very likely to have an important impact on our 
+confidence in the estimate of effect and is likely to change the estimate. 
+Very low (
+)
+Any estimate of effect is very uncertain. 
+The text of the recommendation itself should be read along with the accompanying remarks which 
+summarize: 1) the evidence on which the recommendation was made; 2) the anticipated desirable 
+and undesirable effects of the interventions in assessing the balance of expected benefits to risks; 
+and 3) other considerations which are important to the implementation of the policy. 
+Assessment of evidence and its grading
+The development of these guidelines required a substantial evidence review and assessment using 
+the GRADE process, as stipulated by WHO s Guidelines Review Committee [7]. The systematic reviews 
+focused primarily on the randomized controlled trials with direct comparison between the intervention 
+and comparator. However, data on the outcomes from the observational cohort studies were also 
+summarized and assessed by the GDGs, especially when limited or no evidence from randomized 
+controlled trials was available.
+Table 2. Implications of the strength of a recommendation for different users
+Perspective 
+Strong recommendation 
+Conditional recommendation 
+For patients 
+Most individuals in this situation would 
+want the recommended course of 
+action and only a small proportion 
+would not. Formal decision aids 
+are not likely to be needed to help 
+individuals make decisions consistent 
+with their values and preferences. 
+The majority of individuals in this 
+situation would want the suggested 
+course of action, but many would not. 
+For clinicians 
+Most individuals should receive 
+the intervention. Adherence to this 
+recommendation according to the 
+guidelines could be used as a quality 
+criterion or performance indicator. 
+Recognize that different choices will be 
+appropriate for individual patients, and 
+that patients must be helped to arrive 
+at a management decision consistent 
+with their values and preferences. 
+Decision aids may be useful in helping 
+individuals to make decisions consistent 
+with their values and preferences. 
+For policy-
+makers 
+The recommendation can be adopted 
+as policy in most situations. 
+Policy-making will require substantial 
+debate and the involvement of various 
+stakeholders. 
+Source: Adapted from Guyatt et al. [8] 
+
+Methods used to update the guidelines
+7
+The GDG membership represented a broad cross-section of experts, future users of the guidelines as 
+well as affected persons. All decisions about the recommendations were reached by discussion and 
+consensus, including on the strength of the recommendations and, where appropriate, the conditions 
+to be attached to the recommendations. The GDG chairs facilitated the discussions in order to reach 
+consensus during the meetings. 
+External review
+The process of peer review involved an External Review Group which was composed of experts and 
+end-users from national programmes, technical agencies and WHO regional offices. These persons 
+provided their reviews and inputs on the completed draft guidelines after all comments by GDG 
+members were incorporated. 
+Publication, dissemination, implementation, 
+evaluation and expiry
+These guidelines are published on the website of WHO s Global TB Programme (WHO/GTB)6 and 
+can be freely downloaded (in pdf and other electronic formats). It is also expected that the evidence 
+reviews and recommendations will be published in peer-reviewed journals to improve dissemination 
+of the main messages. The updates to policy guidance are also reflected in the implementation 
+guidance on TB management and the revision of the WHO operational handbook on tuberculosis 
+Module 4: Treatment. 
+Following consolidation of the guidelines, WHO will strive to review and update individual 
+recommendations based on the emerging evidence. 
+WHO works closely with its regional and country offices, as well as with technical and funding agencies 
+and partners, to ensure wide communication of the updated guidance in technical meetings and 
+training activities. WHO collaborates with technical partners at different levels to support national TB 
+programmes in adopting new recommendations in their national TB policies and guidelines. 
+6 
+See: https://www.who.int/health-topics/tuberculosis 
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+8
+
+Recommendations
+9
+Recommendations
+Treatment of drug-susceptible TB using 6-month 
+regimen
+Recommendation 1. 
+New patients with pulmonary TB should receive a regimen 
+containing 6 months of rifampicin: 2HRZE/4HR (strong 
+recommendation, high certainty of evidence) 
+Remarks
+A: The recommendation also applies to extrapulmonary TB except TB of the central nervous system, 
+bone or joint for which some expert groups suggest longer therapy.
+B: WHO recommends that national TB control programmes provide supervision and support for all 
+TB patients in order to ensure completion of the full course of therapy.
+C: WHO recommends drug resistance surveys (or surveillance) for monitoring the impact of the 
+treatment programme, as well as for designing standard regimens.
+Source of recommendation
+This recommendation was first put forward in 2010 and was considered valid in 2017 guidelines update 
+(see mapping of recommendations in Annex). The recommendation is copied without modification 
+into this consolidated document and appears exactly as in the 2010 guidelines. 
+Justification and evidence
+A systematic review and meta-analysis included 21 472 participants in 312 arms of 57 randomized 
+controlled trials conducted in various regions of the world since 1965 [9]. In three of the 57 trials, 
+patients were randomly assigned to either a 2-month rifampicin or a 6-month rifampicin arm; rates 
+of failure, relapse and acquired drug resistance were compared head-to-head across the two study 
+arms. In a multivariate regression analysis, each arm of the 57 trials was treated as a separate cohort 
+and results were adjusted for potentially confounding patient and treatment factors. 
+The three studies with head-to-head comparisons showed that the risk of relapse after a 6-month 
+rifampicin regimen was significantly lower than that after a 2-month rifampicin regimen. If a country 
+were to change from a 2-month to a 6-month rifampicin regimen, the benefit would be an estimated 
+112 relapses averted per 1000 TB patients. 
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+10
+Regression analysis suggests that changing to a 6-month regimen would significantly reduce failure 
+and acquired drug resistance rates, in addition to relapse rates.7 This analysis found that regimens 
+with 5 7 months of rifampicin have 0.43 times the failure rate, and 0.32 times the relapse rate of 
+regimens with 1 2 months of rifampicin. Among the failures and relapses from regimens with 5 7 
+months of rifampicin, the rate of acquired drug resistance is 0.28 times that of the regimens with 1 2 
+months of rifampicin.
+Patients with isoniazid resistance would realize major benefits if the 2-month rifampicin regimen 
+were replaced with a 6-month regimen. Among patients with isoniazid mono-resistance at the start 
+of treatment, 38% relapsed after treatment with 2-month rifampicin regimens, which is significantly 
+higher than the 5.5% relapse rate after treatment with 6-month rifampicin regimens. Thus, changing 
+to the 6-month rifampicin regimen would avert 325 relapses per 1000 patients who start treatment 
+with isoniazid resistance.
+Even for patients with pan-susceptible TB, the proportion who relapsed after the 2-month rifampicin 
+regimen was 8.2%, which was significantly higher than the 3.1% for the 6-month rifampicin regimen.
+When the first course of therapy is considered along with retreatment for patients who fail or relapse, 
+it is estimated that the 6-month rifampicin regimen would avert between 3 and 12 deaths per 1000 
+compared with the 2-month rifampicin regimen across 7 countries modelled with a range of drug 
+resistance among new patients. In addition, 0.6 4.4 failures and relapses with drug resistance other 
+than MDR-TB would be averted per 1000 TB patients, but an additional 0.6 1.3 MDR-TB cases would 
+be generated.
+Among patients who failed or relapsed after their first course of treatment containing 6 months of 
+rifampicin, regression analysis found a reduction in overall acquired drug resistance; however, the 
+pattern of acquired drug resistance was different from that in patients who received the 2-month 
+rifampicin regimen. The risk of acquiring drug resistance other than MDR-TB is higher with the 
+2-month rifampicin regimen, but the risk of acquiring MDR-TB is higher with the 6-month rifampicin 
+regimen. Among failures, the proportion with MDR-TB is predicted to be 4 56% after initial treatment 
+with the 2-month rifampicin regimen but 50 94% after initial treatment with the regimen containing 
+6 months of rifampicin.
+Subgroup considerations
+The interactions of rifampicin with antiretroviral therapy (ART) are of concern. Switching to the 6-month 
+rifampicin regimen means that these drug interactions must be taken into account for the full 6 
+months rather than for just the first 2 months of therapy. However, the 6-month rifampicin regimen 
+has marked benefits for persons living with HIV, and the drug interactions can be managed [10]. 
+Implementation considerations
+To help minimize the acquisition of MDR-TB, it is critically important that national TB control 
+programmes ensure adequate supervision of rifampicin. Implementing patient supervision for the 
+4-month continuation phase will require additional resources in areas where the continuation phase 
+has been self-administered an investment that may be offset by the savings from relapses (and 
+therefore retreatments) averted. In 2008, 23 countries (including four that are considered high-burden) 
+still used the 2-month rifampicin regimen for their new patients. These countries reported 706 905 
+new cases in 2007, or 13% of the global new TB notifications that year. 
+7 
+The difference in failure and acquired drug resistance was not statistically significant in these three randomized controlled trials.
+
+Recommendations
+11
+Monitoring and evaluation
+This recommendation places high value on saving lives. Given both the high certainty of evidence for 
+this benefit and the fact that the potential harm of acquired DR-TB can be mitigated by supervision 
+of treatment. Periodic drug resistance surveys (or ongoing surveillance) in each country are essential 
+for monitoring the impact of the regimen and the overall treatment programme.
+Recommendation 2. 
+Wherever feasible, the optimal dosing frequency for new 
+patients with pulmonary TB is daily throughout the course of 
+therapy (strong recommendation, high certainty of evidence)
+Source of recommendation
+This recommendation was first put forward in 2010 and considered valid in the 2017 guidelines update 
+(see mapping of recommendations in Annex). The recommendation is copied without modification 
+into this consolidated document and appears exactly as in the 2010 guidelines. 
+Justification and evidence
+A systematic review and meta-analysis included 21 472 participants in 312 arms of 57 randomized 
+controlled trials conducted in various regions of the world since 1965 [9]. In a multivariate regression 
+analysis, each arm of the 57 randomized controlled trials was treated as a separate cohort, and results 
+were adjusted for potentially confounding patient and treatment factors. Only one study of 223 
+patients evaluated a rifampicin-containing regimen administered twice weekly throughout therapy; 
+this study was not included in the meta-analyses.
+No significant increase in failure, relapse or acquired drug resistance was found when daily dosing 
+throughout therapy was compared with the following intermittent regimens in new TB patients overall, 
+namely: daily then thrice weekly; daily then twice weekly; or thrice weekly throughout therapy.
+However, the regression analysis showed that patients being treated thrice weekly throughout therapy 
+had rates of acquired drug resistance that were 3.3 times higher than those in patients who received 
+daily drug administration throughout treatment. 
+The meta-analysis revealed no difference in rates of failure, relapse or acquired drug resistance in pan-
+susceptible new patients being treated with these dosing schedules. However, the use of a three times 
+weekly intensive phase schedule in patients with pre-treatment isoniazid resistance was associated 
+in another meta-analysis with a significantly higher risk of failure and acquired drug resistance [11].
+Implementation considerations
+When based in a health facility, daily administration of therapy places a larger burden on TB 
+programmes and patients than does intermittent therapy. Intermittent regimens require stronger 
+programmes with higher-quality patient supervision, but all regimens should be provided with full 
+patient supervision and support. 
+Studies of patients preferences for dosing schedules were not systematically reviewed. The higher 
+isoniazid dose used in intermittent therapy was not considered to have an increased incidence of 
+adverse effects. The rifampicin dosage was unchanged when using intermittent therapy.
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+12
+In an international, multicentre, randomized trial (Union Study A), Jindani, Nunn & Enarson found thrice 
+weekly dosing resulted in significantly lower culture conversion rates at 2 months [12]. In developing 
+recommendations, this endpoint was ranked by the GDG as important but not critical for decision-
+making and was not part of the systematic review.
+For new patients without HIV infection, high- certainty of evidence demonstrated no significant 
+difference between regimens that were administered daily throughout treatment, daily initially and 
+then intermittently in the continuation phase, or thrice weekly throughout treatment.
+Daily dosing is optimal because it probably achieves better adherence under programme conditions. 
+While the definition of the term varies across countries, daily is considered to mean at least five 
+times per week. In addition, meta-analyses showed the superiority of daily (compared with thrice 
+weekly) intensive-phase dosing for patients with pre-treatment isoniazid resistance and for preventing 
+acquired drug resistance in patients overall.
+Recommendation 3. 
+In all patients with drug-susceptible pulmonary TB, the use 
+of thrice-weekly dosing is not recommended in both the 
+intensive and continuation phases of therapy and daily dosing 
+remains the recommended dosing frequency (conditional 
+recommendation, very low certainty of evidence).
+Source of recommendation
+This recommendation was first put forward in 2010 and then updated in the 2017 guidelines (see 
+mapping of recommendations in Annex). It is copied without modification into this consolidated 
+document and appears exactly as in the 2010 guidelines.
+Justification and evidence
+The use of intermittent dosing of TB medications has been adopted in some geographical settings 
+in an effort to improve treatment adherence and to reduce the burden on the health-care system 
+due to daily treatment support. However, it was unclear how this intermittent dosing might affect 
+treatment outcomes. In addition to the evidence from a systematic review conducted in 2009 of 
+treatment regimens with intermittent dosing schedules [9], this systematic review was updated with 
+the most recent randomized controlled trials [13 18].
+Evidence showed that when thrice-weekly dosing throughout therapy was compared to daily dosing 
+throughout therapy, patients who received thrice-weekly dosing had a higher risk of treatment failure, 
+disease relapse and acquired drug resistance in both drug-susceptible disease and when the strain 
+susceptibility was unknown. Consequently, thrice-weekly dosing in the intensive phase should never 
+be used.
+Likewise, when thrice-weekly dosing during the continuation phase only is compared to daily dosing 
+throughout, there were higher rates of treatment failure and relapse in the patients that received 
+thrice-weekly treatment during the continuation phase. In this case, acquired drug resistance rates 
+did not differ. If thrice-weekly dosing during the continuation phase is used, it is essential to make 
+sure that patients do not miss any dose of the medications and that treatment support is used.
+In this review, the use of twice-weekly dosing in the continuation phase only was also reviewed. Twice-
+weekly dosing in the continuation phase only had higher rates of treatment failure, disease relapse 
+
+Recommendations
+13
+and drug resistance than thrice-weekly dosing in the continuation phase only. As a result, twice-weekly 
+dosing should never be used during any part of TB therapy.
+Adherence to treatment was not adequately addressed in the reviewed studies to be included as 
+an outcome. However, in most studies included in the systematic review, intermittent dosing used 
+treatment support, while the use of treatment support during daily dosing was variable. 
+The GDG also considered that health equity would be adversely affected with intermittent dosing 
+because more vulnerable populations would receive inferior treatment if intermittent dosing were 
+used. This is because people living in more resource-constrained settings would be at greater risk of 
+missing doses of medication, not only because of their difficulty in reaching a clinic but also because 
+of the risk of medication stock-outs in clinics. Additionally, patients who are co-infected with HIV or 
+have other comorbidities may not absorb TB medications well and therefore they may receive less 
+medication than they are ingesting. In order for TB medication to be used as part of a treatment 
+regimen, no doses may be missed with thrice-weekly intermittent dosing during the continuation 
+phase because the rates of unfavourable outcomes may rise. Consequently, populations that are 
+more vulnerable are at risk of missing doses of medication or of not absorbing the doses well, and 
+intermittent dosing puts them in a situation where there is an increased risk of unfavourable outcomes.
+Intermittent dosing may also create problems at national and international levels by resulting in 
+requirements for different drug manufacturing and packaging and a reduced drug supply buffer, 
+leading to an increased risk of TB medication stock-outs.
+Given the findings in this review, all countries are encouraged to use daily dosing exclusively in both 
+the intensive and the continuation phases of treatment. Although two separate evidence assessments 
+were conducted on thrice-weekly dosing in the intensive phase and the continuation phase, both the 
+formulated recommendations were conditional and there was very low certainty in the evidence. A 
+combined recommendation for both intensive and continuation phases was formulated to make it 
+more convenient for use by the end-users.
+Subgroup considerations
+This recommendation is the same for HIV-negative people and for people living with HIV.
+The data used in this review examined only patients with drug-susceptible pulmonary TB who had 
+no extenuating circumstances such as adverse reactions which might require modification of the 
+dosing schedule. 
+Children were not considered specifically in this review. However, there is no biologically plausible 
+reason why this recommendation should not also apply to children. It is recommended that all children 
+receive daily dosing of TB medications during the intensive and continuation phases of therapy for the 
+same reason as adults. See WHO s 2014 guideline Guidance for national tuberculosis programmes on 
+the management of tuberculosis in children [19] for recommendations on the daily dosing of children 
+with DS-TB.
+Implementation considerations
+There are no new implementation considerations as the recommended daily treatment is already 
+widespread practice. However, intermittent dosing is still used in some countries. In such exceptional 
+cases, implementation of the recommendation to use exclusively daily dosing in the intensive 
+and continuation phases of TB therapy is likely to have implications for medication procurement, 
+practitioner training, change of programme practice and patient support.
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+14
+Monitoring and evaluation
+There are no new monitoring and evaluation recommendations as the standard of care (daily dosing 
+of medications during the intensive and continuation phases of therapy) is being recommended.
+Recommendation 4. 
+The use of fixed-dose combination tablets is recommended 
+over separate drug formulations in treatment of patients 
+with drug-susceptible TB (conditional recommendation, low 
+certainty of evidence)
+Source of recommendation
+This recommendation was first put forward in the 2017 guidelines update (see mapping of 
+recommendations in Annex). It is copied without modification into this consolidated document and 
+appears exactly as in the 2017 guidelines.
+Justification and evidence
+The evidence presented to the GDG was based on a systematic review of randomized controlled 
+trials done by Albanna et al. [20] and by a recent Cochrane review [21]. This evidence showed that 
+the fixed-dose combination (FDC) tablets are non-inferior and equally effective as separate drug 
+formulations in terms of treatment failure, death, treatment adherence and adverse events. There was 
+a small increase in 2-month culture conversion with FDC treatment; however, there was no difference 
+in culture conversion rates by the end of treatment. Patient satisfaction was higher among persons 
+treated with FDCs. A slightly higher rate of disease relapse and acquired drug resistance among 
+patients treated with FDCs compared with those treated with separate drug formulations was not 
+statistically significant.
+Patient treatment satisfaction with FDCs was considered the most important factor for making decisions 
+on this recommendation. 
+Studies in these reviews did not evaluate bioavailability of the drugs in the FDCs, but previous studies 
+did not indicate that the FDC formulations used had significant bioavailability issues [20]. As no 
+pharmacokinetic studies were done on these FDC formulations, the bioavailability of drugs within 
+the FDCs versus the separate drug formulations remains an important consideration that indicates 
+the need to procure FDCs of demonstrated bioavailability [22 24]. This area requires further research.
+FDCs may provide programme benefits by making the ordering of medication easier, simplifying 
+supply chain management, reducing the occurrence of stock-outs, and facilitating drug delivery 
+and prescription preparation. FDCs may also provide benefits especially in settings with a large 
+number of TB patients and a limited number of health-care workers by reducing the need for 
+additional health-care staff and training in the dosing and dispensing of medications, as well as by 
+contributing to a lower pill burden for patients. Nevertheless, national TB programmes are advised 
+to have a quantity of separate drug formulations available for certain treatment conditions. Having 
+single drug formulations available would be beneficial to national TB programmes when designing 
+MDR-TB regimens that include some first-line drugs (i.e. pyrazinamide, EMB, high-dose isoniazid), 
+when providing preventive therapy, and in cases of adverse reactions to TB medications when drugs 
+must be reintroduced one at a time.
+
+Recommendations
+15
+The GDG acknowledged that greater patient satisfaction is an advantage of FDCs over separate 
+drug formulations.
+Subgroup considerations
+The reduced pill burden as a result of using FDCs may be especially valuable in patients with 
+co-morbidities (notably HIV infection) and paediatric patients (who may have some difficulty in 
+swallowing large amounts of medications).
+Patients with some specific medical conditions (e.g. intolerance to certain TB drugs, liver or renal 
+function impairment) are likely to require individual medication dose adjustment which can be done 
+only with separate drug formulations.
+Implementation considerations
+There are no specific implementation considerations as the use of FDC formulations is already widespread.
+Monitoring and evaluation
+There are no specific new recommendations for monitoring and evaluation as the use of both types 
+of drug formulation is already widespread.
+Recommendation 5. 
+In new pulmonary TB patients treated with the regimen 
+containing rifampicin throughout treatment, if a positive 
+sputum smear is found at completion of the intensive phase, 
+the extension of the intensive phase is not recommended 
+(strong recommendation, high certainty of evidence)
+Source of recommendation
+This recommendation was first put forward in 2010 and considered valid in the 2017 guidelines update 
+(see mapping of recommendations in Annex). It is copied without modification into this consolidated 
+document and appears exactly as in the 2010 guidelines.
+Justification and evidence
+The systematic review identified only one relevant study (with results published in 2012). A study 
+still under way (at moment of review) in Bangladesh of a 6-month rifampicin-containing regimen 
+randomized 3775 new smear-positive patients who remained positive at 2 months to either the 
+1-month extension arm (extension of the intensive phase by 1 month) or the no-extension arm [25].
+Preliminary results at 1 year of follow-up showed that patients in the 1-month extension arm had a 
+significantly lower relapse rate (relative risk 0.37, 95% CI 0.21, 0.66) than patients in the no-extension 
+arm. A smaller decrease in failure in the 1-month extension arm was not statistically significant. Given 
+the preliminary nature of the results and the passive follow-up of patients, the evidence from the 
+Bangladesh study was graded with moderate certainty.
+In 1000 TB patients with a 7% risk of relapse, the Bangladesh study predicts that extending the 
+treatment of 183 patients who are smear-positive at 2 months would avert 16 of the 70 expected 
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+16
+relapses. However, to achieve this 23% reduction in relapses, 158 patients per 1000 would be incorrectly 
+predicted to relapse; consequently their treatment would be extended unnecessarily. 
+While extending rifampicin beyond 6 months reduces the risk of relapse, there is insufficient evidence 
+to determine which patients are most likely to benefit. Historically, when the new patient regimen 
+included only 2 months of rifampicin, the extension of the intensive phase meant an extra month of 
+supervised rifampicin. This extra month is less important now as the current recommended regimen 
+is 6 months of supervised rifampicin. Given these considerations, together with preliminary results 
+from one moderate-certainty study that showed only modest benefit, a conditional recommendation 
+was made not to extend treatment on the basis of a positive smear at 2 months. 
+Treatment of drug-susceptible TB using 4-month 
+regimens 
+Recommendation 6. 
+People aged 12 years or older with drug-susceptible 
+pulmonary TB, may receive a 4-month regimen of isoniazid, 
+rifapentine, moxifloxacin and pyrazinamide8 (conditional 
+recommendation, moderate certainty of evidence) new 
+recommendation.
+Source of recommendation
+This recommendation was developed following the advice of the GDG convened in April 2021 to 
+review data from a randomized controlled trial that assessed the safety and effectiveness of 4-month 
+regimens for the treatment of DS-TB.
+Justification and evidence
+Since 2010, the WHO guidelines have recommended treating persons with DS-TB with a 6-month 
+regimen composed of four first line TB medicines isoniazid, rifampicin, ethambutol and 
+pyrazinamide where rifampicin is used for 6 months (2HRZE/4HR)[4]. This regimen is based on 
+seminal TB treatment studies conducted by the British Medical Research Council in the 1980s [5] and 
+has been widely adopted worldwide. Using it, approximately 85% of patients will have a successful 
+treatment outcome [1]. Despite its familiarity, safety and efficacy, many patients find the 6-month 
+regimen difficult to complete due to its length. In fact, long treatment regimens present serious 
+challenges both to patients and to the programmatic management of TB globally. 
+Since the discovery of first-line anti-TB medicines and treatment regimens, there has been a search 
+for shorter and more effective treatments for TB disease. This has resulted in various trials and other 
+studies designed to assess whether treatment can be shortened, while remaining highly effective. 
+Three phase III trials (i.e. REMoxTB, OFLOTUB, RIFAQUIN) failed to demonstrate non-inferiority of 
+shorter regimens to treat DS-TB [13, 14, 26]. A recent phase III trial (TBTC study 31/ACTG A5349, or 
+S31/A5349, referred to below as Study 31 ) assessed the safety and efficacy of two 4-month regimens 
+for the treatment of DS-TB [27]. Study 31was the first and only phase III trial to demonstrate the non-
+inferiority of the 4-month regimen for treatment of DS-TB when compared to the standard of care. The 
+8 
+Two months of isoniazid, rifapentine, moxifloxacin, and pyrazinamide, followed by two months of isoniazid, rifapentine, and moxifloxacin
+
+Recommendations
+17
+dedicated Cochrane review9 in 2019 and the literature search for the period 2019 2021 performed 
+prior to the GDG failed to identify any studies other than Study 31; therefore this was the only trial 
+to provide evidence for this GDG review.
+Study 31 was an international, multicentre, randomized, open-label, controlled, three-arm non-
+inferiority trial among adolescents and adults (aged 12 years and above) with smear-positive10 and 
+culture-positive pulmonary DS-TB [27]. Study participants were recruited from 13 countries. The 
+study objectives were to evaluate the efficacy of: 1) a rifapentine-containing regimen to determine 
+whether the single substitution of rifapentine for rifampicin makes it possible to reduce the duration of 
+treatment for drug-susceptible pulmonary TB to four months; and 2) a rifapentine-containing regimen 
+that additionally substitutes moxifloxacin for ethambutol and continues moxifloxacin throughout 
+treatment, to determine whether the duration of treatment can be reduced, compared with the 
+currently recommended 6-month regimen using a non-inferiority margin of 6.6 percentage points [27]. 
+The rifapentine-moxifloxacin arm was the only arm to demonstrate non-inferiority when compared 
+to the standard of care (the WHO recommended regimen of six months of treatment with rifampicin, 
+isoniazid, pyrazinamide and ethambutol) and thus the regimen was the one reviewed by the 
+GDG. This regimen consisted of eight weeks of daily isoniazid (H), rifapentine (P), moxifloxacin 
+(M) and pyrazinamide (Z) , followed by nine weeks of daily isoniazid, rifapentine, and moxifloxacin 
+(2HPMZ/2HPM). The dose of rifapentine used was 1200 mg daily. The primary efficacy end point of 
+Study 31 was TB disease-free survival at 12 months after randomization, while the primary safety 
+end point was the proportion of participants with grade 3 or higher adverse events during the study 
+drug treatment.
+In the trial, a total of 2 516 patients from 34 sites (in Brazil, China, Haiti, India, Kenya, Malawi, Peru, 
+South Africa, Thailand, Uganda, USA, Viet Nam and Zimbabwe) were randomly assigned to a treatment 
+group. The microbiologically eligible population11 included 791 patients with TB in the rifapentine-
+moxifloxacin arm and 768 in the standard of care control arm. The GDG accepted the outcomes used 
+by the Study 31 for analysis, using the microbiologically eligible population as defined by the study 
+to minimize bias, and using the safety analysis population (as defined by the study protocol) for the 
+review of all-cause mortality and adverse events. The proportion of patients who were cured12 was 
+similar in both arms (84.5% in the rifapentine-moxifloxacin arm versus 85.4% for the standard of care, 
+relative risk (RR) 0.99, 95% CI: 0.95 1.03). Retention on treatment was high for both arms, namely: 
+99.7% for the rifapentine-moxifloxacin arm and 99.0% for the standard of care arm (RR: 1.01, 95% 
+CI: 1.00 1.02). All-cause mortality recorded within 14 days after the end of treatment was reported 
+for 0.4% of patients in the rifapentine-moxifloxacin arm versus 0.8% in the standard of care (RR 0.42, 
+95% CI: 0.11 1.61); and grade 3 or higher adverse events were noted in 18.8% of participants in the 
+rifapentine-moxifloxacin arm versus 19.3% in the standard of care arm (RR 0.97, 95% CI: 0.76 1.24). 
+There were no statistically significant differences in the proportion of patients who were cured when 
+comparing the rifapentine-moxifloxacin arm to the standard of care arm for all four subgroups that 
+were analysed (persons living with HIV infection; persons with extensive disease, based on extent of 
+disease on chest radiography, persons with diabetes mellitus; and persons with a low body weight, less 
+than 17.9 kg/m3). There was little or no difference in all-cause mortality and adverse events during 
+treatment a slight increase in retention on treatment was noted in the rifapentine-moxifloxacin arm 
+(RR 1.01, 95% CI: 1 1.02) and the evidence was uncertain with regard to acquisition of drug resistance. 
+9 
+Grace AG, Mittal A, Jain S, Tripathy JP, Satyanarayana S, Tharyan P at al. Shortened treatment regimens versus the standard regimen 
+for drug-sensitive pulmonary tuberculosis. Cochrane Database Syst Rev. 2019;(12):CD012918. doi: 10.1002/14651858.CD012918.pub2
+10 Smear positive for acid-fast bacilli on smear microscopy or smear positive for M. tuberculosis by GeneXpert MTB/RIF ( Xpert , Cepheid 
+Inc., Sunnyvale, CA) testing with semi-quantitative result of medium or high .
+11 The microbiologically eligible population excludes persons with resistance to the medicines used for treatment; those with no baseline 
+positive TB culture and others that were not eligible to participate in the trial. The choice of a microbiologically eligible population for 
+the analyses minimizes the chance of underestimating the effect of the rifapentine-moxifloxacin in view of the non-inferiority trial design.
+12 The outcome, named cure or favorable outcome in the Study 31, was chosen as it was prioritized by the GDG. The definition of the 
+favorable outcome is detailed in the Study 31 protocol and the Evidence-to Decisions tables for this GDG review. 
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+18
+The GDG judged that the benefits of a shorter, 4-month regimen that is as effective as the currently 
+recommended 6-month regimen would justify the introduction of the shorter regimen as an option 
+for treating patients with DS-TB. 
+Certain contextual issues were discussed that resulted in a conditional recommendation, rather than 
+a strong one. These included:
+Resources: The costs related to the use of this regimen are currently high and further research is 
+needed on resource implications (e.g. patient and health system savings) and cost-effectiveness of 
+the 4-month regimen. In all, 90% of the cost of medicines for the 2HPMZ/2HPM regimen comes 
+from the rifapentine component.
+Equity: Shorter-term and longer-term equity considerations were raised by GDG members. The GDG 
+considered that in the short term, issues such as access to rifapentine, the costs of rifapentine and 
+increased pill burden (due to the lack of fixed-dose combinations for the 4-month regimen and the 
+fact that rifapentine was dosed at 1200 mg) may decrease equity. However, in the longer term as 
+costs reduce and access to rifapentine (including 300 mg tablets) increases, the shorter regimen is 
+considered likely to increase equity for patients who will have a shorter period of time engaged with 
+the health system, potentially reducing costs associated with TB treatment, and who would be able 
+to return to work sooner.
+Acceptability and feasibility: Although patients and health-care workers may prefer a regimen of 
+shorter duration, GDG members were concerned at the pill burden relative to the standard 6-month 
+regimen and the potential need for fluoroquinolone DST in some settings with a high background 
+prevalence of fluoroquinolone resistance.
+Subgroup considerations
+Subgroup analyses were conducted for four patient groups in order to inform the GDG discussions. 
+The subgroup analyses presented to the GDG included people living with HIV infection, people with 
+diabetes mellitus, people with a low body weight (body mass index < 17.9 kg/m2) and people with 
+extensive disease (using a cut-off of >50% lung area affected) on chest radiography. The reported risk 
+differences for these subpopulations indicated no statistically significant differences when comparing 
+the shorter regimen to the current standard of care; however, in some subgroups the overall numbers 
+were small in both intervention and control groups (persons with HIV and those with diabetes mellitus). 
+Additional pharmacokinetic analyses being undertaken by the trial investigators will be available in 
+the future and may provide more nuanced information on drug exposures in these groups. Other 
+subgroup analyses that were part of the trial included analyses by age group, sex, presence of cavities 
+on chest radiography, cavity size, WHO sputum smear grade, smoking history, Xpert Ct value and 
+Mycobacterial Growth Indicator Tube liquid culture automated system TTP (days).
+Subgroups included in the recommendation
+The panel suggested that the shorter regimen can be used in the subgroups for which evidence was 
+available for review (people living with HIV infection, persons with diabetes mellitus, those with a low 
+body weight and those with extensive disease). However, the panel also emphasized that additional 
+research on the use of the shorter regimen in these subgroups is desirable. 
+People living with HIV infection: The proportion of patients living with HIV infection in the 
+intervention and control regimen arms was 8% and only patients with CD4 count above 100 cells/mm3 
+were enrolled. Of all the persons with HIV who participated in the trial (in all three arms), 95.4% were 
+receiving antiretroviral treatment (ART). HIV-positive persons not on ART at enrollment, had planned 
+initiation of efavirenz-based ART before or at study week 8. Persons with HIV were excluded from 
+enrollment in the trial if, at the time of enrollment, their CD4-T cell count was known to be <100 
+
+Recommendations
+19
+cells/mm3. Overall, there were nine patients who were not on ART throughout the trial follow-up in 
+the microbiologically-eligible analysis population (4.6%); the reasons for non-initiation of ART were 
+not clear. 
+People with diabetes mellitus: Additional information from pharmacokinetic analyses will be 
+available for this population in the future which may provide more nuanced evidence on the use of 
+the intervention and control regimens in persons with diabetes mellitus. 
+People with extensive TB disease: The trial reported on the presence of cavitation on chest 
+radiograph (CXR),the extent of disease on CXR as a percentage, and cavity size (absent, < or > = 4cm). 
+For patients with less severe and minimal forms of TB, such as lymph node TB there was limited or no 
+evidence on the use of the shorter regimen. However, GDG members felt that the use of the shorter 
+regimen could be considered because favourable outcomes were reported using the shorter regimen 
+in patients with extensive disease. 
+Subgroups excluded from the recommendation
+However, there were also subgroups for which there was no evidence (as they were not eligible for 
+inclusion in the trial) and therefore the use of the shorter regimen outside the research environment 
+is not indicated in these populations. These groups include:
+ people weighing less than 40 kg; 
+ people with certain forms of extra-pulmonary TB (such as TB meningitis, disseminated TB, 
+osteoarticular TB, abdominal TB); 
+ persons living with HIV infection with a CD4 count less than 100 cells/mm3 (NB: The trial did not 
+include persons living with HIV infection if they had a CD4 count of less than 100 cells/mm3 and 
+the GDG panel expressed concerns at an increased risk of relapse in this group (also because this 
+group is at a higher risk of disseminated TB); 
+ children less than 12 years of age (NB: The trial aimed to recruit people aged 12 years and above. 
+The youngest participant was 13 years of age. Therefore, no children were included in the trial. In 
+the microbiologically-eligible population, there were 70 and 56 participants who were under 20 
+years of age in the rifapentine-moxifloxacin and control arms respectively); and 
+ pregnant, breastfeeding and postpartum women (NB: Pregnant or breast-feeding women were 
+excluded from the study because of uncertainties about the safety of rifapentine, moxifloxacin, 
+and pyrazinamide in these groups. Women who became pregnant while receiving study regimens 
+were deregistered from the study and were treated according to national TB programme or local 
+guidelines. The women continued to receive scheduled study follow-up, were classified as being on 
+a non-study regimen, and did not receive study radiographs. Women who became pregnant while 
+on study follow-up (but not on study treatment) continued to receive scheduled study follow-up 
+and did not receive study radiographs. In all cases i.e. whether pregnant during treatment or 
+during follow up the outcome of the pregnancy was reported on study forms).
+Implementation considerations
+A number of implementation considerations were discussed by the GDG. These included the following: 
+Drug susceptibility testing: The panel agreed that national TB programmes should strive for universal 
+DST. The panel also acknowledged that universal DST is not always available but rapid DST for key 
+medicines, including rifampicin, isoniazid and the fluoroquinolones is available and is expanding at 
+an accelerated pace. Rapid genotypic testing for TB and rifampicin resistance is recommended by 
+WHO as an initial test for TB and, if the same sputum sample can be tested for drug susceptibility 
+for the fluoroquinolones and isoniazid, this can facilitate assignment of the most effective regimen. 
+This would clearly have implications in terms of logistics, laboratory workload and cost. Balancing 
+the desired situation of having the universal DST with reality, the panel considered that although 
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+20
+desirable, baseline DST for fluoroquinolones would not be essential when patients with TB receive a 
+WHO-recommended rapid molecular diagnostic test to detect rifampicin resistance. Fluoroquinolone 
+resistance in new patients with DS-TB can reach up to 15% [1], although it is significantly lower in most 
+settings [28-32]. In countries with high prevalence of resistance to fluoroquinolones in new patients 
+DST for the fluoroquinolones would be highly recommended at baseline. 
+Directly observed treatment: Patients in the trial received daily treatment that was directly 
+observed at least five days per week. However, this may not be possible in programmatic settings. 
+Directly observed treatment may be important in view of the pill burden and the lack of a fixed-
+dose combination formulation, and also as a measure to prevent potential amplification of drug 
+resistance. Current WHO recommendations support the use of directly observed treatment and also 
+other forms of patient support and, overall, even though this regimen is a 4-month one and shorter 
+than the current standard of care, patient support remains an important element of TB programming. 
+Pill burden: At present, the overall pill burden will be higher for patients who will receive this 4-month 
+regimen13 because no fixed dose combination tablet exists for the regimen and the dose of rifapentine 
+is high (1200 mg). This may affect acceptability by patients currently, however this situation may change 
+in future as uptake of this regimen improves, creating a demand for the regimen and its component 
+medicines. Wider availability of rifapentine formulation of 300 mg14 may decrease the pill burden and 
+facilitate the implementation of this new regimen until the FDC tablet becomes available. 
+Cost of medicines: The current cost of the shorter regimen is substantially15 higher than the standard 
+of care, mainly due to the inclusion of rifapentine. Again, this situation may change in future as uptake 
+of the regimen improves, creating a demand for the regimen and for the medicines in it.
+Administration of the shorter regimen with food may present a challenge in some settings. 
+In the trial, a flat dose of 1200 mg of rifapentine was dosed daily, with food. This was based on: 
+1) demonstration of the safety of rifapentine at 1200 mg in phase I and phase II trials; 2) demonstration 
+that body weight does not significantly affect rifapentine clearance; 3) recognition of an effect of food 
+in increasing rifapentine absorption [33]; and 4) modelling predictions that the target rifapentine 
+exposure (area under the curve [AUC] of approximately 500 600 mcg*h/L) is achievable using this 
+strategy see the supplementary appendix to reference 13).
+As described in the trial s statistical analysis plan, pharmacokinetic/pharmacodynamic modelling 
+predicted that a rifapentine dose of 1200 mg without food would yield an AUC approximately the 
+same as that of a rifapentine dose of 900 mg with a very high fat meal. Since the target rifapentine AUC 
+lies somewhere between that achieved with a very high fat meal and a rifapentine dose of 900 1200 
+mg, the strategy proposed was a rifapentine dose of 1200 mg with a modest food requirement. The 
+rationale was that a very high fat meal may not be feasible under trial or routine TB care conditions, 
+whereas dosing with food may be feasible.
+Training of health-care workers was another implementation consideration that the panel discussed. 
+Training will be necessary when introducing the shorter regimen into a programmatic setting. However, 
+this is a requirement for any new programmatic intervention and the ability to shorten treatment and 
+potentially treat more patients may offset initial training investments. 
+Another implementation consideration discussed by the GDG concerned the choice of regimen to 
+treat DS-TB. The GDG considered that, when choosing between the shorter 4-month regimen or the 
+6-month regimen, clinicians should consider eligibility criteria for the regimen and patient preference 
+as well as local factors such as the availability of rifapentine. 
+13 Based on estimates by the Global Drug Facility for an average weight of 55 70 kg: 1358 tablets versus 728 for whole course of treatment. 
+14 Rifapentine 150mg and 300mg are both included in the WHO Model list of essential medicines: 22nd list ( 2021). See: https://apps.who.
+int/iris/bitstream/handle/10665/345533/WHO-MHP-HPS-EML-2021.02-eng.pdf (accessed 28 February 2021).
+15 Approximately 5 times (US$ 225 233 versus US$ 343), based on current estimates using weighted average prices of the Global Drug 
+Facility. 
+
+Recommendations
+21
+Monitoring and evaluation
+The current guidance on monitoring the response to DS-TB treatment stays the same. The panel 
+did not recommend baseline electrocardiogram (ECG) monitoring for those receiving the shorter 
+regimen (unless clinically indicated), and laboratory monitoring such as liver function tests would 
+remain the same for both regimens. Some countries may have different requirements for liver function 
+monitoring due to the black box warnings for moxifloxacin and these should be followed according 
+to the country s policies. 
+Recommendation 7. 
+In children and adolescents between 3 months and 16 years 
+of age with non-severe TB (without suspicion or evidence of 
+MDR/RR-TB), a 4-month treatment regimen (2HRZ(E)/2HR) 
+should be used (strong recommendation, moderate certainty 
+of evidence) new recommendation.
+Remarks:
+ Non-severe TB is defined as: Peripheral lymph node TB; intrathoracic lymph node TB without airway 
+obstruction; uncomplicated TB pleural effusion or paucibacillary, non-cavitary disease, confined to 
+one lobe of the lungs, and without a miliary pattern; 
+ Children and adolescents who do not meet the criteria for non-severe TB should receive the 
+standard six-month treatment regimen (2HRZE/4HR), or recommended treatment regimens for 
+severe forms of extrapulmonary TB. 
+ The use of ethambutol in the first two months of treatment is recommended in settings with a high 
+prevalence of HIV16, or of isoniazid resistance17.
+Source of recommendation
+This recommendation has been developed following advice from the Guidelines Development 
+Group convened by the WHO Global Tuberculosis Programme in May-June 2021 on the topic of 
+the management of TB in children and adolescents. The recommendation is also featured in the 
+consolidated guidelines module on management of tuberculosis in children and adolescents.
+Justification and evidence
+The majority of children with TB have less severe forms of the disease than adults. Treatment regimens 
+that are shorter than those for adults may be effective in treating children with TB, however solid 
+evidence to substantiate this has been lacking to date. Shorter treatment regimens can result in lower 
+costs to families and health services, potentially less toxicity, lower risks of drug-drug interactions in 
+children living with HIV, and fewer problems with adherence. Shorter, safe and effective treatment 
+regimens for children with both drug-susceptible and DR-TB benefit children with TB and their families 
+and are a key intervention to achieve the WHO s End TB Strategy targets, as well as targets related 
+to children set during the UNGA HLM on TB in 2018. New evidence from a recently completed trial 
+16 Defined as countries, subnational administrative units, or selected facilities, where the HIV prevalence among adult pregnant women is 
+ 1% or among TB patients is 5% in the Guidance for national tuberculosis programmes on the management of tuberculosis in children 
+(second edition) 2014.
+17 WHO does not intend to establish thresholds for low, moderate or high levels of prevalence of isoniazid resistance: NTPs will establish 
+definitions for their own countries.
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+22
+on the shortened treatment of drug-susceptible TB in children and adolescents has paved the way 
+for new recommendations on shorter regimens for this group.
+The SHINE trial (Shorter Treatment for Minimal Tuberculosis in Children) was the first and only large 
+phase three trial to evaluate the duration of TB treatment in children with non-severe drug-susceptible 
+TB. Therefore, evidence from the trial rather than a systematic review, was used to answer this 
+PICO question [34]. The SHINE trial was a multi-centre, open-label, parallel-group, non-inferiority, 
+randomized, controlled, two-arm trial comparing four-month (16 weeks) versus the standard six-
+month (24 weeks) treatment durations in children under 16 years of age with symptomatic non-severe 
+TB. Children and young adolescents aged below 16 years were treated with rifampicin, isoniazid, 
+pyrazinamide with or without ethambutol using WHO recommended doses, appropriate for paediatric 
+dosing [35]. 
+PICO question: In children and adolescents with non-severe TB, should a four-month intervention 
+regimen versus the standard six-month regimen conforming to WHO guidelines be used?
+Evidence: In the SHINE trial, the primary efficacy outcome was a composite of treatment failure 
+(including an extension of treatment beyond the replacement of missed doses, TB treatment drug 
+changes or restarts due to suspected treatment failure), on-treatment loss-to-follow-up, TB recurrence 
+or death by 72 weeks (from randomization), excluding children not reaching 16 weeks follow-up 
+(modified-intention-to-treat). The non-inferiority margin for the primary efficacy outcome was 6%. 
+The primary safety outcome was grade 3 5 adverse events recorded while on TB treatment. 
+The SHINE trial definition of non-severe TB was: peripheral lymph node TB or respiratory TB (including 
+uncomplicated intrathoracic lymph node disease) confined to one lobe without cavities, no significant 
+airway obstruction, uncomplicated pleural effusion, and no miliary TB. 
+The SHINE trial inclusion criteria were: children and young adolescents aged <16 years; weight 3 
+kg; no known drug-resistance; symptomatic but non-severe TB; smear negative on gastric aspirate 
+or other respiratory sample (an Xpert MTB/RIF positive, rifampicin susceptible result was allowed);18 
+clinician s decision to treat with a standard first-line regimen; not treated for TB in the previous two 
+years; known HIV status (positive or negative). Trial exclusion criteria were: respiratory sample acid 
+fast bacilli smear-positive (a smear-positive peripheral lymph node sample was allowed); premature 
+birth (<37 weeks) and aged under three months; miliary TB, spinal TB, TBM, osteoarticular TB, 
+abdominal TB, congenital TB; pre-existing, non-tuberculous disease likely to prejudice the response 
+to, or assessment of, treatment (such as liver or kidney disease, peripheral neuropathy or cavitation); 
+any known contraindication to taking TB drugs; known contact with a drug-resistant adult source 
+case (including mono-resistant TB); known drug-resistance in the child; being severely ill; pregnancy. 
+A total of 1204 children were enrolled in the trial between July 2016 and July 2018. The median age of 
+enrolled children was 3.5 years (range: 2 months 15 years), 52% were male, 11% had HIV-infection, 
+and 14% had bacteriologically confirmed TB. Retention in the trial by 72 weeks and adherence19 to 
+allocated TB treatment were 95% and 94%, respectively. Sixteen (2.8%) versus 18 (3.1%) children 
+reached the primary efficacy outcome (treatment failure) in the 16- versus 24-week arms respectively, 
+with an unadjusted difference of -0.3% (95% CI: -2.3, 1.6). Treatment success was reported in 97.1% 
+of participants receiving the 16-week regimen versus 96.9% in those receiving the 24-week regimen 
+(relative risk (RR): 1.00, 95% CI: 0.98 1.02). Non-inferiority of the 16-week regimen was consistent 
+across all intention-to-treat, per-protocol and key secondary analyses. This included restricting the 
+analysis to the 958 (80%) children that were independently adjudicated to have TB at baseline by 
+the trial Endpoint Review Committee. A total of 7.8% of children experienced a grade 3 5 adverse 
+18 In the SHINE trial, children with Xpert MTB/RIF results had very low or low semi-quantitative results, or a negative result. Xpert Ultra 
+was not used in the SHINE trial.
+19 In the SHINE trial, adherence was defined as the proportion of children who received an adequate amount of treatment (as defined in 
+the statistical analysis plan for both the intervention and control regimens; generally, a cut off of 80% of the allocated doses was used, 
+within a certain time frame of starting each phase of treatment (i.e. intensive phase versus continuation phase).
+
+Recommendations
+23
+event in the 16-week arm, versus 8.0% in the 24-week arm (RR: 0.98, 95% CI: 0.67 1.44). There were 
+115 on-treatment grade 3 adverse events in 95 (8%) children, 47 (8%) in the 16-week and 48 (8%) 
+in the 24-week arm, most common being pneumonia or other chest infections (29 (25%)) or liver-
+related events (11 (10%)) across both arms. There were 17 grade 3 or 4 adverse reactions (considered 
+possibly, probably or definitely) related to trial drugs, including 11 hepatic events; all adverse reactions 
+except three occurred in the first eight weeks of treatment.
+GDG considerations: The GDG judged that while the desirable effects related to this PICO question 
+are related to treatment outcomes, shortening the duration of treatment is also important and 
+desirable (as reducing the length of treatment could make treatment easier for children and caregivers 
+as well as reduce cost for families and the health system). The GDG discussed that since the SHINE 
+trial was a non-inferiority trial, no difference in unfavourable outcomes between the two arms is what 
+the trial aimed to detect. Therefore, both desirable and undesirable effects were judged by most GDG 
+members as trivial. Since non-inferiority of the 4-month regimen was demonstrated in the trial, the 
+balance of effects was judged to not favour either the shorter or the longer duration of treatment. 
+However, the GDG noted that treatment duration is a critical issue which was further considered in 
+the context of issues such as cost, acceptability and feasibility.
+The GDG also discussed that presumably, a shorter duration of treatment will reduce costs to both 
+the health care system and to children with TB and their families. The GDG ultimately agreed on 
+ moderate savings despite the varying views of the level of these savings. The GDG judged that 
+equity was probably increased with a shorter duration of treatment. Despite no direct evidence on 
+acceptability, the GDG judged that the shorter regimen was acceptable to stakeholders.
+In addition, the GDG felt that, in the absence of exposure to DR-TB, access to CXR would help 
+distinguish between non-severe and severe disease. However, the panel recognized that access to 
+CXR is often limited or quality of CXR and capacity for interpretation is insufficient at lower levels 
+of the health care system, which may have equity implications. Therefore, feasibility was judged to 
+vary by setting. The GDG noted that it is critically important to clearly define non-severe disease 
+and that NTPs be encouraged to scale up access to quality CXR and train health care providers 
+in its interpretation. Overall, the GDG judged that if the severity of TB disease in children can be 
+adequately determined under programmatic conditions, then implementation of a four-month 
+regimen is highly feasible.
+Subgroup considerations
+Children with peripheral lymph node TB: Although the number of children with peripheral lymph 
+node TB in the SHINE trial were small (N=19 in the 16-week arm and N=21 in the 24-week arm), there 
+was no difference in the proportion of unfavourable outcomes between the two arms. The SHINE trial 
+also found that 16 weeks of treatment was non-inferior compared to 24 weeks of treatment among 
+children with both peripheral lymph node disease and pulmonary disease (N=182 in the 16-week 
+arm and N=171 in the 24-week arm). These results may provide reassurance to clinicians regarding 
+a seemingly delayed clinical response to TB treatment, frequently seen in children with peripheral 
+lymph node TB (where lymph nodes remain enlarged even after treatment). 
+Children and adolescents living with HIV infection (CALHIV): CALHIV were eligible for enrolment 
+in the SHINE trial; 65 (11%) CALHIV were enrolled in the 16-week arm and 62 (10%) in the 24-week 
+arm. 49% of CALHIV in the 16-week arm and 43% in the 24-week arm were on antiretroviral treatment 
+at the time of enrolment. 20% of CALHIV in both arms had a CD4 count of less than 200 cells per 
+mm3. 51% of CALHIV in the 16-week arm and 63% in the 24-week arm were classified as severe as 
+per the WHO immunological classification for established HIV infection [36]. In this subgroup, the 
+16-week regimen was non-inferior as compared to the 24-week regimen as well, although the 95% 
+confidence interval for the difference in the unfavourable rate compared to the control arm was wide 
+(risk difference -4.3, 95% CI -14.9 to 6.2).
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+24
+In view of the limited evidence, clinicians may consider treating CALHIV with non-severe TB for 
+four months, depending on the degree of immunosuppression and ART status, as well as the 
+presence of other opportunistic infections. These children and adolescents will need to be monitored 
+closely, especially at four months of treatment, and treatment extended to 6 months if there is 
+insufficient progress.
+Children with severe acute malnutrition (SAM): In the SHINE trial, SAM was defined as weight-
+for-height Z-score (WHZ) < 3 or MUAC <115 mm [37]. Thirty children with SAM (5%) were included 
+in the 16-week arm and 33 (5%) in the 24-week arm. No separate sub-group analysis was therefore 
+conducted for children with SAM. In view of the insufficient evidence on this subgroup, and as SAM is 
+defined as a danger sign, children with SAM and non-severe TB should preferably receive 6 months 
+of TB treatment. 
+Infants <3 months of age and/or weighing < 3kg: Infants <3 months of age and infants weighing 
+<3 kg (including premature birth (<37 weeks) were not eligible for inclusion in the SHINE trial. No new 
+data on the treatment of congenital TB and very young infants (aged 0 3 months) with TB disease was 
+received following a call for data. Therefore, infants aged 0 3 months with suspected or confirmed 
+PTB or tuberculous peripheral lymphadenitis should be promptly treated with the six-month treatment 
+regimen (2HRZ(E)/4HR), as per the existing recommendation from the 2014 Guidance for national 
+tuberculosis programmes on the management of tuberculosis in children [19]. Treatment may require 
+dose adjustment to reconcile the effect of age and possible toxicity in young infants. The decision to 
+adjust doses should be taken by a clinician experienced in the management of paediatric TB. 
+Children treated for TB in the past two years: Given the increased risk of treatment failure and 
+of drug resistance, children and adolescents treated in the preceding two years were not eligible 
+for inclusion in the SHINE trial; they should be treated with the six-month treatment regimen 
+(2HRZ(E)/4HR).
+Implementation considerations
+Assessing severity of disease: The feasibility of assessing the severity of TB disease, particularly in 
+settings without access to CXR or capacity for CXR interpretation and WHO-recommended diagnostic 
+tests was identified as a major implementation consideration. Chest radiography was identified by 
+the GDG as a critical tool to evaluate the severity of intrathoracic disease. As indicated under the 
+recommendation remarks, non-severe intrathoracic or PTB disease refers to: intrathoracic lymph 
+node TB without airway obstruction; uncomplicated TB pleural effusion or paucibacillary, non-cavitary 
+disease confined to one lobe of the lungs and without a miliary pattern. Extensive or advanced disease 
+in children under 15 years of age is usually defined by the presence of cavities or bilateral disease 
+on CXR [38]. NTPs are encouraged to scale up access to quality CXR and provide training to health 
+care providers in its interpretation. Out-of-pocket expenses for CXR pose a potential barrier to TB 
+diagnosis and access to shorter regimen for eligible children and young adolescents. In the SHINE 
+trial, children who were Xpert MTB/RIF positive, but sputum smear-negative were eligible for inclusion. 
+The 85 children (7%) who were Xpert MTB/RIF positive (45 in the four-month arm and 40 in the six-
+month arm), had very low or low semi-quantitative Xpert MTB/RIF results. 
+Detailed implementation guidance is provided in the Operational handbook on the management of 
+tuberculosis in children and adolescents, taking into consideration differences in the health care system 
+and country context, including the availability of diagnostic tools to make a diagnosis and to assess 
+disease severity. While access to CXR is an important implementation consideration, it should not be 
+a barrier for children and adolescents in lower resourced settings to benefit from the shorter regimen. 
+The implementation guidance in the operational handbook comprises criteria for assessing disease 
+severity, including clinical criteria in the absence of CXR or rapid diagnostics or other bacteriological 
+tests, to determine eligibility for the shorter regimen. Children with Xpert MTB/RIF or Ultra results 
+
+Recommendations
+25
+that are trace, very low or low, who meet radiographical or clinical criteria for non-severe TB, can be 
+treated with the four-month regimen. 
+Continuum between TB infection and disease: An additional implementation consideration is 
+the concept that a continuum exists between TB infection, non-severe and more severe forms of 
+TB disease in children. Shorter treatment regimens for drug-susceptible TB are now very similar to 
+recently recommended shorter regimens for the treatment of TB infection, in terms of duration and 
+composition, in particular the regimen that consists of three months of daily isoniazid and rifampicin 
+(3HR) [39]. This implies that incorrectly diagnosing a child who has TB infection as having non-severe 
+TB disease may not have severe consequences. 
+Contact investigation: Another implementation consideration is the scale up contact investigation 
+approaches, which can improve early case detection of children with non-severe disease who may 
+benefit from the 4-month regimen. 
+Use of ethambutol in the intensive phase of treatment: Children and young adolescents with non-
+severe TB who live in settings with low HIV prevalence or a low prevalence of isoniazid resistance and 
+those who are HIV negative can be treated with a three-drug regimen (HRZ) for two months, followed 
+by two months of HR. Children and young adolescents with non-severe TB who are living in settings 
+where the prevalence of HIV is high20 and/or the prevalence of isoniazid resistance is high21 should 
+be treated with HRZE for two months followed by HR for two months. In the SHINE trial, ethambutol 
+was used in line with these recommendations as per national guidelines and all CALHIV received 
+ethambutol as part of their treatment. For the six-month regimen used to treat more severe forms 
+of TB, it is recommended to add ethambutol to the regimen (i.e. 4HRZE/2HR). 
+Child-friendly formulations: NTPs are encouraged to prioritize the use of child-friendly fixed dose 
+combination (FDC) formulations for TB treatment in children up to 25 kg body weight, such as: the 
+3-FDC HRZ 50/75/150 mg with or without the addition of dispersible ethambutol, and the 2-FDC HR 
+50/75 mg (available from the Stop TB Partnership s Global Drug Facility (GDF)). Capacity building of 
+health care workers at all levels of the health system on diagnostic approaches (including treatment 
+decision algorithms), eligibility for the four-month regimen and monitoring of children on first-line TB 
+treatment will also be critical factors in the successful implementation of the shorter regimen. 
+Treatment of severe pulmonary TB in children and young adolescents: Children and young 
+adolescents with forms of PTB that do not meet the eligibility criteria for the four-month regimen 
+should be treated with a standard six-month regimen that includes a fourth drug (ethambutol) in the 
+intensive phase (such as 2HRZE/4HR).
+Treatment options for adolescents from 12 years of age: Another implementation consideration 
+is that adolescents aged 12 years and above with TB can benefit from the four-month regimen that 
+consists of isoniazid, rifapentine, moxifloxacin and pyrazinamide (HPMZ), which is now conditionally 
+recommended by WHO (see Recommendation 6 in the current document). Adolescents aged between 
+12 and 16 years therefore have three options for treatment: the four-month HPMZ regimen, the four-
+month 2HRZ(E)/2HR regimen, and the standard six-month 2HRZ(E)/4HR regimen. Adolescents from 
+16 years of age were not included in the SHINE trial and therefore have two options: the four-month 
+HPMZ regimen and the standard six-month 2HRZE/4HR regimen.
+Choosing an appropriate regimen for this age group will depend on clinical factors (such as the 
+presence of severe disease or if living with HIV, ART status and CD4 count) as well as contextual factors 
+(including the availability of the HPMZ regimen in the country). 
+20 This level of resistance was defined as countries, subnational administrative units, or selected facilities, where the HIV prevalence among 
+adult pregnant women is 1% or among TB patients is 5% in the Guidance for national tuberculosis programmes on the management 
+of tuberculosis in children (second edition) 2014.
+21 WHO does not intend to establish thresholds for low, moderate or high levels of prevalence of isoniazid resistance; instead NTPs will 
+establish definitions for their own countries.
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+26
+Monitoring and evaluation
+The clinical monitoring requirements for the shorter regimen remain the same as for the six-month 
+regimen and treatment outcomes are determined at the end of the four-month regimen. 
+Should there be insufficient clinical improvement after completion of the four-month regimen, the 
+clinician may decide to extend treatment to six months while considering alternative diagnoses, 
+including DR-TB.
+Monitoring for potential relapse is a priority for shorter regimens especially when they are introduced 
+into programmatic settings. Therefore, follow-up of children and young adolescents for up to 12 
+months after completion of the four-month regimen is important.
+Drug-susceptible TB treatment and ART in people 
+living with HIV
+Recommendation 8. 
+It is recommended that TB patients who are living with HIV 
+should receive at least the same duration of daily TB treatment 
+as HIV-negative TB patients (strong recommendation, high 
+certainty of evidence)
+Source of recommendation
+This recommendation was first put forward in 2010 and considered valid in the guidelines update 
+of 2017 (see mapping of recommendations in Annex). The recommendation is copied without 
+modification into this consolidated document and appears exactly as in the 2010 guidelines.
+Justification and evidence
+A systematic review and meta-analysis of 6 randomized controlled trials and 21 cohort studies 
+provided pooled estimates of failure, relapse and death by duration of rifampicin, and daily intensive 
+phase versus intermittent throughout [40]. The systematic review revealed a marked and significant 
+reduction in failure and relapse in the arms where some or all patients received ART. In a regression 
+model, treatment failure or relapse was 1.8 2.5 times more likely with intermittent rather than daily 
+dosing in the intensive phase. Compared with 8 or more months of rifampicin, 2-month rifampicin 
+regimens carried a 3-fold higher risk of relapse and 6-month regimens carried a 2.2 -fold higher risk. 
+Extending treatment beyond 6 months is recommended by some expert groups in certain persons 
+living with HIV and the meta-analysis showed that this is associated with significantly lower relapse 
+rates. However, several other considerations were given greater weight. Separate regimens for TB 
+patients living with or without HIV would be very challenging in operational terms and could create 
+stigma. Other potential harms of extending treatment are acquired resistance to rifampicin, and a 
+longer period during which ART options are limited (because of ART rifampicin interactions).
+
+Recommendations
+27
+Recommendation 9. 
+ART should be started as soon as possible within two weeks of 
+initiating TB treatment, regardless of CD4 cell count, among 
+people living with HIV.a 
+Adults and adolescents (strong recommendation, low to 
+moderate certainty of evidence; 
+Children and infants (strong recommendation, very low 
+certainty of evidence)
+a. Except when signs and symptoms of meningitis are present.
+Source of recommendation
+This recommendation is from WHO s Consolidated guidelines on HIV infection, testing, treatment, 
+service delivery and monitoring: recommendations for a public health approach [41]. The background 
+and history of this recommendation is provided below, while the detailed rationale and supporting 
+evidence can be found in the source document. 
+The recommendation applies to both children and adults but the strength of the recommendation 
+and certainty of the evidence differ for each group because of the difference in the available data for 
+the reviews. One specific exception that is highlighted in this recommendation relates to situations in 
+which signs and symptoms of meningitis are present. Caution is needed regarding people who are 
+living with HIV and who have TB meningitis because immediate ART is significantly associated with 
+more severe adverse events. Thus, it might be a consideration to delay ART for 4 8 weeks after TB 
+treatment is initiated in such situations.
+The use of corticosteroids as adjuvant treatment for TB meningitis still applies in these situations. 
+Background
+Since 2010, WHO has recommended that ART be started as soon as possible within eight weeks of 
+initiating TB treatment (strong recommendation, high certainty of evidence) [42]. In 2012, WHO added 
+a recommendation to initiate ART within two weeks among those with a CD4 count less than or equal 
+to 50 cells/mm3 (except for children for whom previous recommendations remained unchanged 
+because of the lack of specific evidence) [43]. In 2017, on the basis of a systematic review of evidence 
+that earlier ART initiation resulted in reduced morbidity and mortality [44], WHO recommended 
+offering rapid ART initiation within one week, and on the same day if ready, for all people diagnosed 
+with HIV including adults, adolescents and children [44] with stated cautions for those with signs 
+and symptoms of TB meningitis.
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+28
+The use of adjuvant steroids in the treatment of TB 
+meningitis and pericarditis
+Recommendation 10. 
+In patients with tuberculous meningitis, an initial 
+adjuvant corticosteroid therapy with dexamethasone or 
+prednisolone tapered over 6 8 weeks should be used (strong 
+recommendation, moderate certainty of evidence).
+Recommendation 11. 
+In patients with tuberculous pericarditis, an initial 
+adjuvant corticosteroid therapy may be used (conditional 
+recommendation, very low certainty of evidence).
+Source of recommendation
+These recommendations were first put forward in the guidelines update of 2017 (see mapping of 
+recommendations in Annex). They are copied without modification into this consolidated document 
+and appear exactly as in the 2017 guidelines.
+Justification
+In patients with tuberculous meningitis, evidence from randomized controlled trials in the systematic 
+review [45 49] showed lower rates of mortality, death or severe disability, and disease relapse when 
+patients were treated with steroids in addition to anti-TB treatment. The benefits in terms of mortality 
+increased with the increasing TB meningitis stage (i.e. increasing severity of disease). Additionally, rates 
+of adverse events and severe adverse events, including severe hepatitis, were lower in the patients 
+receiving steroids.
+In patients with tuberculous pericarditis, evidence from studies in the systematic review [50 57] 
+showed a benefit to steroid treatment with regard to death, constrictive pericarditis and treatment 
+adherence. When the studies were considered individually, the largest (1400 patients) and most recent 
+study the IMPI study [52] showed no benefit with steroids. However, a complicating factor in these 
+findings is HIV infection. In the IMPI study, 67% of subjects were HIV-positive and only 14% were on 
+ART. This raises the question as to whether immunosuppressed patients may have had a different 
+benefit from steroids when compared to HIV-negative people or persons living with HIV who are 
+on ART. In the IMPI study, a supplemental analysis was done of the HIV-negative patients only and 
+a small mortality benefit was shown with steroid treatment. However, the relationship between HIV 
+infection and steroids is complex. In another smaller study of 58 subjects, all of whom were HIV-
+positive, steroids were found to reduce mortality [53]. It is of note that the other studies in the review 
+did not address HIV and mortality. 
+The panel considered that the benefit in preventing constrictive pericarditis outweighed the potential 
+harms of corticosteroid therapy. 
+
+Recommendations
+29
+Subgroup considerations
+Steroids should be given regardless of the severity of meningitis. With regard to the use of steroids in 
+tuberculous pericarditis, in one study an increase in HIV-related cancers (non-Hodgkins lymphoma and 
+Kaposi sarcoma) was observed [52]. However, this increase appears to be caused by co-administration 
+of immunotherapy (M. indicus pranii).
+Implementation considerations
+Practitioners should give oral steroids if intravenous formulations are not available.
+Monitoring and evaluation
+There are no additional recommendations beyond the standard of care.
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+30
+
+Research priorities
+31
+Research priorities
+The GDGs discussed future research and highlighted a number of priorities. 
+1. The effectiveness of fixed-dose combination TB treatment when compared to separate drug 
+formulations in patients with DS-TB disease
+ Additional research on the reasons why FDC formulations did not show a clear benefit over 
+separate drug formulations. 
+ Pharmacokinetic studies of the bioavailability of FDCs versus separate drug formulations and 
+better development of weight band categories for drug dosing. 
+ The optimal dose of rifampicin, including the use of different drug formulations in all age groups.
+ Additional qualitative studies detailing adherence to medication.
+ Additional work on FDC formulations to further decrease the pill burden, especially among 
+patients with comorbidities. 
+2. The use of steroids in the treatment regimen of extrapulmonary TB disease
+ The optimal steroid dose for TB meningitis (including different drug formulations).
+ The optimal steroid duration for TB meningitis and if this duration differs between different 
+grades of meningitis.
+ The different effects of steroids on people who are HIV-positive or HIV-negative, or who are 
+being treated (or not) with ART.
+ The relationship between steroid treatment and cancer risk, with reference to the Mayosi et al. 
+study on pericarditis [50].
+3. 4-month regimen of isoniazid, rifapentine, moxifloxacin and pyrazinamide for drug-
+susceptible pulmonary TB
+ Acquisition of drug resistance for Mycobacterium tuberculosis and for other bacteria while on 
+treatment with a 4-month regimen. 
+ The efficacy of the regimen for patients with extra-pulmonary TB. 
+ Pharmacokinetic, safety and tolerability studies in younger adolescents and children. A 
+pharmacokinetic sub-study in adults was initiated alongside the trial, and the results were 
+expected within months of the GDG meeting.
+ The cost-effectiveness of the shorter regimen.
+ Considerations regarding the impact of the 4-month regimen on equity.
+ The acceptability of the shorter 4-month regimen, particularly for patients.
+ The use of this regimen in specific subgroups including pregnant and lactating women, children 
+aged less than 12 years, HIV-positive individuals with a CD4 count lower than 100 cells/mm3, 
+people with diabetes mellitus and people with a body weight less than 40 kg. 
+ Dosing considerations for people weighing less than 40 kg.
+ The use and acceptability of FDC formulations for the shorter 4-month regimen.
+ Operational research on directly observed treatment versus self-administered therapy.
+ Treatment adherence and completion in operational settings.
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+32
+
+References 
+33
+References 
+1. Global tuberculosis report. Geneva: World Health Organization; 2020 (https://www.who.int/publications-
+detail-redirect/9789240013131, accessed 3 March 2022).
+2. The end TB strategy. Geneva: World Health Organization; 2015 (https://www.who.int/publications-detail-
+redirect/WHO-HTM-TB-2015.19, accessed 3 March 2022).
+3. Guidelines for treatment of drug-susceptible tuberculosis and patient care. Geneva: World Health 
+Organization; 2017 (https://www.who.int/publications-detail-redirect/9789241550000, accessed 3 March 
+2022).
+4. Treatment of tuberculosis, guidelines for national programmes, fourth edition. Geneva: World Health 
+Organization; 2010 (https://www.who.int/publications-detail-redirect/9789241547833, accessed 3 March 
+2022).
+5. Fox W, Ellard GA, Mitchison DA. Studies on the treatment of tuberculosis undertaken by the British Medical 
+Research Council tuberculosis units, 1946 1986, with relevant subsequent publications. Int J Tuberc Lung 
+Dis. 1999;3(10 Suppl 2):S231 79.
+6. WHO handbook for guideline development. Geneva: World Health Organization; 2014:167 (https://apps.
+who.int/iris/handle/10665/145714, accessed 3 March 2022).
+7. About the WHO Guidelines Review Committee. Geneva: World Health Organization; 2021 (https://www.
+who.int/groups/guidelines-review-committee, accessed 3 March 2022).
+8. Guyatt GH, Oxman AD, Gunn EV, Kunz R, Falck-Ytter Y, Alonso-Coello P et al. GRADE: an emerging consensus 
+on rating quality of evidence and strength of recommendations. BMJ. 2008;336(7650):924 6.
+9. Menzies D, Benedetti A, Paydar A, Martin I, Royce S, Pal M et al. Effect of duration and intermittency 
+of rifampin on tuberculosis treatment outcomes: a systematic review and meta-analysis. PLoS Med. 
+2009;6(9):e1000146. doi: 10.1371/journal.pmed.1000146.
+10. Updated recommendations on HIV prevention, infant diagnosis, antiretroviral initiation and monitoring. 
+Geneva: World Health Organization; 2021 (https://www.who.int/publications-detail-redirect/9789240022232, 
+accessed 3 March 2022).
+11. Menzies D, Benedetti A, Paydar A, Royce S, Pal M, Burman W et al. Standardized treatment of active 
+tuberculosis in patients with previous treatment and/or with mono-resistance to isoniazid: a systematic 
+review and meta-analysis. PLoS Med. 2009;6(9):e1000150. doi:10.1371/journal.pmed.1000150.
+12. Jindani A, Nunn AJ, Enarson DA. Two 8-month regimens of chemotherapy for treatment of newly diagnosed 
+pulmonary tuberculosis: international multicentre randomised trial. Lancet. 2004;364(9441):1244 51.
+13. Gillespie SH, Crook AM, McHugh TD, Mendel CM, Meredith SK et al. Four-month moxifloxacin-based 
+regimens for drug-sensitive tuberculosis. N Engl J Med. 2014;371(17):1577 87. doi:10.1056/NEJMoa1407426.
+14. Merle CS, Fielding K, Bah Sow O, Gninafon N, Lo MB, Mthiyane T et al. A four-month gatifloxacin-containing 
+regimen for treating tuberculosis. N Engl J Med. 2014;371(17):1588 98. doi:10.1056/NEJMoa1315817.
+15. Blanc FX, Sok T, Laureillard D, Borand L, Rekacewicz C, Nerrienet E et al. Earlier versus later start of 
+antiretroviral therapy in HIV-infected adults with tuberculosis. N Engl J Med. 2011;365(16):1471 81. 
+doi:10.1056/NEJMoa1013911.
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+34
+16. Johnson JL, Hadad DJ, Dietze R, Noia Maciel EL, Sewali B, Gitta P et al. Shortening treatment in adults with 
+noncavitary tuberculosis and 2-month culture conversion. Am J Respir Crit Care Med. 2009;180(6):558 63.
+17. Lienhardt C, Cook SV, Burgos M, Yorke-Edwards V, Rigouts L, Anyo G et al. Efficacy and safety of a 4-drug 
+fixed-dose combination regimen compared with separate drugs for treatment of pulmonary tuberculosis: 
+the Study C randomized controlled trial. JAMA. 2011;305(14):1415 23. doi:10.1001/jama.2011.436.
+18. Swaminathan S, Narendran G, Venkatesan P, Iliayas S, Santhanakrishnan R, Aravindan Menon P et al. Efficacy 
+of a 6-month versus 9-month intermittent treatment regimen in HIV-infected patients with tuberculosis: a 
+randomized clinical trial. Am J Respir Crit Care Med. 2010;181(7):743 51. doi:10.1164/rccm.200903 0439OC.
+19. Guidance for national tuberculosis programmes on the management of tuberculosis in children. Geneva: 
+World Health Organization; 2014 (https://www.who.int/publications-detail-redirect/9789241548748, 
+accessed 3 March 2022).
+20. Albanna AS, Smith BM, Cowan D, Menzies D. Fixed-dose combination antituberculosis therapy: a systematic 
+review and meta-analysis. Eur Respir J. 2013;42(3):721 32. doi:10.1183/09031936.00180612.
+21. Gallardo CR, Comas DR, Valderrama Rodr guez A, Roqu i Figuls M, Parker LA, Cayl J et al. Fixed-dose 
+combinations of drugs versus single-drug formulations for treating pulmonary tuberculosis. Cochrane 
+Database Syst Rev. 2016(5):CD009913. doi:10.1002/14651858.CD009913.pub2.
+22. Blomberg B, Spinaci S, Fourie B, Laing R. The rationale for recommending fixed-dose combination 
+tablets for treatment of tuberculosis. Bull World Health Organ. 2001;79(1):61 8 (https://apps.who.int/iris/
+handle/10665/268235, accessed 3 March 2022).
+23. Milan-Segovia RC, Dom nguez-Ram rez AM, Jung-Cook H, Maga a-Aquino M, Romero-M ndez MC, 
+Medell n-Garibay SE et al. Relative bioavailability of rifampicin in a three-drug fixed-dose combination 
+formulation. Int J Tuberc Lung Dis. 2010;14(11):1454 60.
+24. Hao L-H, Guo S-C, Liu C-C, Zhu H, Wang B, Fu L et al. Comparative bioavailability of rifampicin and isoniazid 
+in fixed-dose combinations and single-drug formulations. Int J Tuberc Lung Dis. 2014;18(12):1505 12. 
+doi:10.5588/ijtld.13.0647.
+25. Aung KJM, Declercq E, Ali MdA, Naha S, Datta Roy SC, Taled NMdA et al. Extension of the intensive 
+phase reduces relapse but not failure in a regimen with rifampicin throughout. Int J Tuberc Lung Dis. 
+2012;16(4):455 61. doi:10.5588/ijtld.11.0216.
+26. Jindani A, Harrison TS, Nunn AJ, Phillips PJ, Churchyard GJ, Charalambous S et al. High-dose rifapentine 
+with moxifloxacin for pulmonary tuberculosis. N Engl J Med. 2014;371(17):1599 608. doi:10.1056/
+NEJMoa1314210.
+27. Dorman SE, Nahid P, Kurbatova EB, Phillips PJ, Bryant K, Dooley KE et al. Four-month rifapentine regimens with 
+or without moxifloxacin for tuberculosis. N Engl J Med. 2021;384(18):1705 18. doi:10.1056/NEJMoa2033400.
+28. Ismail NA, Mvusi L, Nanoo A, Dreyer A, Omar SV, Babatunde S et al. Prevalence of drug-resistant tuberculosis 
+and imputed burden in South Africa: a national and sub-national cross-sectional survey. Lancet Infect Dis. 
+2018;18(7):779 87. doi:10.1016/S1473 3099(18)30222 6.
+29. Kayomo MK, Mbula VN, Aloni M, Andr E, Riogouts L, Boutachkourt F et al. Targeted next-generation 
+sequencing of sputum for diagnosis of drug-resistant TB: results of a national survey in Democratic Republic 
+of the Congo. Sci Rep. 2020;10(1):10786.
+30. Lim DR, Dean AS, Taguinod-Santiago MR, Borbe-Reyes A, Cabibbe AM, Zignol M et al. Low prevalence of 
+fluoroquinolone resistance among patients with tuberculosis in the Philippines: results of a national survey. 
+Eur Respir J. 2018;51(3). doi:10.1183/13993003.02571 2017.
+31. Mesfin AB, Araia ZZ, Beyene HN, Mebrahtu AH, Suud NN, Berhane YM et al. First molecular-based anti-TB 
+drug resistance survey in Eritrea. Int J Tuberc Lung Dis. 2021;25(1):43 51. doi:10.5588/ijtld.20.0558.
+
+References 
+35
+32. Zignol M, Dean AS, Alikhanova N, Andres S, Cabibbe AM, Cirillo DM et al. Population-based resistance of 
+Mycobacterium tuberculosis isolates to pyrazinamide and fluoroquinolones: results from a multicountry 
+surveillance project. Lancet Infect Dis. 2016;16(10):1185 92. doi:10.1016/S1473 3099(16)30190 6.
+33. Zvada SP, Van Der Walt J-S, Smith PJ, Fourie PB, Roscigno G, Mitchison D et al. Effects of four different meal 
+types on the population pharmacokinetics of single-dose rifapentine in healthy male volunteers. Antimicrob 
+Agents Chemother. 2010;54(8):3390 4. doi:10.1128/AAC.00345 10.
+34. Turkova, A., et al., Shorter treatment for non-severe tuberculosis in African and Indian children. N. Engl. J. 
+Med, 2022.
+35. Chabala, C., et al., Shorter treatment for minimal tuberculosis (TB) in children (SHINE): a study protocol for 
+a randomised controlled trial. Trials, 2018. 19(1): p. 1 12.
+36. WHO case definitions of HIV for surveillance and revised clinical staging and immunological classification 
+of HIV-related disease in adults and children. Geneva: World Health Organization; 2007 (https://apps.who.
+int/iris/handle/10665/43699, accessed 3 March 2022).
+37. Guideline: updates on the management of severe acute malnutrition in infants and children. Geneva: World 
+Health Organization; 2013 (https://www.who.int/publications-detail-redirect/9789241506328, accessed 3 
+March 2022).
+38. WHO operational handbook on tuberculosis. Module 4: Treatment Drug-resistant tuberculosis treatment. 
+Geneva: World Health Organization; 2020 (https://www.who.int/publications-detail-redirect/9789240006997, 
+accessed 3 March 2022).
+39. WHO consolidated guidelines on tuberculosis. Module 1: Prevention tuberculosis preventive treatment. 
+Geneva: World Health Organization; 2020 (https://www.who.int/publications-detail-redirect/9789240001503, 
+accessed 3 March 2022).
+40. Khan FA, Minion J, Pai M, Rovce S, Burman W, Harries AD et al. Treatment of active tuberculosis in 
+HIV-coinfected patients: a systematic review and meta-analysis. Clin Infect Dis. 2010;50(9):1288 99. 
+doi:10.1086/651686.
+41. Consolidated guidelines on HIV prevention, testing, treatment, service delivery and monitoring: 
+recommendations for a public health approach. Geneva: World Health Organization; 2021 (https://www.
+who.int/publications-detail-redirect/9789240031593, accessed 3 March 2022).
+42. Antiretroviral therapy for HIV infection in adults and adolescents: recommendations for a public 
+health approach 2010 revision. Geneva: World Health Organization; 2010 (https://apps.who.int/iris/
+handle/10665/44379, accessed 3 March 2022).
+43. Consolidated guidelines on the use of antiretroviral drugs for treating and preventing HIV infection: 
+recommendations for a public health approach. Geneva: World Health Organization; 2016 (https://apps.
+who.int/iris/handle/10665/208825, accessed 3 March 2022).
+44. Guidelines for managing advanced HIV disease and rapid initiation of antiretroviral therapy. Geneva: World 
+Health Organization; 2017 (https://apps.who.int/iris/handle/10665/255884, accessed 3 March 2022).
+45. Chotmongkol V, Jitpimolmard S, Thavornpitak Y. Corticosteroid in tuberculous meningitis. J Med Assoc Thai. 
+1996;79(2):83 90.
+46. Kumarvelu S, Prasad K, Khosla A, Behari M, Ahuja GK. Randomized controlled trial of dexamethasone in 
+tuberculous meningitis. Tuber Lung Dis. 1994;75(3):203 7. doi:10.1016/0962 8479(94)90009 4.
+47. Malhotra HS, Garg RK, Singh MK, Agarwal A, Verma R. Corticosteroids (dexamethasone versus intravenous 
+methylprednisolone) in patients with tuberculous meningitis. Ann Trop Med Parasitol. 2009;103(7):625 34. 
+doi:10.1179/000349809X12502035776315.
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+36
+48. Schoeman JF, Van Zyl LE, Laubscher JA, Donald PR. Effect of corticosteroids on intracranial pressure, 
+computed tomographic findings, and clinical outcome in young children with tuberculous meningitis. 
+Pediatrics. 1997;99(2):226 31. doi:10.1542/peds.99.2.226.
+49. Thwaites GE, Nguyen DB, Nguyen HD, Hoang TQ, Do TTO, Nguyen TCT et al. Dexamethasone for the 
+treatment of tuberculous meningitis in adolescents and adults. N Engl J Med. 2004;351(17):1741 51. 
+doi:10.1056/NEJMoa040573.
+50. Mayosi BM, Ntsekhe M, Volmink JA, Commerford PJ. Interventions for treating tuberculous pericarditis. 
+Cochrane Database Syst Rev. 2002(4):CD000526. doi:10.1002/14651858.CD000526.
+51. Critchley JA, Young F, Orton L, Garner P. Corticosteroids for prevention of mortality in people with 
+tuberculosis: a systematic review and meta-analysis. Lancet Infect Dis. 2013;13(3):223 37. doi:10.1016/
+S1473 3099(12)70321 3.
+52. Mayosi BM, Ntsekhe M, Bosch J, Pandie S, Jung H, Gumedze F et al. Prednisolone and Mycobacterium indicus 
+pranii in tuberculous pericarditis. N Engl J Med. 2014;371(12):1121 30. doi:10.1056/NEJMoa1407380.
+53. Hakim JG, Ternouth I, Mushangi E, Siziya S, Robertson V, Malin A. Double blind randomised placebo 
+controlled trial of adjunctive prednisolone in the treatment of effusive tuberculous pericarditis in HIV 
+seropositive patients. Heart. 2000;84(2):183 8. doi:10.1136/heart.84.2.183.
+54. Reuter H, Burgess LJ, Louw VJ, Doubell AF. Experience with adjunctive corticosteroids in managing 
+tuberculous pericarditis. Cardiovasc J S Afr. 2006;17(5):233 8.
+55. Schrire V. Experience with pericarditis at Groote Schuur Hospital, Cape Town: an analysis of one hundred 
+and sixty cases studied over a six-year period. S Afr Med J. 1959;33:810 7.
+56. Strang JI, Kakaza HH, Gibson DG, Allen BW, Mitchison DA, Evans DJ et al. Controlled clinical trial of complete 
+open surgical drainage and of prednisolone in treatment of tuberculous pericardial effusion in Transkei. 
+Lancet. 1988;2(8614):759 64. doi:10.1016/s0140 6736(88)92415 4.
+57. Strang JI, Kakaza HH, Gibson DG, Girling DJ, Nunn AJ, Fox W et al. Controlled trial of prednisolone as 
+adjuvant in treatment of tuberculous constrictive pericarditis in Transkei. Lancet. 1987;2(8573):1418 22. 
+doi:10.1016/s0140 6736(87)91127 5.
+
+Annex. Summary of changes in policy on DS-TB treatment since 2010 and mapping of recommendations in consolidated DS-TB guidelines
+37
+Annex. Summary of changes 
+in policy on DS-TB treatment 
+since 2010 and mapping 
+of recommendations in 
+consolidated DS-TB guidelines
+Treatment of DS-TB using 6-month regimen
+Treatment of tuberculosis, 
+guidelines for national 
+programmes, fourth edition 
+2010 (1)
+Guidelines for treatment 
+of drug-susceptible 
+tuberculosis and patient 
+care. 
+2017 (2)
+Consolidated guidelines 
+on tuberculosis Module 4: 
+Treatment
+Drug-susceptible tuberculosis 
+treatment. 
+(Recommendation 1.1) 
+New patients with pulmonary 
+TB should receive a regimen 
+containing 6 months of 
+rifampicin: 2HRZE/4HR
+(strong recommendation, 
+high certainty of evidence)
+Remained valid
+Recommendation is copied 
+without modification into 
+this consolidated document 
+and appears exactly as in the 
+2010 guidelines.
+Recommendation 1
+(Recommendation 1.2) 
+The 2HRZE/6HE treatment 
+regimen should be phased 
+out
+(strong recommendation, 
+high certainty of evidence)
+Remained valid
+Redundant. The 2HRZE/6HE 
+regimen is not recommended 
+since 2010 and has been 
+phased out
+(Recommendation 2.1) 
+Wherever feasible, the 
+optimal dosing frequency for 
+new patients with pulmonary 
+TB is daily throughout the 
+course of therapy
+(strong recommendation, 
+high certainty of evidence)
+Remained valid
+Recommendation is copied 
+without modification into 
+this consolidated document 
+and appears exactly as in the 
+2010 guidelines.
+Recommendation 2
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+38
+(Recommendation 2.1A) 
+New patients with 
+pulmonary TB may receive 
+a daily intensive phase 
+followed by a three-times-
+weekly continuation phase 
+[2HRZE/4(HR)3], provided that 
+each dose is directly observed 
+(conditional recommendation, 
+high or moderate certainty 
+of evidence)
+UPDATED
+(Recommendation 1.3) 
+In all patients with drug-
+susceptible pulmonary 
+TB, the use of thrice-
+weekly dosing is not 
+recommended in both the 
+intensive and continuation 
+phases of therapy, and 
+daily dosing remains the 
+recommended dosing 
+frequency
+(conditional 
+recommendation, very low 
+certainty of evidence).
+Recommendation is copied 
+without modification into 
+this consolidated document 
+and appears exactly as in 
+the 2017 guidelines update. 
+This recommendation 
+complements 
+recommendation 2
+Recommendation 3
+(Recommendation 2.1B) 
+Three-times-weekly dosing 
+throughout therapy 
+[2(HRZE)3/4(HR)3] may be 
+used as another alternative 
+to daily dosing, provided 
+that every dose is directly 
+observed, and the patient is 
+NOT living with HIV or living 
+in an HIV-prevalent setting
+(conditional recommendation, 
+high or moderate certainty 
+of evidence)
+No recommendation
+NEW RECOMMENDATION
+(Recommendation 1.2) 
+The use of FDC tablets 
+is recommended over 
+separate drug formulations 
+in the treatment of patients 
+with drug-susceptible TB
+(conditional 
+recommendation, low 
+certainty of evidence)
+Recommendation is copied 
+without modification into 
+this consolidated document 
+and appears exactly as in the 
+2010 guidelines.
+Recommendation 4
+(Recommendation 2.2) 
+New patients with TB should 
+not receive twice-weekly 
+dosing for the full course 
+of treatment unless this is 
+done in the context of formal 
+research
+(strong recommendation, 
+high certainty of evidence)
+Remained valid
+Redundant
+All treatment of DS-TB 
+is daily as stated in 
+recommendations 2, and 3. 
+
+Annex. Summary of changes in policy on DS-TB treatment since 2010 and mapping of recommendations in consolidated DS-TB guidelines
+39
+(Recommendation 3) 
+In populations with known 
+or suspected high levels of 
+isoniazid resistance, new TB 
+patients may receive HRE as 
+therapy in the continuation 
+phase as an acceptable 
+alternative to HR
+(conditional recommendation, 
+insufficient evidence, expert 
+opinion based)
+Remained valid
+Redundant 
+New policy on treatment 
+of isoniazid-resistant TB in 
+consolidated guidelines on 
+DR-TB treatment 2020. (3)
+(Recommendation 5.1) 
+For smear-positive pulmonary 
+TB patients treated with 
+first-line drugs, sputum 
+smear microscopy may be 
+performed at completion 
+of the intensive phase of 
+treatment
+(conditional recommendation, 
+high or moderate certainty 
+of evidence)
+Remained valid
+Redundant
+Recommendation was based 
+on evidence derived from 
+studies using 6-month 
+regimens. 
+Bacteriological monitoring of 
+DS-TB treatment is included 
+in the WHO operational 
+handbook. 
+(Recommendation 5.2) 
+In new patients, if the 
+specimen obtained at the end 
+of the intensive phase (month 
+2) is smear-positive, sputum 
+smear microscopy should 
+optimally be obtained at the 
+end of the month 3
+(strong recommendation, 
+high certainty of evidence)
+Remained valid
+Redundant 
+Recommendation was based 
+on evidence derived from 
+studies using 6-month 
+regimens. 
+Bacteriological monitoring of 
+DS-TB treatment is included 
+in the WHO operational 
+handbook. 
+(Recommendation 5.3) 
+In new patients, if the 
+specimen obtained at the end 
+of month 3 is smear-positive, 
+sputum culture and drug 
+susceptibility testing (DST) 
+should be performed
+(strong recommendation, 
+high certainty of evidence)
+Remained valid
+Redundant 
+Rapid molecular tests are 
+recommended for use as 
+initial tests for TB and for 
+rifampicin-resistance in 
+people with symptoms of TB, 
+without or with prior history 
+of TB. 
+Bacteriological monitoring 
+of DS-TB treatment is 
+included in the WHO 
+operational handbook.
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+40
+(Recommendation 5.4) 
+In previously treated patients, 
+if the specimen obtained at 
+the end of the intensive phase 
+(month 3) is smear-positive, 
+sputum culture and drug 
+susceptibility testing (DST) 
+should be performed
+(strong recommendation, 
+high certainty of evidence)
+Remained valid
+Redundant 
+Rapid molecular tests are 
+recommended for use as 
+initial tests for TB and for 
+rifampicin-resistance in 
+people with symptoms of TB, 
+without or with prior history 
+of TB. 
+Bacteriological monitoring 
+of DS-TB treatment is 
+included in the WHO 
+operational Handbook.
+(Recommendation 6) 
+In new pulmonary TB 
+patients treated with the 
+regimen containing rifampicin 
+throughout treatment, if 
+a positive sputum smear 
+is found at completion of 
+the intensive phase, the 
+extension of the intensive 
+phase is not recommended
+(strong recommendation, 
+high certainty of evidence)
+Remained valid
+Recommendation is copied 
+without modification into 
+this consolidated document 
+and appears exactly as 
+in the 2010 guidelines. It 
+remains valid for 6 months 
+regimens due to evidence 
+used for review. Extension 
+of the 4-month regimens 
+is not part of pertinent 
+recommendations
+Recommendation 5
+(Recommendation 7.1) 
+Specimens for culture and 
+drug-susceptibility testing 
+should be obtained from all 
+previously treated TB patients 
+at or before the start of 
+treatment. Drug-susceptibility 
+testing should be performed 
+for at least isoniazid and 
+rifampicin (based on 
+expert opinion)
+Remained valid
+Expert opinion has been 
+changing over time 
+influenced by new evidence, 
+experience and changing 
+policies. Therefore, if not 
+redundant and still relevant 
+these statements are featured 
+in the WHO operational 
+handbook. 
+(Recommendation 7.2) 
+In settings where rapid 
+molecular-based drug 
+susceptibility testing is 
+available, the results should 
+guide the choice of regimen 
+(expert opinion based)
+Remained valid
+Expert opinion has been 
+changing over time 
+influenced by new evidence, 
+experience and changing 
+policies. Therefore, if 
+not redundant and still 
+relevant these statements 
+are featured in the WHO 
+operational handbook.
+
+Annex. Summary of changes in policy on DS-TB treatment since 2010 and mapping of recommendations in consolidated DS-TB guidelines
+41
+(Recommendation 7.3.1) 
+In settings where rapid 
+molecular-based drug 
+susceptibility testing results 
+are not routinely available 
+to guide the management 
+of individual patients, TB 
+patients whose treatment 
+has failed or other patient 
+groups with high likelihood 
+of MDR-TB should be started 
+on an empirical MDR regimen 
+(expert opinion based)
+Remained valid
+Expert opinion has been 
+changing over time 
+influenced by new evidence, 
+experience and changing 
+policies. Therefore, if 
+not redundant and still 
+relevant these statements 
+are featured in the WHO 
+operational handbook.
+(Recommendation 7.3.2) 
+In settings where rapid 
+molecular-based drug 
+susceptibility testing results 
+are not routinely available 
+to guide the management 
+of individual patients, TB 
+patients returning after 
+defaulting or relapsing from 
+their first treatment course 
+may receive the retreatment 
+regimen containing first-line 
+drugs 2HRZES/1HRZE/5HRE 
+if country-specific data show 
+low or medium levels of MDR 
+in these patients or if such 
+data are unavailable (expert 
+opinion based)
+UPDATED
+(recommendation 1.7) In 
+patients who require TB 
+retreatment, the Category 
+II regimen should no 
+longer be prescribed, and 
+drug-susceptibility testing 
+should be conducted 
+to inform the choice of 
+treatment regimen
+(Good practice statement)
+2017 good practice 
+statement included in the 
+operational handbook
+(Recommendation 7.4) 
+In settings where drug-
+susceptibility testing results 
+are not yet routinely available 
+to guide the management 
+of individual patients, the 
+empirical regimens will 
+continue throughout the 
+course of treatment (based on 
+expert opinion)
+Remained valid
+Expert opinion has been 
+changing over time 
+influenced by new evidence, 
+experience and changing 
+policies. Therefore, if 
+not redundant and still 
+relevant these statements 
+are featured in the WHO 
+operational handbook.
+(Recommendation 7.5) 
+National TB control 
+programmes should obtain 
+and use their country-
+specific drug resistance 
+data on failure, relapse and 
+loss to follow-up of patient 
+groups to determine the 
+levels of MDR-TB (based on 
+expert opinion)
+Remained valid
+Expert opinion has been 
+changing over time 
+influenced by new evidence, 
+experience and changing 
+policies. Therefore, if 
+not redundant and still 
+relevant these statements 
+are featured in the WHO 
+operational handbook.
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+42
+Treatment of DS-TB using 4-month regimens
+No recommendation
+NEW RECOMMENDATION
+(Recommendation 1.1) 
+In patients with drug-
+susceptible pulmonary TB, 
+4-month fluoroquinolone-
+containing regimens 
+should not be used 
+and the 6-month 
+rifampicin-based regimen 
+2HRZE/4HR remains the 
+recommended regimen
+(strong recommendation, 
+moderate certainty 
+of evidence)
+UPDATED AND NEW 
+RECOMMENDATION
+Patients aged 12 years 
+or older with drug-
+susceptible pulmonary TB, 
+may receive a 4-month 
+regimen of isoniazid, 
+rifapentine, moxifloxacin and 
+pyrazinamide 
+(conditional 
+recommendation, moderate 
+certainty of evidence)
+Recommendation 6
+No recommendation
+No recommendation
+NEW RECOMMENDATION
+In children and adolescents 
+between 3 months and 16 
+years of age with non-severe 
+TB (without suspicion or 
+evidence of MDR/RR-TB), a 
+4-month treatment regimen 
+(2HRZ(E)/2HR) should be 
+used 
+(strong recommendation, 
+moderate certainty 
+of evidence)
+Recommendation 7
+
+Annex. Summary of changes in policy on DS-TB treatment since 2010 and mapping of recommendations in consolidated DS-TB guidelines
+43
+DS-TB treatment and ART in people living with HIV
+(Recommendation 4.1) 
+TB patients with known 
+positive HIV status and 
+all TB patients living in 
+HIV-prevalent settings 
+should receive daily TB 
+treatment at least during 
+the intensive phase (strong 
+recommendation, high 
+certainty of evidence) 
+(recommendation 4.2) 
+For the continuation phase, 
+the optimal dosing frequency 
+is also daily for these patients
+(strong recommendation, 
+high certainty of evidence) 
+(recommendation 4.3) 
+If a daily continuation 
+phase is not possible for 
+these patients, three times 
+weekly dosing during the 
+continuation phase is an 
+acceptable alternative
+(conditional recommendation, 
+high or moderate certainty 
+of evidence)
+Redundant
+Redundant
+Dosing frequency is daily in 
+all TB treatment regimens.
+WHO s policy on 
+collaborative TB/HIV 
+activities: guidelines for 
+national programmes and 
+other stakeholders. 
+2012 (4)
+(Recommendation B1.3) 
+TB patients with known 
+positive HIV status and 
+TB patients living in HIV-
+prevalent settings should 
+receive at least 6 months 
+of rifampicin-containing 
+treatment regimen
+(strong recommendation, 
+high certainty of evidence)
+The optimal dosing frequency 
+is daily during the intensive 
+and continuation phases
+(strong recommendation, 
+high certainty of evidence)
+Remained valid
+Redundant
+4-month regimens for DS-TB 
+treatment are non-inferior 
+to 6-month regimen in TB 
+patients living with HIV. 
+Dosing frequency is daily in 
+all TB treatment regimens. 
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+44
+(Recommendation 4.4) 
+It is recommended that TB 
+patients who are living 
+with HIV should receive at 
+least the same duration of TB 
+treatment as HIV-negative TB 
+patients
+(strong recommendation, 
+high certainty of evidence)
+Remained valid
+Recommendation is copied 
+without modification into 
+this consolidated document 
+and appears exactly as in the 
+2012 guidelines.
+Recommendation 8
+No recommendation
+NEW RECOMMENDATION
+(recommendation 1.5) 
+In patients with drug-
+susceptible pulmonary TB 
+who are living with HIV 
+and receiving antiretroviral 
+therapy during TB 
+treatment, a 6-months 
+standard treatment 
+regimen is recommended 
+over an extended 
+treatment for 8 months or 
+longer 
+(conditional 
+recommendation, very low 
+certainty of evidence)
+Redundant
+No recommended treatment 
+regimens for DS-TB 
+treatment exceed 6 months 
+duration. 
+4-month regimens for DS-TB 
+treatment are non-inferior 
+to 6-month regimen in TB 
+patients living with HIV. 
+Consolidated guidelines 
+on the use of antiretroviral 
+drugs 2016 (5)
+HIV antiretroviral medications 
+should be started in all 
+TB patients living with HIV 
+regardless of their CD4 cell 
+count 
+(Strong recommendation, 
+high certainty of evidence)
+(Recommendation 1.4.1) 
+ART should be started in 
+all TB patients living with 
+HIV regardless of their 
+CD4 cell count (strong 
+recommendation, high 
+certainty of evidence).
+UPDATED. Recommendation 
+is copied without 
+modification from 
+Consolidated guidelines 
+on HIV prevention, 
+testing, treatment, service 
+delivery and monitoring: 
+recommendations for a 
+public health approach 2021
+ART should be started as 
+soon as possible within 
+two weeks of initiating TB 
+treatment, regardless of CD4 
+cell count, among people 
+living with HIV. 
+Adults and adolescents 
+(strong recommendation, 
+low to moderate certainty of 
+evidence); 
+Children and infants (strong 
+recommendation, very low 
+certainty of evidence). (6)
+Recommendation 9
+TB treatment should be 
+initiated first, followed by ART 
+as soon as possible within the 
+first 8 weeks of treatment 
+(Strong recommendation, 
+high certainty of evidence)
+(Recommendation 1.4.2) 
+TB treatment should be 
+initiated first, followed by 
+ART as soon as possible 
+within the first 8 weeks 
+of treatment (Strong 
+recommendation, high 
+certainty of evidence). 
+HIV-positive patients 
+with profound 
+immunosuppression (e.g. 
+CD4 cell counts less than 
+50 cells/mm3) should 
+receive ART within the 
+first 2 weeks of initiating 
+TB treatment.
+HIV-positive TB patients with 
+profound immunosuppression 
+(e.g. CD4 cell counts less than 
+50 cells/mm3) should receive 
+ART within the first 2 weeks of 
+initiating TB treatment (based 
+on expert opinion)
+
+Annex. Summary of changes in policy on DS-TB treatment since 2010 and mapping of recommendations in consolidated DS-TB guidelines
+45
+The use of adjuvant steroids in the treatment of TB meningitis and pericarditis
+No recommendation
+NEW RECOMMENDATION
+(Recommendation 1.6.1) 
+In patients with 
+tuberculous meningitis, 
+an initial adjuvant 
+corticosteroid therapy 
+with dexamethasone or 
+prednisolone tapered over 
+6 8 weeks should be used 
+(strong recommendation, 
+moderate certainty 
+of evidence)
+Recommendation is copied 
+without modification into 
+this consolidated document 
+and appears exactly as in the 
+2017 guidelines.
+Recommendation 10
+No recommendation
+NEW RECOMMENDATION
+(Recommendation 1.6.2) 
+In patients with 
+tuberculous pericarditis, 
+an initial adjuvant 
+corticosteroid therapy may 
+be used
+(conditional 
+recommendation, very low 
+certainty of evidence)
+Recommendation is copied 
+without modification into 
+this consolidated document 
+and appears exactly as in the 
+2017 guidelines.
+Recommendation 11
+Tuberculosis care and support
+No recommendation
+NEW RECOMMENDATION
+(Recommendation 2.1.1) 
+Health education 
+about the disease and 
+counselling on treatment 
+adherence should be 
+provided to patients on 
+TB treatment (strong 
+recommendation, 
+moderate certainty 
+of evidence)
+Recommendations 
+are included in the 
+ Tuberculosis Care and 
+support submodule of the 
+consolidated guidelines
+NEW RECOMMENDATION
+(Recommendation 2.1.2) 
+A package of treatment 
+adherence interventions 
+may be offered to 
+patients on TB treatment 
+in conjunction with the 
+selection of a suitable 
+treatment administration 
+option (conditional 
+recommendation, low 
+certainty of evidence)
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+46
+NEW RECOMMENDATION
+(Recommendation 2.1.3) 
+One or more of the 
+following treatment 
+adherence interventions 
+(complementary and not 
+mutually exclusive) may 
+be offered to patients on 
+TB treatment or to health-
+care providers:
+a) tracer or digital 
+medication monitor 
+(conditional 
+recommendation, very low 
+certainty in the evidence)
+b) material support to 
+patient (conditional 
+recommendation, 
+moderate certainty 
+of evidence);
+c) psychological support 
+to patient (conditional 
+recommendation, low 
+certainty of evidence);
+d) staff education 
+(conditional 
+recommendation, low 
+certainty of evidence).
+
+Annex. Summary of changes in policy on DS-TB treatment since 2010 and mapping of recommendations in consolidated DS-TB guidelines
+47
+NEW RECOMMENDATION
+(recommendation 2.1.4) 
+The following treatment 
+administration options 
+may be offered to patients 
+on TB treatment:
+a) Community or home-
+based treatment support is 
+recommended over health 
+facility-based treatment 
+support or unsupervised 
+treatment (conditional 
+recommendation, 
+moderate certainty 
+of evidence);
+b) Treatment support 
+administered by trained lay 
+providers or health care 
+workers is recommended 
+over treatment support 
+administered by family 
+members or unsupervised 
+treatment (conditional 
+recommendation, very low 
+certainty of evidence);
+c) Video supported 
+treatment can replace 
+in-person treatment 
+observation when the 
+video communication 
+technology is available, 
+and it can be appropriately 
+organized and operated 
+by health care providers 
+and patients (conditional 
+recommendation, very low 
+certainty of evidence)
+Guidelines for the 
+programmatic 
+management of drug-
+resistant tuberculosis.
+2011 (7)
+Guidelines for treatment 
+of drug-susceptible 
+tuberculosis and patient 
+care 2017 (2)
+WHO consolidated guidelines 
+on tuberculosis Module 4: 
+Treatment
+Drug-susceptible 
+tuberculosis treatment.
+2021 
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+48
+Patients with MDR-TB should 
+be treated using mainly 
+ambulatory care rather than 
+with models of care based 
+principally on hospitalization 
+(conditional recommendation, 
+very low certainty 
+of evidence)
+Remained valid
+Recommendations are part of 
+the consolidated guidelines 
+on DR-TB treatment 2020. 
+These recommendations are 
+consolidated and published 
+in the Tuberculosis Care 
+and support submodule of 
+consolidated guidelines. 
+No recommendation
+NEW RECOMMENDATION
+(Recommendation 2.2) 
+A decentralized model 
+of care is recommended 
+over a centralized model 
+for patients on MDR-TB 
+treatment 
+(conditional 
+recommendation, very low 
+certainty of evidence)
+TB treatment in children and adolescents
+Guidance for 
+national tuberculosis 
+programmes on 
+the management of 
+tuberculosis in children. 
+2014 (8). 
+(Recommendation 8)
+The following dosages of 
+anti-TB medicines should be 
+used daily for the treatment 
+of TB in children:
+isoniazid (H) 10 mg/
+kg (range 7 15 mg/kg); 
+maximum dose 300 mg/day
+rifampicin (R) 
+15 mg/kg (range 
+10 20 mg/kg); maximum 
+dose 600 mg/day
+pyrazinamide (Z) 35 mg/kg 
+(range 30 40 mg/kg)
+ethambutol (E) 20 mg/kg 
+(range 15 25 mg/kg)
+(strong recommendation, 
+moderate certainty 
+of evidence)
+Recommendations that 
+are not redundant and are 
+valid, in addition to all other 
+recommendations relevant 
+to children and adolescents, 
+are featured in the guidelines 
+on childhood TB treatment 
+that are published in the 
+module on management of 
+tuberculosis in children and 
+adolescents of this series of 
+consolidated guidelines. 
+
+Annex. Summary of changes in policy on DS-TB treatment since 2010 and mapping of recommendations in consolidated DS-TB guidelines
+49
+(Recommendation 9)
+Children with suspected or 
+confirmed pulmonary TB 
+or tuberculous peripheral 
+lymphadenitis who live 
+in settings with low 
+HIV prevalence or low 
+prevalence of isoniazid 
+resistance and children 
+who are HIV-negative can 
+be treated with a three-
+drug regimen (HRZ) for 
+2 months followed by a 
+two-drug (HR) regimen 
+for 4 months at the 
+dosages specified in 
+Recommendation 8
+(strong recommendation, 
+moderate certainty 
+of evidence)
+(Recommendation 10)
+Children with suspected or 
+confirmed pulmonary TB 
+or tuberculosis peripheral 
+lymphadenitis and/or 
+children with extensive 
+pulmonary disease, living 
+in settings where the 
+prevalence of HIV is high 
+and/or the prevalence of 
+isoniazid resistance is high 
+should be treated with a 
+four-drug regimen (HRZE) 
+for 2 months followed 
+by a two-drug regimen 
+(HR) for 4 months at 
+the dosages specified in 
+Recommendation 8
+(strong recommendation, 
+moderate certainty 
+of evidence)
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+50
+(Recommendation 11)
+Infants aged 0 3 months 
+with suspected or 
+confirmed pulmonary TB 
+or tuberculous peripheral 
+lymphadenitis should be 
+promptly treated with 
+the standard treatment 
+regimens, as described 
+in recommendation 9 
+or 10. Treatment may 
+require dose adjustment 
+to reconcile the effect of 
+age and possible toxicity 
+in young infants. The 
+decision to adjust doses 
+should be taken by a 
+clinician experienced in 
+managing pediatric TB
+(strong recommendation, 
+low certainty of evidence)
+(Recommendation 12)
+During the continuation 
+phase of treatment, 
+thrice-weekly regimens 
+can be considered for 
+children known not to 
+be HIV-infected and 
+living in settings with 
+well-established directly 
+observed therapy
+(conditional 
+recommendation, very 
+low certainty of evidence 
+for use of intermittent 
+treatment of children in 
+specific settings)
+(Recommendation 13)
+Streptomycin should not 
+be used as part of first-line 
+treatment regimens for 
+children with pulmonary 
+TB or tuberculous 
+peripheral lymphadenitis
+(strong recommendation, 
+moderate certainty 
+of evidence)
+
+Annex. Summary of changes in policy on DS-TB treatment since 2010 and mapping of recommendations in consolidated DS-TB guidelines
+51
+(Recommendation 14)
+Children with suspected 
+or confirmed tuberculous 
+meningitis and children 
+with suspected or 
+confirmed osteoarticular 
+TB should be treated 
+with a four-drug regimen 
+(HRZE) for 2 months, 
+followed by a two-drug 
+regimen (HR) for 10 
+months, the total duration 
+of treatment being 12 
+months. The doses 
+recommended for the 
+treatment of tuberculous 
+meningitis are the same 
+as those described for 
+pulmonary TB
+(strong recommendation, 
+low certainty of evidence)
+References to WHO guidance:
+1. Treatment of tuberculosis, guidelines for national programmes, fourth edition. Geneva: World Health 
+Organization; 2010 (https://www.who.int/publications-detail-redirect/9789241547833, accessed 3 
+March 2022).
+2. Guidelines for treatment of drug-susceptible tuberculosis and patient care. Geneva: World Health 
+Organization; 2017 (https://apps.who.int/iris/bitstream/handle/10665/255052/9789241550000-eng.pdf, 
+accessed 3 March 2022).
+3. WHO Consolidated guidelines on tuberculosis, Module 4: Treatment Drug-resistant tuberculosis treatment. 
+Geneva: World Health Organization; 2020 (https://www.who.int/publications-detail-redirect/9789240007048, 
+accessed 3 March 2022).
+4. WHO policy on collaborative TB/HIV activities: guidelines for national programmes and other stakeholders. 
+Geneva: World Health Organization; 2012 (https://apps.who.int/iris/handle/10665/44789, accessed 3 
+March 2022).
+5. Consolidated guidelines on the use of antiretroviral drugs for treating and preventing HIV infection: 
+recommendations for a public health approach, second edition. Geneva: World Health Organization; 
+2016 (https://apps.who.int/iris/handle/10665/208825, accessed 3 March 2022).
+6. Consolidated guidelines on HIV prevention, testing, treatment, service delivery and monitoring: 
+recommendations for a public health approach. Geneva: World Health Organization; 2021 (https://www.
+who.int/publications-detail-redirect/9789240031593, accessed 3 March 2022).
+7. Guidelines for the programmatic management of drug-resistant tuberculosis. Geneva: World Health 
+Organization; 2011 (https://www.who.int/publications-detail-redirect/9789241501583, accessed 3 
+March 2022).
+8. Guidance for national tuberculosis programmes on the management of tuberculosis in children. Geneva: 
+World Health Organization; 2014 (https://www.who.int/publications-detail-redirect/9789241548748, 
+accessed 3 March 2022).
+
+WHO consolidated guidelines on tuberculosis: 
+drug-susceptible tuberculosis treatment
+52
+
+Web Annexes 
+53
+Web Annexes 
+Web Annex 1. Expert panels 
+Web Annex 2. Declarations of interest 
+Web Annex 3. PICO questions 
+Web Annex 4. GRADE evidence profiles and 
+evidence-to-decision tables 
+Web Annex 5. 2010 and 2017 DS-TB Guidelines
+https://apps.who.int/iris/bitstream/handle/10665/353398/9789240048140-eng.pdf
+ 
+
+For further information, please contact:
+Global Tuberculosis Programme
+World Health Organization
+20, Avenue Appia CH-1211 Geneva 27 Switzerland
+Web site: www.who.int/tb

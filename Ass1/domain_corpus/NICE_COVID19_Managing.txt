@@ -1,0 +1,2210 @@
+COVID-19 rapid guideline: 
+managing COVID-19 
+NICE guideline 
+Published: 23 March 2021 
+Last updated: 1 May 2025 
+www.nice.org.uk/guidance/ng191 
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+
+Your responsibility 
+The recommendations in this guideline represent the view of NICE, arrived at after careful 
+consideration of the evidence available. When exercising their judgement, professionals 
+and practitioners are expected to take this guideline fully into account, alongside the 
+individual needs, preferences and values of their patients or the people using their service. 
+It is not mandatory to apply the recommendations, and the guideline does not override the 
+responsibility to make decisions appropriate to the circumstances of the individual, in 
+consultation with them and their families and carers or guardian. 
+All problems (adverse events) related to a medicine or medical device used for treatment 
+or in a procedure should be reported to the Medicines and Healthcare products Regulatory 
+Agency using the Yellow Card Scheme. 
+Local commissioners and providers of healthcare have a responsibility to enable the 
+guideline to be applied when individual professionals and people using services wish to 
+use it. They should do so in the context of local and national priorities for funding and 
+developing services, and in light of their duties to have due regard to the need to eliminate 
+unlawful discrimination, to advance equality of opportunity and to reduce health 
+inequalities. Nothing in this guideline should be interpreted in a way that would be 
+inconsistent with complying with those duties. 
+Commissioners and providers have a responsibility to promote an environmentally 
+sustainable health and care system and should assess and reduce the environmental 
+impact of implementing NICE recommendations wherever possible. 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 2 of
+74
+
+Contents 
+Overview .....................................................................................................................................
+6 
+1 Communication and shared decision making .......................................................................
+7 
+2 Assessment .............................................................................................................................
+8 
+2.1 In the community ............................................................................................................................
+8 
+2.2 In hospital .......................................................................................................................................
+10 
+3 Management ............................................................................................................................ 12 
+3.1 In the community ............................................................................................................................
+12 
+3.2 In hospital .......................................................................................................................................
+15 
+4 Therapeutics for COVID-19 .................................................................................................... 22 
+4.1 Antivirals .......................................................................................................................................... 22 
+4.2 Corticosteroids .............................................................................................................................. 23 
+4.3 Tocilizumab ..................................................................................................................................... 25 
+4.4 Baricitinib ........................................................................................................................................ 25 
+4.5 Antibiotics ....................................................................................................................................... 26 
+4.6 Azithromycin ................................................................................................................................... 26 
+4.7 Budesonide (inhaled) .....................................................................................................................
+27 
+4.8 Colchicine .......................................................................................................................................
+27 
+4.9 Doxycycline ....................................................................................................................................
+27 
+4.10 Ivermectin ..................................................................................................................................... 28 
+4.11 Tixagevimab plus cilgavimab ....................................................................................................... 28 
+4.12 Vitamin D ....................................................................................................................................... 28 
+5 Preventing and managing acute complications ................................................................... 30 
+5.1 Acute kidney injury (AKI) ................................................................................................................ 30 
+5.2 Acute myocardial injury .................................................................................................................
+31 
+5.3 Venous thromboembolism (VTE) prophylaxis ............................................................................. 33 
+6 Identifying and managing co-infections ............................................................................... 37 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 3 of
+74
+
+6.1 Managing viral or fungal pneumonia ............................................................................................. 37 
+6.2 Other causes of pneumonia .......................................................................................................... 37 
+6.3 COVID-19-associated pulmonary aspergillosis (CAPA) .............................................................
+41 
+7 Follow-up and rehabilitation ................................................................................................... 44 
+8 Palliative care ........................................................................................................................... 45 
+Terms used in the guideline ...................................................................................................... 46 
+Continuous positive airway pressure (CPAP) .................................................................................... 46 
+High-flow nasal oxygen (HFNO) ......................................................................................................... 46 
+Hospital-led acute care in the community ......................................................................................... 46 
+Intermediate dose ................................................................................................................................ 46 
+Invasive mechanical ventilation .......................................................................................................... 46 
+Low-flow supplemental oxygen .......................................................................................................... 47 
+Non-invasive respiratory support ....................................................................................................... 47 
+Non-invasive ventilation (NIV) ............................................................................................................ 47 
+Standard prophylactic dose ................................................................................................................ 47 
+Treatment dose .................................................................................................................................... 47 
+Recommendations for research ................................................................................................ 49 
+Key recommendations for research ................................................................................................... 49 
+Other recommendations for research ................................................................................................
+51 
+Rationales .................................................................................................................................... 54 
+Assessment in the community ............................................................................................................ 54 
+Management in hospital ...................................................................................................................... 55 
+Corticosteroids ..................................................................................................................................... 56 
+Baricitinib ..............................................................................................................................................
+57 
+Azithromycin ......................................................................................................................................... 58 
+Budesonide (inhaled) ........................................................................................................................... 58 
+Colchicine ............................................................................................................................................. 58 
+Doxycycline ........................................................................................................................................... 59 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 4 of
+74
+
+Ivermectin ............................................................................................................................................. 59 
+Vitamin D ............................................................................................................................................... 60 
+Prevention and management of venous thromboembolism (VTE) prophylaxis .............................
+61 
+Diagnosing and treating COVID-19-associated pulmonary aspergillosis (CAPA) .......................... 64 
+Finding more information and expert advisory panel details ................................................. 67 
+Update information .................................................................................................................... 68 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 5 of
+74
+
+This guideline replaces NG159, NG163, NG165, NG171, NG173, NG175, NG186, ES27, 
+ES33, ES34, ES23, ES24, ES25 and ES26. 
+Overview 
+This guideline covers managing COVID-19 in babies, children, young people and adults in 
+community and hospital settings. It includes recommendations on communication, 
+assessment, therapeutics for COVID-19, non-invasive respiratory support, preventing and 
+managing acute complications, and identifying and managing co-infections. 
+NICE has also produced COVID-19 rapid guidelines on managing long-term effects of 
+COVID-19 ('long COVID') and haematopoietic stem cell transplantation. 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 6 of
+74
+
+1 Communication and shared decision 
+making 
+1.1.1 
+Explain to people with COVID-19, their families, carers and close contacts that 
+they should follow the UK Heath Security Agency's guidance for people with 
+symptoms of a respiratory infection including COVID-19. 
+The Royal College of Obstetricians and Gynaecologists has produced information 
+on COVID-19 and pregnancy for pregnant women and their families. [23 March 
+2021] 
+1.1.2 
+Give people information in a way that they can use and understand, to help them 
+take part in decisions about their care. Follow relevant national guidance on 
+communication, providing information (including in different formats and 
+languages) and shared decision making, for example, NICE's guideline on patient 
+experience in adult NHS services. [23 March 2021] 
+1.1.3 
+Communicate with people with COVID-19, and their families and carers, and 
+support their mental wellbeing to help alleviate any anxiety and fear they may 
+have. Signpost to charities and support groups (including NHS Volunteer 
+Responders), to NHS every mind matters and to Royal College of Paediatrics and 
+Child Health resources for parents and carers. [23 March 2021] 
+1.1.4 
+For carers of people with COVID-19 (for example, carers of people with dementia 
+and COVID-19), signpost to relevant support and resources, such as the 
+Alzheimer's Society's information on Dementia and coronavirus risk. [23 March 
+2021, amended 23 January 2024 and 13 March 2024] 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 7 of
+74
+
+2 Assessment 
+2.1 In the community 
+Identifying severe COVID-19 
+2.1.1 
+Use the following signs and symptoms to help identify people with COVID-19 with 
+the most severe illness: 
+ severe shortness of breath at rest or difficulty breathing 
+ reduced oxygen saturation levels measured by pulse oximetry (see 
+recommendation 2.1.2 on pulse oximetry levels that indicate serious illness) 
+ coughing up blood 
+ blue lips or face 
+ feeling cold and clammy with pale or mottled skin 
+ collapse or fainting (syncope) 
+ new confusion 
+ becoming difficult to rouse 
+ reduced urine output. 
+For signs and symptoms to help identify paediatric inflammatory multisystem 
+syndrome (PIMS) temporally associated with COVID-19 (PIMS-TS), see the 
+guidance on PIMS from the Royal College of Paediatrics and Child Health. [23 
+March 2021] 
+2.1.2 
+When pulse oximetry is available in primary and community care settings, to 
+assess the severity of illness and detect early deterioration, use: 
+ NHS England's guide to pulse oximetry in people 18 years and over with 
+COVID-19 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 8 of
+74
+
+ oxygen saturation levels below 91% in room air at rest in children and young 
+people (17 years and under) with COVID-19. [23 March 2021, amended 27 
+May 2021] 
+2.1.3 
+Be aware that some pulse oximeters can underestimate or overestimate oxygen 
+saturation levels, especially if the saturation level is borderline. Overestimation 
+has been reported in people with dark skin. 
+For information on pulse oximetry at home, see NHS England's COVID oximetry 
+@home service. [23 March 2021, amended 27 May 2021] 
+2.1.4 
+For people with severe respiratory symptoms associated with COVID-19 (for 
+example, suspected pneumonia) being managed in the community, see 
+recommendation 5.3.14 on venous thromboembolism in hospital-led acute care in 
+the community. [23 March 2021] 
+Assessing shortness of breath (dyspnoea) is important but may be difficult via 
+remote consultation. Tools such as the Medical Research Council's dyspnoea scale or 
+the Centre for Evidence-Based Medicine's review of ways of assessing dyspnoea 
+(breathlessness) by telephone or video can be useful. 
+The National Early Warning Score (NEWS) 2 tool may be used in adults in addition to 
+clinical judgement to assess a person's risk of deterioration. Note that use of NEWS2 
+is not advised in children or pregnant women. Although the NEWS2 tool is not 
+validated for predicting the risk of clinical deterioration in prehospital settings, it may 
+be a helpful adjunct to clinical judgement in adults. A face-to-face consultation 
+should not be arranged solely to calculate a NEWS2 score. 
+Locally approved Paediatric Early Warning Scores (PEWS) should be used for 
+children. When using early warning scores, ensure that readings are based on 
+calibrated machines. Be aware that readings may be incomplete when doing remote 
+consultations. 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 9 of
+74
+
+Care planning 
+2.1.5 
+Discuss with people with COVID-19, and their families and carers, the benefits 
+and risks of hospital admission or other acute care delivery services (for example, 
+virtual wards or hospital at home teams). [23 March 2021] 
+2.1.6 
+Explain that people with COVID-19 may deteriorate rapidly. Discuss future care 
+preferences at the first assessment to give people who do not have existing 
+advance care plans an opportunity to express their preferences. [23 March 2021] 
+For a short explanation of why the panel made these recommendations, see the 
+rationale section on assessment in the community. 
+2.2 In hospital 
+2.2.1 
+When a person is admitted to hospital with COVID-19, ensure a holistic 
+assessment is done, including discussion about their treatment expectations and 
+care goals: 
+ Document and assess the stability of underlying health conditions, involving 
+relevant specialists as needed. 
+ Use the Clinical Frailty Scale (CFS) when appropriate, available from the NHS 
+Specialised Clinical Frailty Network, to assess baseline health and inform 
+discussions on treatment expectations. 
+ Use the CFS within an individualised assessment of frailty. 
+ Do not use the CFS for younger people, people with stable long-term 
+disabilities (for example, cerebral palsy), learning disabilities or autism. Make 
+an individualised assessment of frailty in these people, using clinical 
+assessment and alternative scoring methods. 
+ Record the assessment and discussion in the person's medical records. 
+For assessment of paediatric inflammatory multisystem syndrome (PIMS), 
+follow the guidance on PIMS from the Royal College of Paediatrics and Child 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 10 of
+74
+
+Health. [23 March 2021] 
+2.2.2 
+When making decisions about the care of children and young people under 18 
+years, people with learning disabilities or adults who lack mental capacity for 
+health decision making, for example, people with advanced dementia, see NICE's 
+guideline on decision making and mental capacity. 
+Ensure discussions on significant care interventions involve families and carers as 
+appropriate, and local experts or advocates. [23 March 2021] 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 11 of
+74
+
+3 Management 
+3.1 In the community 
+Care planning 
+3.1.1 
+In the community, consider the risks and benefits of face-to-face and remote 
+care for each person. Where the risks of face-to-face care outweigh the benefits, 
+remote care can be optimised by: 
+ offering telephone or video consultations (see BMJ guidance on Covid-19: a 
+remote assessment in primary care for a useful guide, including a visual 
+summary for remote consultation) 
+ cutting non-essential face-to-face follow-up 
+ using electronic prescriptions rather than paper 
+ using different methods to deliver medicines to people, for example, 
+pharmacy deliveries, postal services and NHS volunteers, or introducing 
+drive-through pick-up points for medicines. [23 March 2021] 
+3.1.2 
+When possible, discuss the risks, benefits and possible likely outcomes of the 
+treatment options with people with COVID-19, and their families and carers. Use 
+decision support tools (where available). [23 March 2021] 
+3.1.3 
+Put treatment escalation plans in place in the community after sensitively 
+discussing treatment expectations and care goals with people with COVID-19, 
+and their families and carers. [23 March 2021] 
+3.1.4 
+People with COVID-19 may deteriorate rapidly. If it is agreed that the next step is: 
+ a move to secondary care, ensure that they and their families understand 
+how to access this with the urgency needed 
+ other community-based support (whether virtual wards, hospital-at-home 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 12 of
+74
+
+services or palliative care), ensure that they and their families understand 
+how to access these services, both in and out of hours. [23 March 2021] 
+Managing cough 
+3.1.5 
+Encourage people with cough to avoid lying on their backs, if possible, because 
+this may make coughing less effective. [23 March 2021] 
+3.1.6 
+Be aware that older people or those with comorbidities, frailty, impaired immunity 
+or a reduced ability to cough and clear secretions are more likely to develop 
+severe pneumonia. This could lead to respiratory failure and death. [23 March 
+2021] 
+3.1.7 
+For guidance on managing acute cough, see NICE's guideline on cough (acute): 
+antimicrobial prescribing. [30 November 2023] 
+Managing fever 
+3.1.8 
+Advise people with COVID-19 and fever to drink fluids regularly to avoid 
+dehydration. Support their families and carers to help when appropriate. 
+Communicate that fluid intake needs can be higher than usual because of fever. 
+[23 March 2021] 
+3.1.9 
+Advise people to take paracetamol or ibuprofen if they have fever and other 
+symptoms that antipyretics would help treat. Tell them to continue only while 
+both the symptoms of fever and the other symptoms are present (see the Central 
+Alerting System: ibuprofen and coronavirus [COVID-19] for further details of 
+ibuprofen including dosage). [23 March 2021] 
+Managing breathlessness 
+3.1.10 
+Identify and treat reversible causes of breathlessness, for example, pulmonary 
+oedema, pulmonary embolism, chronic obstructive pulmonary disorder and 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 13 of
+74
+
+asthma. [23 March 2021] 
+For further information on identifying and managing pulmonary embolism, see 
+NICE's guideline on venous thromboembolic diseases: diagnosis, management 
+and thrombophilia testing. 
+3.1.11 
+When significant medical pathology has been excluded or further investigation is 
+inappropriate, the following may help to manage breathlessness as part of 
+supportive care: 
+ keeping the room cool 
+ encouraging relaxation and breathing techniques, and changing body 
+positioning 
+ encouraging people who are self-isolating alone to improve air circulation by 
+opening a window or door. [23 March 2021] 
+3.1.12 
+If hypoxia is the likely cause of breathlessness: 
+ consider a trial of oxygen therapy 
+ discuss with the person, their family or carer, possible transfer to and 
+evaluation in secondary care. [23 March 2021] 
+3.1.13 
+Be aware that breathlessness with or without hypoxia often causes anxiety, 
+which can then increase breathlessness further. [23 March 2021] 
+Managing anxiety, delirium and agitation 
+3.1.14 
+Assess reversible causes of delirium. See NICE's guideline on delirium: 
+prevention, diagnosis and management in hospital and long-term care. [23 March 
+2021] 
+3.1.15 
+Address reversible causes of anxiety by: 
+ exploring the person's concerns and anxieties 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 14 of
+74
+
+ explaining to people providing care how they can help. [23 March 2021] 
+Managing medicines 
+3.1.16 
+When supporting people with symptoms of COVID-19 who are having care in the 
+community delivered by social care, follow NICE's guideline on managing 
+medicines for adults receiving social care in the community. This includes 
+processes for ordering and supplying medicines, and transporting, storing and 
+disposing of medicines. [23 March 2021] 
+3.1.17 
+When prescribing, handling, administering and disposing of medicines in care 
+homes and hospices, follow NICE's guideline on managing medicines in care 
+homes. [23 March 2021] 
+3.2 In hospital 
+Deciding when to escalate treatment 
+For support with decision making, see: 
+ ethical guidance from the Royal College of Physicians 
+ national guidance presented by the Faculty of Intensive Care Medicine, Intensive 
+Care Society, Association of Anaesthetists and Royal College of Anaesthetists 
+ advice on decision making under pandemic conditions by the Intensive Care 
+Society 
+ advice on decision making and consent from General Medical Council. 
+Tools such as the BMJ's emergency care and resuscitation plans may be useful when 
+making decisions about a treatment plan. 
+3.2.1 
+Base decisions about escalating treatment within the hospital on the likelihood of 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 15 of
+74
+
+a person's recovery. Take into account their treatment expectations, goals of care 
+and the likelihood that they will recover to an outcome that is acceptable to them. 
+[23 March 2021] 
+3.2.2 
+Ensure healthcare professionals have access to resources to support discussions 
+about treatment plans (see, for example, decision making for escalation of 
+treatment and referring for critical care support, and an example decision support 
+form). [23 March 2021] 
+3.2.3 
+Discuss treatment escalation with a multidisciplinary team of medical and allied 
+health professional colleagues (such as from critical care, respiratory medicine, 
+geriatric medicine and palliative care) when there is uncertainty about treatment 
+escalation decisions. [23 March 2021] 
+3.2.4 
+Document referral to and advice from critical care services and respiratory 
+support units in a standard format. When telephone advice from critical care or 
+respiratory support units is appropriate, this should still be documented in a 
+standard format (see an example referral form). [23 March 2021] 
+Escalating and de-escalating treatment 
+3.2.5 
+Before escalating respiratory or other organ support, identify agreed treatment 
+goals with the person (if possible), and their family and carers, or an independent 
+mental capacity advocate (if appropriate). Start all advanced respiratory support 
+or organ support with a clear plan of how it will address the diagnosis and lead to 
+agreed treatment goals (outcomes). Ensure this includes management plans for 
+when there is further deterioration or no response to treatment. [23 March 2021, 
+amended 2 September 2021] 
+3.2.6 
+Do not continue respiratory or other organ support if it is considered that it will no 
+longer result in the desired overall goals (outcomes). Record the decision and the 
+discussion with the person (if possible), and their family and carers, or an 
+independent mental capacity advocate (if appropriate). [23 March 2021, 
+amended 2 September 2021] 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 16 of
+74
+
+Delivering services in critical care and respiratory support units 
+3.2.7 
+Trusts should review: 
+ their strategy on management for people who are deteriorating and 
+ use of the track-and-trigger system (NEWS2 has been endorsed by NHS 
+England). 
+See NICE's guideline on acutely ill adults in hospital for recommendations on 
+identifying patients whose clinical condition is deteriorating or is at risk of 
+deterioration and the Royal College of Physicians' information on the place of 
+NEWS2 in managing patients with COVID-19. [23 March 2021, amended 2 
+September 2021] 
+Non-invasive respiratory support 
+For further information on treating respiratory failure secondary to COVID-19, the 
+British Thoracic Society and Intensive Care Society have produced information on 
+management of acute respiratory hypoxaemia associated with COVID-19. 
+For management of clinical deterioration of COVID-19 in pregnancy, see the Royal 
+College of Obstetricians and Gynaecologists information on management of 
+coronavirus infection in pregnancy. 
+For more information on respiratory support in children with COVID-19, see the Royal 
+College of Paediatrics and Child Health National guidance for the management of 
+children in hospital with viral respiratory tract infections (2023). 
+Early treatment escalation planning for non-invasive respiratory 
+support 
+3.2.8 
+For information on deciding when to escalate and de-escalate treatment for 
+people who need non-invasive respiratory support, see the section on deciding 
+when to escalate treatment and the section on escalating and de-escalating 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 17 of
+74
+
+treatment. Also, consider factors such as: 
+ how much supplemental oxygen is needed to reach target oxygen saturation 
+ the person's overall clinical trajectory 
+ the person's effort of breathing (inspiratory effort and respiratory rate) 
+ how well the person has tolerated treatments so far 
+ treatment preferences after discussion with the person, and their family and 
+carers (when appropriate). [2 September 2021] 
+3.2.9 
+Optimise pharmacological and non-pharmacological management strategies in 
+people who need non-invasive respiratory support. [2 September 2021, 
+amended 10 March 2022] 
+3.2.10 
+Consider awake prone positioning for people in hospital with COVID-19 who are 
+not intubated and have higher oxygen needs. Discuss this with the person to 
+reach a shared decision on whether to try the position. [10 March 2023] 
+3.2.11 
+When trying awake prone positioning, factors to consider may include: 
+ whether the person has any contraindications to prone positioning (for 
+example, communication difficulties that affect their ability to try the position, 
+respiratory distress, potential need for invasive ventilation, untreated 
+pneumothorax, or recent abdominal, thoracic, facial, pelvic or spinal injury) 
+ availability of support from healthcare professionals with skills and 
+experience in prone positioning 
+ allowing a suitable duration to measure response to prone positioning (for 
+example, by monitoring oxygen saturation, need for supplemental oxygen, 
+respiratory rate, sensation of breathlessness) 
+ ensuring regular review and continuous monitoring (for example, oxygen 
+saturation level) 
+ how well the person can tolerate prone positioning and the importance of 
+breaks 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 18 of
+74
+
+ stopping prone positioning if it causes excessive discomfort (including 
+pressure damage, or pins and needles or numbness in the upper limbs), or 
+there is worsening hypoxia or excessive breathlessness. 
+The Intensive Care Society has produced information on conscious prone 
+positioning for people with COVID-19. 
+Follow relevant national guidance on communication, providing information 
+(including in different formats and languages) and shared decision making, 
+for example, NICE's guideline on shared decision making. [10 March 2023] 
+For a short explanation of why the panel made these recommendations, see the 
+rationale section on early escalation treatment planning for non-invasive respiratory 
+support. 
+Full details of the evidence and the panel's discussion are in: 
+ evidence review G: prone positioning 
+ evidence review H: respiratory support strategies. 
+Delivering non-invasive respiratory support 
+3.2.12 
+Do not routinely offer high-flow nasal oxygen (HFNO) as the main form of 
+respiratory support for people with COVID-19 and respiratory failure in whom 
+escalation to invasive mechanical ventilation would be appropriate. [10 March 
+2023] 
+See recommendation 3.2.16 on when to consider HFNO. 
+3.2.13 
+Consider continuous positive airway pressure (CPAP) for people with COVID-19 
+when they have hypoxaemia that is not responding to supplemental oxygen with 
+a fraction of inspired oxygen of 0.4 (40%) or more and either: 
+ escalation to invasive mechanical ventilation would be an option but it is not 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 19 of
+74
+
+immediately needed or 
+ it is agreed that respiratory support should not be escalated beyond CPAP. 
+In June 2021, the Medicines and Healthcare products Regulatory Agency 
+(MHRA) issued a National Patient Safety Alert for Philips ventilator, CPAP and 
+bilevel positive airway pressure devices because of a potential for harm from 
+inhaled particles and volatile organic compounds. This applies to all devices 
+manufactured before 26 April 2021. [2 September 2021, amended 10 March 
+2022] 
+3.2.14 
+For people with COVID-19 having CPAP, ensure: 
+ there is access to critical care providers for advice, review and prompt 
+escalation of treatment if needed 
+ regular review by an appropriate senior clinician (such as every 12 hours) and 
+more frequent review if needed, in line with the British Thoracic Society 
+guidance on respiratory support units and the Faculty of Intensive Care 
+Medicine guidelines on the provision of intensive care services 
+ regular assessment and management of symptoms alongside non-invasive 
+respiratory support. [2 September 2021, amended 10 March 2022] 
+3.2.15 
+Staff caring for people with COVID-19 having CPAP should have appropriate skills 
+and competencies and provide appropriate monitoring. For further information on 
+standards of care and provision of services, see the Faculty of Intensive Care 
+Medicine and Intensive Care Society guidelines on the provision of intensive care 
+services, the British Thoracic Society and Intensive Care Society guidance on 
+development and implementation of respiratory support units and the Paediatric 
+Intensive Care Society guidance on the management of critically ill children. [2 
+September 2021, amended 10 March 2022] 
+3.2.16 
+Consider using HFNO for people when: 
+ they cannot tolerate CPAP but need humidified oxygen at high-flow rates 
+ maximal conventional oxygen is not maintaining their target oxygen 
+saturations and: 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 20
+of 74
+
+ they do not need immediate invasive mechanical ventilation or escalation 
+to invasive mechanical ventilation is not suitable and 
+ CPAP is not suitable 
+ they need: 
+ a break from CPAP (such as at mealtimes, for skin and pressure area 
+relief, or for mouth care) 
+ humidified oxygen or nebulisers (or both) 
+ weaning from CPAP. [2 September 2021, amended 10 March 2022] 
+For a short explanation of why the panel made these recommendations, see the 
+rationale section on delivering non-invasive respiratory support. 
+Full details of the evidence and the panel's discussion are in: 
+ evidence review G: prone positioning 
+ evidence review H: respiratory support strategies. 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 21 of
+74
+
+4 Therapeutics for COVID-19 
+Making decisions using NICE guidelines explains how we use words to show the 
+strength (or certainty) of our recommendations, and has information about 
+prescribing medicines (including off-label use), professional guidelines, standards 
+and laws (including on consent and mental capacity), and safeguarding. 
+4.1 Antivirals 
+Nirmatrelvir plus ritonavir 
+4.1.1 
+Nirmatrelvir plus ritonavir is recommended as an option for treating COVID-19 in 
+adults, only if they do not need supplemental oxygen for COVID-19 and have an 
+increased risk for progression to severe COVID-19. For full details, including risk 
+factors for progression, see NICE's technology appraisal guidance on nirmatrelvir 
+plus ritonavir (TA878, 2026). 
+Remdesivir 
+4.1.2 
+Remdesivir is recommended as an option for treating COVID-19 in hospitals in: 
+ adults, only if they have a high risk of serious illness (as defined in section 5 
+of TA878) 
+ babies, children and young people, only if they: 
+ are aged 4 weeks to 17 years and weigh at least 3 kg, and: 
+ have pneumonia, and 
+ need supplemental oxygen, or 
+ weigh at least 40 kg, and have a high risk of serious illness (as defined in 
+section 5 of TA878). 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 22
+of 74
+
+For full details, see NICE's technology appraisal guidance on remdesivir 
+(TA971, 2024). 
+Molnupiravir 
+4.1.3 
+Molnupiravir is recommended as an option for treating mild to moderate 
+COVID-19 in adults who have a positive SARS-CoV-2 test, only if: 
+ they have 1 or more risk factors for progression to severe COVID-19 (as 
+defined in section 5 of TA878) and 
+ nirmatrelvir plus ritonavir is contraindicated or unsuitable. 
+For full details, see NICE's technology appraisal guidance on molnupiravir 
+(TA1056, 2026). 
+4.2 Corticosteroids 
+4.2.1 
+Offer dexamethasone, or either hydrocortisone or prednisolone when 
+dexamethasone cannot be used or is unavailable, to people with COVID-19 who: 
+ need supplemental oxygen to meet their prescribed oxygen saturation levels 
+or 
+ have a level of hypoxia that needs supplemental oxygen but who are unable 
+to have or tolerate it. 
+Continue corticosteroids for up to 10 days unless there is a clear indication to 
+stop early, which includes discharge from hospital or a hospital-supervised 
+virtual COVID ward. [8 April 2021] 
+See box 1 on dosage information. 
+Box 1 Dosage information 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 23
+of 74
+
+Dosage in adults 
+Dexamethasone 
+ 6 mg orally once a day for 10 days (three 2 mg tablets or 15 ml of 2 mg/5 ml oral 
+solution) or 
+ 6 mg intravenously once a day for 10 days (1.8 ml of 3.3 mg/ml ampoules 
+[5.94 mg]). 
+For people able to swallow and in whom there are no significant concerns about 
+enteral absorption, prescribe tablets. Only use intravenous administration when 
+tablets or oral solutions are inappropriate or unavailable. 
+Suitable alternatives 
+Prednisolone: 40 mg orally once a day for 10 days. 
+Hydrocortisone: 50 mg intravenously every 8 hours for 10 days (0.5 ml of 100 mg/ml 
+solution; powder for solution for injection or infusion is also available); this may be 
+continued for up to 28 days for people with septic shock. 
+Dosage in pregnancy 
+Follow Royal College of Obstetrics and Gynaecology guidance. 
+Dosage for children with a greater than 44-week corrected gestational age 
+ Dexamethasone: 150 micrograms/kg (as a base) orally, nasogastrically or 
+intravenously once a day for 10 days (max 6 mg). 
+ Prednisolone: 1 mg/kg orally, nasogastrically or intravenously once a day for 
+10 days (maximum 40 mg; doses can be rounded as per routine clinical practice). 
+Dosage for preterm babies with a corrected gestational age of less than 44 weeks 
+Seek specialist advice. 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 24
+of 74
+
+For more information on the management of children, follow the Royal College of 
+Paediatrics and Child Health National guidance for the management of children in 
+hospital with viral respiratory tract infections (2023). 
+For people able to swallow and in whom there are no significant concerns about 
+enteral absorption, prescribe tablets. Only use intravenous administration when 
+tablets or oral solutions are inappropriate or unavailable. 
+4.2.2 
+Do not use corticosteroids to treat COVID-19 in people who do not need 
+supplemental oxygen. (People who need corticosteroids for another medical 
+reason should still have them.) [8 April 2021, amended 20 April 2022] 
+For a short explanation of why the panel made these recommendations, see the 
+rationale section on corticosteroids. 
+Full details of the evidence and the panel's discussion are in evidence review A: 
+corticosteroids. 
+4.3 Tocilizumab 
+4.3.1 
+Tocilizumab is recommended as an option for treating COVID-19 in adults who are 
+having systemic corticosteroids and need supplemental oxygen or mechanical 
+ventilation. For full details, see NICE's technology appraisal guidance on 
+tocilizumab (TA878, 2026). 
+4.4 Baricitinib 
+4.4.1 
+Consider baricitinib for people 2 years and over in hospital with COVID-19 who: 
+ need supplemental oxygen for COVID-19 and 
+ are having or have completed a course of corticosteroids such as 
+dexamethasone, unless they cannot have corticosteroids and 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 25
+of 74
+
+ have no evidence of infection (other than SARS-CoV-2) that might be 
+worsened by baricitinib. 
+In March 2023, this was an off-label use of baricitinib. See NICE's information 
+on prescribing medicines. 
+Baricitinib may be considered in people who meet the above criteria, and who 
+cannot have tocilizumab. When there is clinical deterioration despite 
+treatment with tocilizumab, it may be appropriate to add baricitinib. 
+Baricitinib is contraindicated in pregnancy and breastfeeding. The Royal 
+College of Obstetricians and Gynaecologists has produced guidance on 
+managing coronavirus infection in pregnancy. [6 May 2022, amended 29 
+March 2023] 
+For a short explanation of why the panel made this recommendation, see the rationale 
+section on baricitinib. 
+Full details of the evidence and the panel's discussion are in evidence review L: 
+baricitinib. 
+4.5 Antibiotics 
+4.5.1 
+Do not use antibiotics for preventing or treating COVID-19 unless there is clinical 
+suspicion of additional bacterial co-infection. See the section on suspected or 
+confirmed co-infection. See also the recommendations on azithromycin and 
+doxycycline. [21 March 2021, amended 3 June 2021] 
+4.6 Azithromycin 
+4.6.1 
+Do not use azithromycin to treat COVID-19. [3 June 2021] 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 26
+of 74
+
+For a short explanation of why the panel made this recommendation, see the rationale 
+section on azithromycin. 
+Full details of the evidence and the panel's discussion are in evidence review B: 
+azithromycin. 
+4.7 Budesonide (inhaled) 
+4.7.1 
+Only use budesonide to treat COVID-19 as part of a clinical trial. (People already 
+on budesonide for conditions other than COVID-19 should continue treatment if 
+they test positive for COVID-19.) [3 November 2021] 
+For a short explanation of why the panel made this recommendation, see the rationale 
+section on budesonide. 
+Full details of the evidence and the panel's discussion are in evidence review E 
+inhaled budesonide. 
+4.8 Colchicine 
+4.8.1 
+Do not use colchicine to treat COVID-19. [27 May 2021, amended 1 December 
+2021] 
+For a short explanation of why the panel made this recommendation, see the rationale 
+section on colchicine. 
+Full details of the evidence and the panel's discussion are in evidence review F: 
+colchicine. 
+4.9 Doxycycline 
+4.9.1 
+Do not use doxycycline to treat COVID-19 in the community. [2 September 2021] 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 27
+of 74
+
+For a short explanation of why the panel made this recommendation, see the rationale 
+section on doxycycline. 
+Full details of the evidence and the panel's discussion are in evidence review C: 
+doxycycline. 
+4.10 Ivermectin 
+4.10.1 
+Do not use ivermectin to treat COVID-19 except as part of an ongoing clinical 
+trial. [22 November 2021, amended 15 June 2022] 
+For a short explanation of why the panel made this recommendation, see the rationale 
+section on ivermectin. 
+Full details of the evidence and the panel's discussion are in evidence review M: 
+ivermectin. 
+4.11 Tixagevimab plus cilgavimab 
+4.11.1 
+Tixagevimab plus cilgavimab is not recommended for treating COVID-19 in adults 
+who do not need supplemental oxygen and who have an increased risk of 
+progression to severe COVID-19. For full details, see NICE's technology appraisal 
+guidance on tixagevimab plus cilgavimab for treating COVID-19 (TA971, 2024). 
+4.12 Vitamin D 
+4.12.1 
+Do not use vitamin D to treat COVID-19 except as part of a clinical trial. 
+For existing UK guidance on taking vitamin D to maintain muscle and bone health, 
+see NHS advice on vitamin D. [14 July 2022] 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 28
+of 74
+
+For a short explanation of why the panel made this recommendation, see the rationale 
+section on vitamin D. 
+Full details of the evidence and the panel's discussion are in evidence review N: 
+vitamin D. 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 29
+of 74
+
+5 Preventing and managing acute 
+complications 
+5.1 Acute kidney injury (AKI) 
+Assessing and managing AKI 
+5.1.1 
+Be aware that in people with COVID-19, acute kidney injury (AKI): 
+ may be common, but prevalence is uncertain and depends on clinical setting 
+(the Intensive Care National Audit and Research Centre's report on COVID-19 
+in critical care provides information on people in critical care who need renal 
+replacement therapy for AKI) 
+ is associated with an increased risk of dying 
+ can develop at any time (before, during or after hospital admission) 
+ may be caused by volume depletion (hypovolaemia), haemodynamic 
+changes, viral infection leading directly to kidney tubular injury, thrombotic 
+vascular processes, glomerular pathology or rhabdomyolysis 
+ may be associated with haematuria, proteinuria and abnormal serum 
+electrolyte levels (both increased and decreased serum sodium and 
+potassium). [23 March 2021] 
+5.1.2 
+Be aware that in people with COVID-19: 
+ maintaining optimal fluid status (euvolaemia) is difficult but critical to 
+reducing the incidence of AKI 
+ treatments for COVID-19 may increase the risk of AKI 
+ treatments for pre-existing conditions may increase the risk of AKI 
+ fever and increased respiratory rate increase insensible fluid loss. [23 March 
+2021] 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 30
+of 74
+
+For information on assessing and managing acute kidney injury (AKI), see NICE's 
+guideline on AKI and the NHS England AKI algorithm. 
+For information on the management of acute life-threatening hyperkalaemia, see 
+NICE's technology appraisal guidance on patiromer and sodium zirconium 
+cyclosilicate for treating hyperkalaemia. 
+For information on using intravenous fluids, see NICE's guidelines on intravenous fluid 
+therapy in adults in hospital and intravenous fluid therapy in children and young 
+people in hospital. 
+For information on managing renal replacement therapy for adults who are critically 
+unwell with COVID-19, see the Renal Association's guidelines on renal replacement 
+therapy for critically unwell adults. 
+Follow-up 
+5.1.3 
+Monitor people with chronic kidney disease for at least 2 years after AKI, in line 
+with NICE's guideline on chronic kidney disease: assessment and management. 
+See guidance on care after hospital discharge in the Royal College of General 
+Practitioners AKI toolkit. [23 March 2021] 
+5.2 Acute myocardial injury 
+Diagnosing acute myocardial injury 
+5.2.1 
+For people in hospital with COVID-19 with signs or symptoms that suggest acute 
+myocardial injury, measure high sensitivity troponin I (hs-cTnI) or T (hs-cTnT) and 
+N-terminal pro B-type natriuretic peptide, and do an electrocardiogram (ECG). 
+[23 March 2021] 
+5.2.2 
+Use the following test results to help inform a diagnosis: 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 31 of
+74
+
+ evolving ECG changes suggesting myocardial ischaemia 
+ an NT-proBNP level above 400 ng/litre 
+ high levels of hs-cTnI or hs-cTnT, particularly levels increasing over time. 
+Elevated troponin levels may reflect cardiac inflammatory response to severe 
+COVID-19 rather than acute coronary syndrome. [23 March 2021] 
+Managing myocardial injury 
+5.2.3 
+For all people with COVID-19 and suspected or confirmed acute myocardial injury: 
+ monitor in a setting where cardiac or respiratory deterioration can be rapidly 
+identified 
+ do continuous ECG monitoring 
+ monitor blood pressure, heart rate and fluid balance. [23 March 2021] 
+5.2.4 
+For people with a clear diagnosis of myocardial injury: 
+ seek specialist cardiology advice on treatment, further tests and imaging 
+ follow local treatment protocols. [23 March 2021] 
+5.2.5 
+For people with a high clinical suspicion of myocardial injury, but without a clear 
+diagnosis: 
+ repeat high sensitivity troponin (hs-cTnI or hs-cTnT) measurements and ECG 
+monitoring daily, because dynamic change may help to monitor the course of 
+the illness and establish a clear diagnosis 
+ seek specialist cardiology advice on further investigations such as 
+transthoracic echocardiography and their frequency. [23 March 2021] 
+See also the management section for recommendations on care planning and 
+recommendations on escalating and de-escalating treatment. 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 32
+of 74
+
+5.3 Venous thromboembolism (VTE) prophylaxis 
+In hospital 
+5.3.1 
+For young people and adults with COVID-19 that is being managed in hospital, 
+assess the risk of bleeding as soon as possible after admission or by the time of 
+the first consultant review. Use a risk assessment tool published by a national UK 
+body, professional network or peer-reviewed journal. (The Department of Health 
+VTE risk assessment tool is commonly used to develop treatment plans.) [23 
+March 2021, amended 2 September 2021] 
+5.3.2 
+Offer a standard prophylactic dose of a low molecular weight heparin (LMWH) as 
+soon as possible, and within 14 hours of admission, to young people and adults 
+with COVID-19 who need low-flow or high-flow supplemental oxygen, continuous 
+positive airway pressure (CPAP), non-invasive ventilation (NIV) or invasive 
+mechanical ventilation, and who do not have an increased bleeding risk. [2 
+September 2021] 
+5.3.3 
+Continue management with a standard prophylactic dose of LMWH for a 
+minimum of 7 days, including after discharge. 
+See recommendation 5.3.13 on LMWH self-administration. [2 September 2021] 
+5.3.4 
+Consider a treatment dose of an LMWH for young people and adults with 
+COVID-19 who need low-flow supplemental oxygen and who do not have an 
+increased bleeding risk. 
+In August 2021, using a treatment dose of a LMWH outside the treatment of 
+confirmed VTE was an off-label use of parenteral anticoagulants. See NICE's 
+information on prescribing medicines. [2 September 2021] 
+5.3.5 
+Continue management with a treatment dose of LMWH for 14 days or until 
+discharge, whichever is sooner. Dose reduction may be needed to respond to any 
+changes in a person's clinical circumstances. [2 September 2021] 
+5.3.6 
+Only offer an intermediate or treatment dose of an LMWH to young people and 
+adults with COVID-19 who are receiving high-flow supplemental oxygen, CPAP, 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 33
+of 74
+
+NIV or invasive mechanical ventilation as part of a clinical trial. [2 September 
+2021] 
+For people with COVID-19 who do not need low-flow supplemental oxygen, follow the 
+recommendations in NICE's guideline on VTE in over 16s. 
+5.3.7 
+Do not base prophylactic dosing of heparin on levels of D-dimer. [23 March 2021, 
+amended 2 September 2021] 
+5.3.8 
+For people at extremes of body weight or with impaired renal function, consider 
+adjusting the dose of LMWHs in line with the summary of product characteristics 
+and locally agreed protocols. [23 March 2021, amended 2 September 2021] 
+5.3.9 
+For people who cannot have LMWHs, use fondaparinux sodium or unfractionated 
+heparin (UFH). 
+In August 2021, LMWHs and fondaparinux sodium were off-label for people under 
+18 years. See NICE's information on prescribing medicines. [23 March 2021, 
+amended September 2021] 
+5.3.10 
+For people who are already having anticoagulation treatment for another 
+condition when admitted to hospital: 
+ continue their current treatment dose of anticoagulant unless contraindicated 
+by a change in clinical circumstances 
+ consider switching to an LMWH if their current anticoagulant is not an LMWH 
+and their clinical condition is deteriorating. [23 March 2021, amended 
+September 2021] 
+5.3.11 
+If a person's clinical condition changes, assess the risk of VTE, reassess bleeding 
+risk and review VTE prophylaxis. [23 March 2021, amended September 2021] 
+5.3.12 
+Organisations should collect and regularly review information on bleeding and 
+other adverse events in people with COVID-19 having treatment or intermediate 
+doses of LMWHs. [23 March 2021, amended September 2021] 
+5.3.13 
+Ensure that people who will be completing VTE prophylaxis after discharge are 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 34
+of 74
+
+able to use it correctly or have arrangements made for someone to help them. 
+[23 March 2021, amended September 2021] 
+In hospital-led acute care in the community 
+5.3.14 
+For people with COVID-19 managed in hospital-led acute care in the community 
+settings: 
+ assess the risks of VTE and bleeding 
+ consider pharmacological prophylaxis if the risk of VTE outweighs the risk of 
+bleeding. [23 March 2021] 
+People with COVID-19 and additional risk factors 
+5.3.15 
+For women with COVID-19 who are pregnant or have given birth within the past 
+6 weeks, follow the advice on VTE prevention in the Royal College of 
+Obstetricians and Gynaecologists guidance on coronavirus (COVID-19) in 
+pregnancy. [23 March 2021] 
+5.3.16 
+For children with COVID-19 admitted into hospital, follow the advice on COVID-19 
+guidance for management of children admitted to hospital in the Royal College of 
+Paediatrics and Child Health guidance. [23 March 2021] 
+For a short explanation of why the panel made these recommendations, see the 
+rationale section on prevention and management of venous thromboembolism (VTE) 
+prophylaxis. 
+Full details of the evidence and the panel's discussion are in evidence review D: VTE 
+prevention in COVID-19. 
+Information and support 
+5.3.17 
+Give people with COVID-19, and their families or carers if appropriate, information 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 35
+of 74
+
+about the benefits and risks of VTE prophylaxis. 
+See the recommendations on giving information and planning for discharge in the 
+NICE guideline on venous thromboembolism in over 16s, including information on 
+alternatives to heparin for people who have concerns about using animal 
+products. [23 March 2021] 
+5.3.18 
+Offer people the opportunity to take part in ongoing clinical trials on COVID-19. 
+[23 March 2021] 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 36
+of 74
+
+6 Identifying and managing co-infections 
+6.1 Managing viral or fungal pneumonia 
+6.1.1 
+Do not offer an antibiotic for preventing or treating pneumonia if SARS-CoV-2, 
+another virus, or a fungal infection, is likely to be the cause. 
+Antibiotics do not work on viruses, and inappropriate antibiotic use may reduce 
+availability. Also, inappropriate use may lead to Clostridioides difficile infection 
+and antimicrobial resistance, particularly with broad-spectrum antibiotics. [23 
+March 2021] 
+Evidence as of March 2021 suggests that bacterial co-infection occurs in less than 
+about 8% of people with COVID-19, and could be as low as 0.1% in people in hospital 
+with COVID-19. Viral and fungal co-infections occur at lower rates than bacterial co-
+infections. 
+Secondary infection or co-infection (bacterial, viral or fungal) is more likely the longer 
+a person is in hospital and the more they are immunosuppressed (for example, 
+because of certain types of treatment). 
+The type and number of secondary infections or co-infections will vary depending on 
+the season and any restrictions in place (for example, lockdowns). 
+6.2 Other causes of pneumonia 
+Identifying other causes of pneumonia 
+6.2.1 
+To help identify other causes of pneumonia and to inform decision making about 
+using antibiotics, consider the following tests: 
+ a full blood count 
+ chest imaging (X-ray, CT or ultrasound) 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 37
+of 74
+
+ respiratory and blood samples (for example, sputum or a tracheal aspirate 
+sample, blood culture) 
+ urine samples for legionella and pneumococcal antigen testing 
+ throat, nasopharyngeal or sputum samples for respiratory viral (and atypical 
+pathogen) polymerase chain reaction testing; for more information, see 
+Public Health England's COVID-19 guidance for sampling and for diagnostic 
+laboratories. [23 March 2021, amended 27 July 2022] 
+High C-reactive protein levels do not necessarily indicate whether pneumonia is due 
+to bacteria or SARS-COV-2. 
+Low C-reactive protein level indicates that a secondary bacterial infection is less 
+likely. 
+6.2.2 
+Do not use C-reactive protein to assess whether a person has a secondary 
+bacterial infection if they have been having immunosuppressant treatment. [23 
+March 2021] 
+There is insufficient evidence to recommend routine procalcitonin testing to guide 
+decisions about antibiotics. Centres already using procalcitonin tests are encouraged 
+to participate in research and data collection. 
+Procalcitonin tests could be useful in identifying whether there is a bacterial infection. 
+However, it is not clear whether they add benefit beyond what is suggested in 
+recommendation 6.2.1 on tests to help differentiate between viral and bacterial 
+pneumonia to guide decisions about antibiotics. The most appropriate threshold for 
+procalcitonin is also uncertain. 
+Antibiotic treatment in the community 
+6.2.3 
+Do not offer an antibiotic for preventing secondary bacterial pneumonia in people 
+with COVID-19. [23 March 2021] 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 38
+of 74
+
+6.2.4 
+If a person has suspected or confirmed secondary bacterial pneumonia, start 
+antibiotic treatment as soon as possible. Take into account any different methods 
+needed to deliver medicines during the COVID-19 pandemic (see 
+recommendation 3.1.1 on minimising face-to-face contact).[23 March 2021] 
+For antibiotic choices to treat community-acquired pneumonia caused by a 
+secondary bacterial infection, see the recommendations on choice of antibiotic in 
+NICE's guideline on pneumonia (community-acquired): antimicrobial prescribing. 
+6.2.5 
+Advise people to seek medical help without delay if their symptoms do not 
+improve as expected, or worsen rapidly or significantly, whether they are taking 
+an antibiotic or not. [23 March 2021] 
+6.2.6 
+On reassessment, reconsider whether the person has signs and symptoms of 
+more severe illness (see recommendation 2.1.1 on signs and symptoms to help 
+identify people with COVID-19 with the most severe illness) and whether to refer 
+them to hospital, other acute community support services or palliative care 
+services. [23 March 2021] 
+Starting antibiotics in hospital 
+6.2.7 
+Start empirical antibiotics if there is clinical suspicion of a secondary bacterial 
+infection in people with COVID-19. When a decision to start antibiotics has been 
+made: 
+ Start empirical antibiotic treatment as soon as possible after establishing a 
+diagnosis of secondary bacterial pneumonia, and certainly within 4 hours. 
+ If the person has suspected sepsis, start treatment in line with NICE's 
+guidelines on suspected sepsis in under 16s, people aged 16 or over and 
+people who are or have recently been pregnant. [23 March 2021] 
+Choice of antibiotics in hospital 
+6.2.8 
+To guide decision making about antibiotics for secondary bacterial pneumonia in 
+people with COVID-19, see NICE's guideline on pneumonia (hospital-acquired): 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 39
+of 74
+
+antimicrobial prescribing. 
+6.2.9 
+When choosing antibiotics, take account of: 
+ local antimicrobial resistance data and 
+ other factors such as their availability. [23 March 2021] 
+6.2.10 
+Give oral antibiotics if the person can take oral medicines and their condition is 
+not severe enough to need intravenous antibiotics. [23 March 2021] 
+6.2.11 
+Consider seeking specialist advice on antibiotic treatment for people who: 
+ are immunocompromised 
+ have a history of infection with resistant organisms 
+ have a history of repeated infective exacerbations of lung disease 
+ are pregnant 
+ are receiving advanced respiratory support or organ support. [23 March 
+2021] 
+6.2.12 
+Seek specialist advice if: 
+ there is a suspicion that the person has an infection with multidrug-resistant 
+bacteria and may need a different antibiotic or 
+ there is clinical or microbiological evidence of infection and the person's 
+condition does not improve as expected after 48 to 72 hours of antibiotic 
+treatment. [23 March 2021] 
+Reviewing antibiotic treatment in hospital 
+6.2.13 
+Review all antibiotics at 24 to 48 hours, or as soon as test results are available. If 
+appropriate, switch to a narrower-spectrum antibiotic, based on microbiological 
+results. [23 March 2021] 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 40
+of 74
+
+6.2.14 
+For intravenous antibiotics, review within 48 hours and think about switching to 
+oral antibiotics (in line with NICE's guideline on pneumonia [hospital-acquired]: 
+antimicrobial prescribing) 
+Give antibiotics for 5 days, and then stop them unless there is a clear indication 
+to continue (see recommendation 6.2.12 on when to seek specialist advice). [23 
+March 2021] 
+6.2.15 
+Reassess people if their symptoms do not improve as expected, or worsen rapidly 
+or significantly. [23 March 2021] 
+6.3 COVID-19-associated pulmonary aspergillosis 
+(CAPA) 
+For people who are critically ill and have, or have had, COVID-19 as part of their acute 
+illness: 
+ COVID-19-associated pulmonary aspergillosis (CAPA) is a recognised cause of 
+someone's condition not improving despite treatment (for example, antibiotic 
+therapy, ventilatory support) 
+ there are no specific combinations of signs or symptoms for diagnosing CAPA 
+ the risk of having CAPA may increase with age and chronic lung disease. 
+Diagnosing CAPA 
+6.3.1 
+When deciding whether to suspect CAPA in someone who is critically ill and has, 
+or has had, COVID-19 as part of their acute illness: 
+ base your decisions on individual risk factors and the person's clinical 
+condition 
+ involve a multidisciplinary team, including infection specialists 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 41 of
+74
+
+ refer to local protocols on diagnosing and managing CAPA. 
+Local protocols for diagnosing and managing CAPA should be developed with 
+a multidisciplinary team and based on knowledge of local prevalence. [16 
+December 2021] 
+6.3.2 
+Do not do diagnostic tests for CAPA if there is low clinical suspicion of the 
+condition. [16 December 2021] 
+6.3.3 
+When investigating suspected CAPA: 
+ use a range of tests to increase the likelihood of making a confident 
+diagnosis 
+ if possible, include bronchoalveolar lavage (BAL) as part of diagnostic 
+testing, taking into account the risks of BAL in relation to the person's clinical 
+condition 
+ discuss the diagnostic testing strategy and final diagnosis with a 
+multidisciplinary team that includes infection specialists. [16 December 2021] 
+6.3.4 
+Test for antifungal resistance if an Aspergillus isolate is cultured from a CAPA test 
+sample. [16 December 2021] 
+6.3.5 
+Commissioners and local trusts should ensure that results of diagnostic tests for 
+CAPA are available in a timeframe that informs and supports clinical decision 
+making. [16 December 2021] 
+6.3.6 
+Monitor and report testing for, and diagnosis and management of, CAPA in line 
+with local protocols. 
+Local protocols for diagnosing and managing CAPA should be developed with a 
+multidisciplinary team and based on knowledge of local prevalence. [16 
+December 2021] 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 42
+of 74
+
+For a short explanation of why the panel made these recommendations, see the 
+rationale section on diagnosing CAPA. 
+Full details of the evidence and the panel's discussion are in: 
+ evidence review I: CAPA risk factorssigns and symptoms 
+ evidence review J: CAPA diagnostics. 
+Treating CAPA 
+6.3.7 
+Only use antifungal treatments to treat CAPA if: 
+ diagnostic investigations support a diagnosis of CAPA or 
+ the results of diagnostic investigations are not available yet, but CAPA is 
+suspected, and a multidisciplinary team or local protocols support starting 
+treatment. [16 December 2021] 
+6.3.8 
+When considering antifungal treatment for CAPA: 
+ discuss treatment options with a multidisciplinary team that includes infection 
+specialists 
+ follow local protocols that include best practice guidance on treating invasive 
+aspergillosis. [16 December 2021] 
+6.3.9 
+For people having antifungal treatment for suspected CAPA, stop treatment if the 
+results of investigations do not support a diagnosis of CAPA and a 
+multidisciplinary team agrees. [16 December 2021] 
+For a short explanation of why the panel made these recommendations, see the 
+rationale section on treating CAPA. 
+Full details of the evidence and the panel's discussion are in evidence review K: CAPA 
+ effectiveness and safety of treatments. 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 43
+of 74
+
+7 Follow-up and rehabilitation 
+For follow-up and rehabilitation for people who have either ongoing symptomatic 
+COVID-19 or post-COVID-19 syndrome, see NICE's guideline on the long-term effects of 
+COVID-19. 
+Be aware of the UK Government's information on the COVID-19 vaccination programme. 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 44
+of 74
+
+8 Palliative care 
+8.1.1 
+For people who are nearing the end of their life, see NICE's guidelines on: 
+ Care of dying adults in the last days of life: this includes recommendations on 
+recognising when a person may be in the last days of life, communication and 
+shared decision making. 
+ End of life care for adults: service delivery: this includes recommendations for 
+service providers on systems to help identify adults who may be at the end 
+of their life, providing information and advanced care planning. 
+ Care and support of people growing older with learning disabilities: this 
+includes recommendations on accessing end of life care services, person-
+centred care, and involving families and support networks in end of life care 
+planning. 
+ End of life care for infants, children and young people with life-limiting 
+conditions: planning and management: this includes recommendations on 
+planning and managing end of life and palliative care for infants, children and 
+young people (aged 0 to 17 years) with life-limiting conditions. 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 45
+of 74
+
+Terms used in the guideline 
+Continuous positive airway pressure (CPAP) 
+A type of non-invasive positive airway pressure that delivers a set pressure of airflow to 
+the airways. This pressure is maintained throughout the respiratory cycle, both when the 
+person is breathing in (inspiration) and breathing out (expiration). A CPAP device consists 
+of a unit that generates airflow, which is delivered to the airway through a tight-fitting 
+mask or other airtight interface. 
+High-flow nasal oxygen (HFNO) 
+Involves the delivery of warm and humidified oxygen (up to 70 litres per minute) through 
+small nasal cannulae. The delivered gas flow is equal to or higher than the flow of air when 
+the person is breathing in (inspiratory flow). This means that HFNO can deliver a higher 
+and more stable concentration of inspired oxygen than conventional oxygen alone with 
+nasal prongs. The higher flow also increases carbon dioxide washout in the upper airways 
+and improves carbon dioxide clearance. Unlike CPAP, any positive pressure provided by 
+HFNO is not measurable or sizeable. 
+Hospital-led acute care in the community 
+A setting in which people who would otherwise be admitted to hospital have acute medical 
+care provided by members of the hospital team, often working with the person's GP team. 
+They include hospital at home services and COVID-19 virtual wards. 
+Intermediate dose 
+Double the standard prophylactic dose of a low molecular weight heparin (LMWH) for 
+medical patients. 
+Invasive mechanical ventilation 
+Any method of controlled ventilation delivered through a translaryngeal or tracheostomy 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 46
+of 74
+
+tube, or other methods as defined by the Intensive Care National Audit & Research Centre 
+definition of 'advanced respiratory support'. 
+Low-flow supplemental oxygen 
+Oxygen delivered by a simple face mask or nasal canula at a flow rate usually up to 
+15 litres/min. 
+Non-invasive respiratory support 
+A broad umbrella term for different types of respiratory support given through external 
+interfaces, and includes HFNO, CPAP and non-invasive ventilation (NIV). These are more 
+intensive interventions than conventional oxygen therapy alone. The different types of 
+support are not, however, interchangeable because they have differing effects on a 
+person's respiratory and cardiac physiology. So, they typically have different indications 
+for their use. 
+Non-invasive ventilation (NIV) 
+Refers to a mode of positive pressure ventilation that delivers airflow to the airways 
+through a tight-fitting mask or other airtight interface. Airflow is delivered at variable 
+pressures that are higher than when the person is breathing in (inspiratory pressure) and 
+lower than when the person is breathing out (expiratory pressure). NIV differs from CPAP 
+by providing additional inspiratory pressure assistance. Most devices have an option of 
+adding positive expiratory airway pressure that can fulfil a similar role to CPAP by 
+maintaining a positive pressure in the airways to aid lung recruitment (opening of the 
+airways). 
+Standard prophylactic dose 
+The prophylactic dose of an LMWH, as listed in the medicine's summary of product 
+characteristics, for medical patients. 
+Treatment dose 
+The licensed dose of anticoagulation used to treat confirmed venous thromboembolism 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 47
+of 74
+
+(VTE). 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 48
+of 74
+
+Recommendations for research 
+Key recommendations for research 
+1 Vitamin D for treating COVID-19 
+What is the clinical effectiveness and safety of vitamin D for treating COVID-19 in children, 
+young people and adults? 
+For a short explanation of why the committee made this recommendation for 
+research, see the rationale section on vitamin D. 
+Full details of the evidence and the committee's discussion are in evidence review N: 
+vitamin D. 
+2 Awake prone positioning 
+What is the effectiveness of awake body positioning in improving outcomes for people in 
+hospital with COVID-19 who are not intubated and have higher oxygen needs? 
+For a short explanation of why the committee made this recommendation for 
+research, see the rationale section on early treatment escalation planning for non-
+invasive respiratory support. 
+Full details of the evidence and the committee's discussion are in evidence review G: 
+prone positioning. 
+3 Antifungal treatments for COVID-19-associated pulmonary 
+aspergillosis (CAPA) 
+What are the clinical and cost effectiveness, and the safety, of specific antifungal 
+treatments for treating suspected or confirmed CAPA, and the optimal treatment duration? 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 49
+of 74
+
+When should treatment be started, stopped or modified? 
+For a short explanation of why the committee made this recommendation for 
+research, see the rationale section on treating CAPA. 
+Full details of the evidence and the committee's discussion are in evidence review K: 
+CAPA effectiveness and safety of treatments . 
+4 Patient experience of CAPA diagnosis and management 
+What are the views, preferences and experiences of people with CAPA, and their families 
+or carers, on: available tests for diagnosing CAPA and available treatments for CAPA? 
+For a short explanation of why the committee made this recommendation for 
+research, see the rationale section on treating CAPA. 
+Full details of the evidence and the committee's discussion are in: 
+ evidence review J: CAPA diagnostics 
+ evidence review K: CAPA effectiveness and safety of treatments . 
+5 Diagnosing CAPA 
+In people with suspected CAPA, what are the most accurate tests for diagnosing the 
+infection and when should they be done? 
+For a short explanation of why the committee made this recommendation for 
+research, see the rationale section on diagnosing CAPA. 
+Full details of the evidence and the committee's discussion are in evidence review J: 
+CAPA diagnostics. 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 50
+of 74
+
+Other recommendations for research 
+6 Outcomes for CAPA 
+What are the possible outcomes for people who are critically ill and have CAPA? 
+For a short explanation of why the committee made this recommendation for 
+research, see the rationale section on treating CAPA. 
+Full details of the evidence and the committee's discussion are in evidence review K: 
+CAPA effectiveness and safety of treatments . 
+7 Risk factors for CAPA 
+What risk factors in people who are critically ill and have, or have had, COVID-19 as part of 
+their acute illness are associated with developing CAPA? 
+For a short explanation of why the committee made this recommendation for 
+research, see the rationale section on diagnosing CAPA. 
+Full details of the evidence and the committee's discussion are in evidence review I: 
+CAPA risk factors and signs and symptoms. 
+8 Budesonide for COVID-19 
+What is the clinical and cost effectiveness of budesonide for treating COVID-19 in the 
+community in adults, young people and children? 
+For a short explanation of why the committee made this recommendation for 
+research, see the rationale section on budesonide (inhaled). 
+Full details of the evidence and the committee's discussion are in evidence review E: 
+inhaled budesonide. 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 51 of
+74
+
+9 Multidisciplinary team agreed approach to continuous positive 
+airway pressure (CPAP) weaning times 
+Does a multidisciplinary team agreed approach to weaning from CPAP improve weaning 
+times and result in stopping CPAP for people with COVID-19 and acute respiratory failure? 
+For a short explanation of why the committee made this recommendation for 
+research, see the rationale section on delivering non-invasive respiratory support. 
+Full details of the evidence and the committee's discussion are in evidence review H: 
+respiratory support strategies. 
+10 High-flow nasal oxygen (HFNO) for COVID-19 and respiratory 
+failure 
+Is HFNO effective in reducing breathlessness compared with standard care or 
+conventional oxygen therapy for people in hospital with COVID-19 and respiratory failure 
+when it is agreed that treatment will not be escalated beyond non-invasive respiratory 
+support or palliative care is needed? 
+For a short explanation of why the committee made this recommendation for 
+research, see the rationale section on delivering non-invasive respiratory support. 
+Full details of the evidence and the committee's discussion are in evidence review H: 
+respiratory support strategies. 
+11 Low molecular weight heparins (LMWHs) for venous 
+thromboembolism (VTE) prophylaxis 
+What is the effectiveness and safety of a treatment dose with an LMWH compared with a 
+standard prophylactic dose for VTE prophylaxis in young people under 18 years with 
+COVID-19? 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 52
+of 74
+
+For a short explanation of why the committee made this recommendation for 
+research, see the rationale section on in-hospital prevention and management of 
+venous thromboembolism (VTE) prophylaxis. 
+Full details of the evidence and the committee's discussion are in evidence review D: 
+VTE prevention. 
+12 Extended pharmacological VTE prophylaxis 
+What is the effectiveness and safety of extended pharmacological VTE prophylaxis for 
+people who have been discharged after treatment for COVID-19? 
+For a short explanation of why the committee made this recommendation for 
+research, see the rationale section on in-hospital prevention and management of 
+venous thromboembolism (VTE) prophylaxis. 
+Full details of the evidence and the committee's discussion are in evidence review D: 
+VTE prevention. 
+13 Standard- versus intermediate-dose VTE prophylaxis for 
+COVID-19 
+What is the effectiveness and safety of standard-dose compared with intermediate-dose 
+pharmacological VTE prophylaxis for people with COVID-19, with or without additional risk 
+factors for VTE? 
+For a short explanation of why the committee made this recommendation for 
+research, see the rationale section on people with COVID-19 and additional risk 
+factors. 
+Full details of the evidence and the committee's discussion are in evidence review D: 
+VTE prevention. 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 53
+of 74
+
+Rationales 
+Assessment in the community 
+Identifying severe COVID-19 
+Recommendation 2.1.2 
+This recommendation is based on the expert panel's consensus view. The panel agreed 
+that using pulse oximetry to measure oxygen saturation threshold levels is appropriate for 
+helping to identify people with acute COVID-19 in primary or community care, and to 
+predict outcomes such as hospitalisation. NHS England has guidance on pulse oximetry in 
+assessment in adults in the community. The panel agreed that it is appropriate to cross-
+refer to this guidance for adults but not for children. The panel's recommended oxygen 
+saturation level for children and young people was based on their consensus view that 
+oxygen saturation levels below 91% in room air at rest are appropriate to assess the 
+severity of illness and detect early deterioration in this group. 
+Care planning 
+Recommendation 2.1.5 
+Some benefits and risks of hospital admission may be similar for all patients (for example, 
+improved diagnostic tests and access to treatments, or better contact with families in the 
+community), but others may be personal to the individual (such as loss of access to carers 
+who can anticipate needs well in someone unable to communicate themselves, or risks of 
+spreading COVID-19). 
+Return to recommendations 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 54
+of 74
+
+Management in hospital 
+Early treatment escalation planning for non-invasive respiratory 
+support 
+Recommendation 3.2.9 
+Based on their experience, the panel concluded that to improve outcomes for patients, it 
+was important to ensure that existing management is optimised for people who need 
+escalation of respiratory support. 
+Recommendations 3.2.10 and 3.2.11 
+Evidence shows that, for people in hospital with COVID-19 who are not intubated and have 
+higher oxygen needs, awake prone positioning reduces the need for intubation compared 
+with standard care. There is no evidence showing that awake prone positioning improves 
+other outcomes compared with standard care. Although evidence is limited and of low to 
+very low certainty, the panel agreed that awake prone positioning may be beneficial for 
+this population. 
+The panel noted that awake prone positioning may not be suitable for everyone, and some 
+people may find it difficult or uncomfortable to be in a prone position. They emphasised 
+the importance of involving the person in decisions to try awake prone positioning. 
+The panel agreed that more research is needed to guide treatment and made a 
+recommendation for research for trials done in the UK with a focus on patient-reported 
+outcomes. 
+Return to recommendations 
+Delivering non-invasive respiratory support 
+Recommendation 3.2.12 
+Evidence does not show that high-flow nasal oxygen (HFNO) has treatment benefits over 
+conventional oxygen therapy for people in whom escalation to invasive mechanical 
+ventilation would be appropriate. So, the panel agreed that it should not be used as the 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 55
+of 74
+
+preferred treatment option for this population. 
+The panel acknowledged that although HFNO should not be routinely offered as the main 
+form of respiratory support, it may be considered in some situations. 
+Recommendation 3.2.13 
+Evidence from a clinical trial suggests that there may be some treatment benefits with 
+continuous positive airway pressure (CPAP) for people who have hypoxaemia and when 
+mechanical ventilation is not immediately needed. These benefits are mostly for intubation 
+outcomes (including likelihood of needing tracheal intubation and IMV), but there are 
+uncertainties in the evidence. In this clinical trial, hypoxaemia was defined as less than or 
+equal to 94% using pulse oximetry. 
+Recommendation 3.2.14 
+Based on their experience, the panel agreed that it is important to closely review people 
+with COVID-19 having CPAP. This is to ensure that CPAP is not used for longer than 
+necessary and that treatment is escalated when needed. 
+Recommendation 3.2.16 
+Evidence showed no statistically significant benefits between HFNO compared with 
+conventional oxygen. The panel acknowledged that although HFNO should not be the 
+main form of respiratory support, it may be considered in some situations so made a 
+recommendation for research on the use of HFNO where treatment would not be 
+escalated beyond non-invasive respiratory support. The panel used their expertise to 
+inform the recommendation on when to consider HFNO and proposed a recommendation 
+for research to explore which treatment methods are effective for weaning people with 
+COVID-19 from CPAP and the acceptability and safety of these methods. 
+Return to recommendations 
+Corticosteroids 
+Recommendation 4.3.1 
+There is evidence to support using corticosteroids for people with COVID-19 who need 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 56
+of 74
+
+supplemental oxygen, or who have a level of hypoxia that needs supplemental oxygen but 
+who are unable to have or tolerate it. It is now established standard practice to offer 
+dexamethasone. The growing evidence base, combined with its widespread availability, 
+ease of administration and acceptable safety profile, supports its continued use. 
+Hydrocortisone and prednisolone are suitable alternatives if dexamethasone cannot be 
+used or is unavailable. The course duration recommended, for up to 10 days unless there is 
+a clear indication to stop early, is based on that used in clinical trials. This includes being 
+discharged from hospital or a hospital supervised virtual COVID ward. (Being on a hospital-
+supervised virtual COVID ward is not classed as being discharged from hospital.) 
+Recommendation 4.3.2 
+Evidence suggests that, in people with COVID-19 who do not need supplemental oxygen, 
+corticosteroids may increase the risk of needing invasive mechanical ventilation and death 
+at 28 days. The recommendation therefore cautions against using corticosteroids for 
+people not on supplemental oxygen, unless there is another medical indication to do so. 
+Return to recommendations 
+Baricitinib 
+Recommendation 4.6.1 
+There is evidence to support the use of baricitinib for moderate to severe COVID-19 in 
+adults in hospital. It shows that baricitinib reduces mortality, duration of hospital stay and 
+disease severity. Corticosteroids are part of standard treatment for COVID-19 in the UK, 
+and there is evidence of an additional benefit when baricitinib is also used. 
+Baricitinib is not licensed for treating COVID-19. Off-label use of baricitinib for COVID-19 
+may be an option for adults who cannot have tocilizumab (for example, when tocilizumab 
+is not available, the person cannot tolerate intravenous administration, or there are other 
+important patient preferences or circumstances). The panel noted that, when there is 
+clinical deterioration despite treatment with tocilizumab, it may be appropriate to also add 
+baricitinib. 
+Based on the evidence supporting the use of baricitinib for moderate to severe COVID-19 
+in adults, the panel agreed that, in the event of severe or deteriorating illness, it could also 
+be considered for children and young people 2 years and over. This is after careful clinical 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 57
+of 74
+
+risk assessment and shared decision making that includes expert input from paediatricians 
+and paediatric infectious disease specialists. 
+Return to recommendation 
+Azithromycin 
+Recommendation 4.8.1 
+The evidence suggests that azithromycin is no better than standard care at reducing risk 
+of death in people in hospital with COVID-19. Limited evidence also suggests that 
+azithromycin does not reduce the risk of hospitalisation or death in people with COVID-19 
+in the community. There is no evidence for azithromycin use for COVID-19 in children. The 
+panel did not think there were reasons to expect different results in this group, so agreed 
+that the recommendation applies to all age groups. They also noted the risk of 
+antimicrobial resistance with azithromycin. 
+Return to recommendation 
+Budesonide (inhaled) 
+Recommendation 4.9.1 
+Trial evidence suggests some benefit with inhaled budesonide in reducing how long it 
+takes to recover from COVID-19. However, this evidence is limited because it comes from 
+only 2 trials, 1 of which was very small and stopped early. Also, the population in the trials 
+was mainly older people, which limits its generalisability to other age groups. The panel 
+concluded that more research is needed to address these issues, and that inhaled 
+budesonide should therefore only be used as part of a clinical trial. They also made a 
+recommendation for research to address this. 
+Return to recommendation 
+Colchicine 
+Recommendation 4.10.1 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 58
+of 74
+
+The evidence from trials of colchicine to treat COVID-19 in adults, both in hospital and 
+community settings, shows no beneficial effect on all-cause mortality or need for 
+mechanical ventilation compared with standard care. It also shows no effect on duration of 
+hospital stay or hospitalisation. The evidence also shows that colchicine causes 
+statistically significantly more adverse events than standard care within 21 days of starting 
+treatment in hospital or 30 days in the community. There is no evidence for children or 
+young people. Therefore, colchicine should not be used to treat COVID-19 in people of any 
+age. 
+Return to recommendation 
+Doxycycline 
+Recommendation 4.11.1 
+There is evidence from 1 trial in the community of doxycycline for COVID-19 in people 
+65 years and over and in people 50 years and over with comorbidities. The results suggest 
+that, compared with standard care alone, doxycycline plus standard care does not reduce 
+the risk of hospitalisation and death, admission to intensive care, the need for mechanical 
+ventilation or oxygen, or significant adverse events in these groups. The results also 
+suggest that it does not improve symptoms or recovery. 
+There is no evidence for doxycycline use in the community for COVID-19 in people under 
+65 years or people under 50 years with comorbidities. But, it is unlikely that the results in 
+these groups will differ, so the panel agreed that the recommendation applies to all age 
+groups in the community. They also noted the risks of side effects and antimicrobial 
+resistance with doxycycline. There was no evidence found for doxycycline use in hospital 
+settings. 
+Return to recommendation 
+Ivermectin 
+Recommendation 4.12.1 
+Overall, there is a high degree of uncertainty about whether ivermectin is more effective 
+than control (standard care, placebo or both) for managing COVID-19 in hospital or 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 59
+of 74
+
+community settings. The panel raised concerns about the quality of the studies on 
+ivermectin. They noted that most of the evidence is of low or very low certainty, with some 
+that is of moderate certainty. The panel also noted the uncertainty about the overall safety 
+and the possibility of rare serious adverse reactions with ivermectin. Because of the 
+uncertainty in the evidence (including small sample sizes and issues with study quality), 
+the panel agreed that ivermectin should only be used to treat COVID-19 in ongoing well-
+conducted clinical trials. The panel were aware of at least 1 ongoing trial, the results of 
+which may improve the certainty of the evidence on the effectiveness of ivermectin for 
+managing COVID-19. 
+Return to recommendation 
+Vitamin D 
+Recommendation 4.14.1 
+The panel agreed that the clinical-effectiveness evidence for vitamin D for treating 
+COVID-19 is uncertain, but suggests that there is no clear evidence of benefit. The studies 
+included diverse populations with different COVID-19 severity, and used varying dosages 
+of vitamin D and definitions of standard care. This means the evidence may not be 
+generalisable to the UK. 
+The panel noted that the daily doses used in the studies were far higher than the standard 
+doses used to prevent or treat vitamin D deficiency in the UK. They also noted that there 
+was limited evidence from the studies on the adverse effects of these doses of vitamin D. 
+The panel pointed out the potential adverse effects of a vitamin D overdose, such as 
+raised plasma and urine concentrations of calcium and phosphate, and nausea and 
+vomiting (see the BNF for more details on adverse effects). 
+The panel highlighted that existing guidance recommends taking vitamin D to maintain 
+muscle and bone health. They agreed that vitamin D is important and well established for 
+this. 
+The panel agreed that, until there is more evidence on the effects of vitamin D for treating 
+COVID-19, it should only be used for treating COVID-19 as part of a clinical trial. The panel 
+noted that the study populations did not include pregnant women or older populations 
+who may be at more risk of severe COVID-19 outcomes. They also did not include children 
+and young people under 18 years. So, they agreed that more research is also needed in 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 60
+of 74
+
+the area and made a recommendation for research on vitamin D for treating COVID-19. 
+Return to recommendation 
+Prevention and management of venous 
+thromboembolism (VTE) prophylaxis 
+In hospital 
+Recommendation 5.3.1 
+The panel agreed that all people with COVID-19 have an increased risk of VTE. Initial risk 
+assessment for these people (as soon as possible after admission or by the time of their 
+first consultant review) should focus on identifying people whose bleeding risk 
+contraindicates pharmacological VTE prophylaxis. 
+The panel agreed that a risk assessment tool published by a national UK body, 
+professional body or peer-reviewed journal should be prioritised for use. 
+Recommendation 5.3.2 and 5.3.3 
+The panel agreed that a standard prophylactic dose of a low molecular weight heparin 
+(LMWH) should be offered as soon as possible to manage the risk of VTE based on current 
+standard practice. Following standard prophylactic dose administration on admission, a 
+more detailed assessment should be done to see whether people should be offered a 
+treatment dose or not. 
+The panel also noted that people who are discharged early (before 7 days) could be at risk 
+of clots. They emphasised the importance of continuing treatment after discharge until 
+7 days has passed to ensure people have had a full dose of an LMWH. The treatment 
+duration comes from NICE's guideline on VTE in over 16s. The panel also made a 
+recommendation for research on the effectiveness and safety of extended VTE 
+prophylaxis after discharge from hospital. 
+Recommendation 5.3.4 and 5.3.5 
+The panel agreed that some young people and adults with COVID-19 who need low-flow 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 61 of
+74
+
+oxygen supplementation may benefit from a treatment dose of an LMWH. The evidence 
+suggests that a treatment dose of an LMWH for adults with COVID-19 who are in hospital 
+and needing low-flow oxygen supplementation may reduce the risk of death and need for 
+organ support compared with a standard prophylactic dose. It also suggests an increased 
+risk in major bleeding compared with a standard prophylactic dose. Because of the fine 
+balance of benefits and harms, the panel agreed that this decision should be carefully 
+considered, and that this choice should be guided by bleeding risk, clinical judgement and 
+local protocols. 
+The treatment duration in the largest included trial was 14 days or until discharge, 
+whichever was sooner. The panel thought that the timeframe for treatment should reflect 
+the trial evidence. 
+The panel noted an absence of evidence for anticoagulation in children. They recognised 
+that younger children have different haematological physiology, meaning that VTE is less 
+likely. However, their clinical experience suggested that, after puberty, people under 
+18 years are also at risk of VTE if admitted to hospital with COVID-19. For that reason, the 
+panel included young people in the recommendations as well as adults and made a 
+recommendation for research for this population. 
+Recommendation 5.3.6 
+Based on the lack of clear benefit with intermediate- or treatment-dose anticoagulation, 
+the panel concluded that young people and adults with severe COVID-19 should be 
+offered standard prophylactic-dose anticoagulation. They also concluded that 
+intermediate- or treatment-dose VTE prophylaxis should only be used as part of a clinical 
+trial. 
+The panel were aware of ongoing trials of LMWHs that use intermediate or treatment 
+doses in this group of people, including REMAP-CAP. They agreed that intermediate- or 
+treatment- dose LMWHs should only be used for VTE prophylaxis in this group as part of a 
+clinical trial to support recruitment into these trials. 
+Recommendation 5.3.7 
+The panel agreed that D-dimer levels do not influence people's response to 
+anticoagulation. 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 62
+of 74
+
+Recommendation 5.3.8 
+This recommendation was adapted from the original NICE rapid guideline on reducing the 
+risk of VTE in over 16s with COVID-19 (now withdrawn) that considered intermediate 
+doses in this population. In its development, the panel indicated that dose adjustments 
+may be needed for people at extremes of body weight and those with renal impairment. To 
+ensure that everyone gets an appropriate dose, the panel included dose adjustment in 
+their recommendation. They added that summary of product characteristics and local 
+protocols should be used to guide decisions on dose adjustment. 
+Return to recommendation 5.3.8 
+Acute care in the community 
+Recommendation 5.3.14 
+There was no evidence to inform recommendations on reducing the risk of VTE in people 
+with COVID-19 pneumonia managed in hospital-led acute care in the community settings 
+with input from hospital clinicians, such as 'hospital-at-home' services or COVID-19 'virtual 
+wards'. People whose condition is managed in these settings have an increased risk of VTE 
+similar to that of people being treated in hospital. The panel therefore included a 
+recommendation to consider pharmacological VTE prophylaxis for these people to ensure 
+that they have the same care as those admitted to hospital. 
+The panel also made a recommendation for research on extending pharmacological VTE 
+prophylaxis after discharge in people who have had treatment for COVID-19 pneumonia. 
+Return to recommendation 
+Additional risk factors 
+Recommendations 5.3.15 and 5.3.16 
+The panel noted the lack of evidence on pharmacological VTE prophylaxis for people with 
+COVID-19 and additional risk factors. They agreed that VTE risk in women with COVID-19 
+who are pregnant or have given birth in the past 6 weeks should be managed in line with 
+advice on COVID-19 in pregnancy published by the Royal College of Obstetricians and 
+Gynaecologists. 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 63
+of 74
+
+There was no evidence on pharmacological VTE prophylaxis for specific groups with 
+additional risk factors for VTE, including people who are having treatment with sex 
+hormones, have or have previously had cancer, are having renal replacement therapy or 
+extracorporeal membrane oxygenation, have a clotting condition or history of VTE, or have 
+obesity (body mass index 30 kg/m or higher). The panel made a recommendation for 
+research on standard-dose compared with intermediate-dose pharmacological VTE 
+prophylaxis in people with COVID-19 who have additional risk factors for VTE. 
+Return to recommendations 
+Diagnosing and treating COVID-19-associated 
+pulmonary aspergillosis (CAPA) 
+Diagnosing CAPA 
+Recommendation 6.3.1 
+The panel agreed that the evidence was not strong enough to recommend specific factors 
+that increase the risk of CAPA so the panel made a recommendation for research to 
+identify risk factors associated with developing CAPA. They noted the importance of 
+multidisciplinary decision making and using local protocols when deciding whether to 
+suspect CAPA. 
+Recommendation 6.3.2 
+Because the incidence of CAPA is low, there is a lack of evidence on how to diagnose the 
+condition. Also, there are no specific combinations of signs and symptoms for diagnosing 
+it. The panel concluded that the likelihood of CAPA should be considered when deciding 
+whether to do diagnostic tests. 
+Recommendation 6.3.3 
+There is a lack of evidence on diagnosing CAPA, including on what diagnostic tests to use, 
+how frequently to test and the diagnostic value of the different investigations so the panel 
+made a recommendation for research to identify the most accurate testing for CAPA. The 
+panel noted that using a range of tests, including bronchoalveolar lavage (BAL), follows 
+current best practice recommended in a taskforce report by Verweij et al. (2021) on 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 64
+of 74
+
+diagnosing and managing CAPA. 
+Because BAL is an invasive procedure, it is important that any benefits or harms are 
+considered before using it to investigate CAPA. The panel noted that BAL may not always 
+be suitable or feasible and made a recommendation for research on people's views and 
+experiences on available testing for CAPA. They agreed that other tests could be used 
+instead of BAL, such as serological assays, non-bronchoscopic lavage or endotracheal 
+aspirates. 
+Recommendation 6.3.4 
+In clinical practice, microbiological investigations can be used to assess antifungal 
+resistance of isolates cultured from test samples. The panel noted the importance of 
+testing for azole resistance to support clinical management decisions and ensure that 
+suitable antifungal treatments are used. They agreed that treatment can be started before 
+test results are confirmed, but should be reviewed when test results are available. 
+See the British Society for Medical Mycology's guidance on therapeutic drug monitoring of 
+antifungal agents. 
+Recommendation 6.3.5 
+The panel noted that results of laboratory tests, in particular fungal antigen tests, are 
+needed to diagnose CAPA. They also noted that if test results are not timely, there could 
+be a delay in treatment, or people could have treatments that they do not need. They 
+highlighted the importance of having test results available in an appropriate timeframe to 
+support clinical decision making and to improve people's outcomes. 
+Recommendation 6.3.6 
+There is a lack of evidence on the tests used to diagnose CAPA and on treatments for 
+CAPA in people who are critically ill and have, or have had, COVID-19 as part of their acute 
+illness. So, the panel agreed that local protocols should be developed to collect more 
+information on the current prevalence of CAPA and practices for diagnosing and managing 
+the condition. 
+Return to recommendations 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 65
+of 74
+
+Treating CAPA 
+Recommendation 6.3.7 
+The panel noted that there are risks with antifungal treatments for CAPA, including 
+antifungal resistance and adverse effects. They agreed that treatment should only be 
+started if investigations support a diagnosis of CAPA, or a multidisciplinary team agrees to 
+start treatment. 
+Recommendation 6.3.8 
+The panel noted the lack of evidence on treatments for CAPA and decided to make a 
+recommendation for research on antifungal treatments for CAPA. They agreed that 
+treatment decisions, including on when to start treatment, should be guided by advice 
+from infection specialists, and in line with local protocols and best practice guidelines. The 
+panel noted that the evidence provided limited insights on the benefits or harms of 
+antifungals so made a recommendation for research on the outcomes for people with 
+CAPA. The panel also made a recommendation for research on people's views and 
+experiences on treatments for CAPA. 
+For information on monitoring antifungal treatments, see the British Society for Medical 
+Mycology's guidance on therapeutic drug monitoring of antifungal agents. 
+The panel noted the importance of national antifungal stewardship guidance, such as 
+NICE's guideline on antimicrobial stewardship 
+Recommendation 6.3.9 
+The panel noted the importance of good antifungal stewardship for reducing the risk of 
+adverse effects and antifungal resistance, particularly when treatment is started before 
+diagnosis is confirmed. They wanted to ensure that antifungal treatment would be stopped 
+when investigations do not support a diagnosis of CAPA. However, the panel were aware 
+that interpreting diagnostic test results and confirming a diagnosis of CAPA can be 
+challenging. So, they recommended a multidisciplinary approach when deciding whether 
+to stop treatment. 
+Return to recommendations 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 66
+of 74
+
+Finding more information and expert 
+advisory panel details 
+To find NICE guidance on related topics, including guidance in development, see the NICE 
+topic page on COVID-19. 
+For full details of the evidence and the expert advisory panel's discussions, see the 
+evidence reviews. You can also find information about how the guideline was developed, 
+including details of the committee. 
+NICE has produced tools and resources to help you put this guideline into practice. For 
+general help and advice on putting our guidelines into practice, see resources to help you 
+put NICE guidance into practice. 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 67
+of 74
+
+Update information 
+1 May 2025 
+We amended the recommendation on nirmatrelvir plus ritonavir in line with NICE's 
+technology appraisal guidance on nirmatrelvir plus ritonavir, sotrovimab and tocilizumab 
+for treating COVID-19. See the technology appraisal's update information section for 
+details. 
+8 May 2024 
+We updated the guidance on remdesivir and added a new recommendation on 
+tixagevimab plus cilgavimab in line with NICE's technology appraisal guidance on 
+remdesivir and tixagevimab plus cilgavimab for treating COVID-19. 
+13 March 2024 
+We updated the recommendation on nirmatrelvir plus ritonavir to include additional groups 
+eligible for treatment (people with diabetes, obesity or heart failure, or people aged 70 
+years or older). We have included a link to the funding variation as set out in NICE's 
+technology appraisal guidance on nirmatrelvir plus ritonavir, sotrovimab and tocilizumab. 
+We removed the recommendation on casirivimab plus imdevimab because the conditional 
+marketing authorisation for casirivimab plus imdevimab for treating COVID-19 was 
+withdrawn. 
+We clarified the wording of recommendation 1.1.4 by removing reference to isolation. 
+25 January 2024 
+We made editorial changes to ensure recommendations reflect the current context for 
+COVID-19, including updating recommendation 1.1.4 to reflect that isolation is no longer 
+mandatory. We transferred the guideline recommendations, evidence reviews and 
+supporting information from the MAGICapp platform to the NICE website, changing the 
+presentation. 
+30 November 2023 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 68
+of 74
+
+We replaced 2 recommendations on managing acute cough with a link to the NICE 
+guideline on cough (acute): antimicrobial prescribing. 
+We removed the recommendation to consider benzodiazepine for managing anxiety or 
+agitation because health system support for people with COVID-19 has changed 
+significantly since the guideline was developed. 
+We removed the recommendations on medicines for end of life care because these are 
+covered by the NICE guidelines on care of dying adults in the last days of life, end of life 
+care for adults: service delivery and care and support of people growing older with 
+learning disabilities, which are already linked from this guideline. 
+22 June 2023 
+We updated the recommendations on nirmatrelvir plus ritonavir and sotrovimab to link to 
+section 5 of NICE's technology appraisal guidance on casirivimab plus imdevimab, 
+nirmatrelvir plus ritonavir, sotrovimab and tocilizumab. The linked section provides 
+supporting information on risk factors for progression to severe COVID-19 provided by the 
+independent advisory group commissioned by the Department of Health and Social Care. 
+29 March 2023 
+We updated the recommendations on casirivimab plus imdevimab for people in hospital 
+because of COVID-19, nirmatrelvir plus ritonavir and tocilizumab. We replaced the 
+recommendations on neutralising monoclonal antibodies for people not in hospital with a 
+recommendation on sotrovimab. The clinical and cost effectiveness of these therapeutics 
+was reviewed through the NICE multiple technology process. For more information, see 
+NICE's technology appraisal guidance on casirivimab plus imdevimab, nirmatrelvir plus 
+ritonavir, sotrovimab and tocilizumab. 
+We replaced 2 recommendations on baricitinib with 1 updated recommendation to clarify 
+how it should be used. We updated recommendations on remdesivir to account for an 
+extension to the marketing authorisation to include the paediatric population. 
+We removed the recommendation on sarilumab, which was for off-label use of sarilumab 
+because it is not licensed for use in COVID-19. This recommendation has been superseded 
+by NICE's technology appraisal guidance on casirivimab plus imdevimab, nirmatrelvir plus 
+ritonavir, sotrovimab and tocilizumab for people with COVID-19, which recommends 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 69
+of 74
+
+tocilizumab. 
+14 July 2022 
+We updated recommendations on using remdesivir in hospital, and added a 
+recommendation on vitamin D for treating COVID-19. 
+15 June 2022 
+We updated the recommendation on ivermectin. 
+19 May 2022 
+We replaced 2 recommendations about advice to give to people with COVID-19 with a 
+single recommendation linking to the UK Health Security Agency's guidance for people 
+with symptoms of a respiratory infection including COVID-19, which now provides this 
+information. We deleted the recommendation for people with pre-existing advanced 
+comorbidities because finding out if whether they have advance care plans or advance 
+decisions to refuse treatment, is part of routine care. We also added a link to the UK 
+Government's information on the COVID-19 vaccination programme to the section on 
+discharge, follow-up and rehabilitation. 
+6 May 2022 
+We added new recommendations on baricitinib. 
+13 April 2022 
+We added a new recommendation on nirmatrelvir and ritonavir (Paxlovid) for people at 
+high risk of progression to severe COVID-19. 
+30 March 2022 
+We updated existing recommendations on casirivimab and imdevimab for people 
+hospitalised because of COVID-19. 
+10 March 2022 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 70
+of 74
+
+We added a new recommendation on awake prone positioning and updated existing 
+recommendations on non-invasive respiratory support. 
+23 February 2022 
+We added recommendations on molnupiravir and remdesivir for people with COVID-19 
+who do not need supplemental oxygen. 
+27 January 2022 
+We added recommendations on neutralising monoclonal antibodies for people with 
+COVID-19 who are not in hospital. 
+16 December 2021 
+We added new recommendations on COVID-19-associated pulmonary aspergillosis. We 
+revised our statement about the Omicron variant in the recommendation on casirivimab 
+and imdevimab. 
+14 December 2021 
+We added a statement to the recommendation on casirivimab and imdevimab about the 
+Omicron variant. 
+1 December 2021 
+We updated existing recommendations on colchicine. 
+22 November 2021 
+We added a new recommendation on ivermectin. 
+3 November 2021 
+We added a new recommendation on inhaled budesonide and updated the 
+recommendations on casirivimab and imdevimab, clarifying that these recommendations 
+apply to people who are hospitalised because of COVID-19. 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 71 of
+74
+
+27 October 2021 
+We updated existing recommendations on tocilizumab and sarilumab. 
+4 October 2021 
+We added new recommendations on casirivimab and imdevimab. We have also updated 
+our supporting evidence on the use of heparins with the peer-reviewed REMAP-CAP trial 
+results. This update does not change our current recommendations. 
+2 September 2021 
+We added new recommendations on non-invasive respiratory support and doxycycline, 
+and updated existing recommendations on heparins. 
+10 August 2021 
+We corrected an error in the dosage information on corticosteroids. The dose of 
+prednisolone for children with a greater than 44-week corrected gestational age is 1 mg/
+kg. 
+We made minor changes to: 
+ clarify that NHS England's Interim Clinical Commissioning Policy on remdesivir for 
+patients hospitalised with COVID-19 was updated in June 2021 to include eligibility 
+criteria for people who are significantly immunocompromised 
+ update hyperlinks in the recommendations on communication and shared decision 
+making. 
+3 June 2021 
+We added new recommendations on azithromycin to treat COVID-19. 
+27 May 2021 
+We added new recommendations on colchicine to treat COVID-19 and updated existing 
+recommendations on remdesivir for COVID-19 pneumonia. 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 72
+of 74
+
+We made a minor change to our recommendation on using pulse oximetry to identify 
+people with severe COVID-19 in primary and community care settings to clarify that the 
+NHS England guide should be followed for adults. 
+8 April 2021 
+We added recommendations for using corticosteroids, tocilizumab and sarilumab to treat 
+COVID-19 (including the evidence and rationale for making the recommendations). 
+This updates and replaces our COVID-19 rapid evidence summaries on: 
+ remdesivir for treating hospitalised patients with suspected or confirmed COVID-19 
+(ES27, published 5 June 2020) 
+ tocilizumab for COVID-19 (ES33, published 15 January 2021, last updated 24 February 
+2021) 
+ sarilumab for COVID-19 (ES34, published 20 January 2021). 
+23 March 2021 
+This guideline updates and replaces our COVID-19 rapid guidelines on: 
+ critical care in adults (NG159, published 20 March 2020, last updated 12 February 
+2021) 
+ managing symptoms (including at the end of life) in the community (NG163, published 
+03 April 2020, last updated 13 October 2020) 
+ managing suspected or confirmed pneumonia in adults in the community (NG165, 
+published 03 April 2020, last updated 23 April 2020) 
+ acute myocardial injury (NG171, published 23 April 2020) 
+ antibiotics for pneumonia in adults in hospital (NG173, published 01 May 2020, last 
+updated 09 October 2020) 
+ acute kidney injury in hospital (NG175, published 06 May 2020) 
+ reducing the risk of venous thromboembolism in over 16s with COVID-19 (NG186, 
+published 20 November 2020). 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 73
+of 74
+
+The guideline includes new recommendations on the use of therapeutics for people with 
+COVID-19. 
+Minor changes since publication 
+26 February 2026: We updated links to relevant technology appraisal guidance in the 
+section on therapeutics for COVID-19. We removed the recommendation on casirivimab 
+plus imdevimab because the conditional marketing authorisation for casirivimab plus 
+imdevimab for treating COVID-19 was withdrawn. 
+19 November 2025: We updated the link in recommendation 6.2.7 to NICE's guidelines on 
+suspected sepsis in under 16s, people aged 16 or over and people who are or have 
+recently been pregnant, which partially replaced the previous NICE guideline on suspected 
+sepsis. 
+11 July 2023: We updated links to the new NHS interim policy in the recommendations on 
+remdesivir and molnupiravir. 
+22 June 2023: We updated hyperlinks to other sources in the recommendations on 
+nirmatrelvir and ritonavir, and sotrovimab. 
+06 April 2023: We updated hyperlinks to other sources in the recommendations on 
+nirmatrelvir and ritonavir, and sotrovimab. 
+27 July 2022: We amended section 6.2 to clarify that it covers tests for identifying other 
+causes of pneumonia as well as bacterial. 
+22 July 2021: We added a cross-reference to the Renal Association's guidelines on renal 
+replacement therapy for critically unwell adults for information on managing renal 
+replacement therapy for adults who are critically unwell with COVID-19. 
+ISBN: 978-1-4731-6130-6 
+COVID-19 rapid guideline: managing COVID-19 (NG191)
+ NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 74 of
+74
